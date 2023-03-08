@@ -2,11 +2,11 @@
 #///////////////////////////
 # Cocos Creator 3D Project
 #///////////////////////////
-library/
-temp/
+#library/
+#temp/
 local/
 build/
-profiles/
+#profiles/
 native
 #//////////////////////////
 # NPM
@@ -22,3 +22,6 @@ node_modules/
 # WebStorm
 #//////////////////////////
 .idea/
+
+yarn.lock
+package-lock.json

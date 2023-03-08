@@ -1,0 +1,82 @@
+{
+  "/Users/zuno/Desktop/ZUNO/coco-poker/assets/images.meta": {
+    "time": 1678267886815.6667
+  },
+  "/Users/zuno/Desktop/ZUNO/coco-poker/assets/images": {
+    "time": 1678268417287.6262,
+    "uuid": "65eecc5f-a57f-4ee1-85c4-ddbdee649e17",
+    "missing": false
+  },
+  "/Users/zuno/Desktop/ZUNO/coco-poker/assets/images/GirlBanker.png.meta": {
+    "time": 1678268204634.0867
+  },
+  "/Users/zuno/Desktop/ZUNO/coco-poker/assets/images/GirlBanker.png": {
+    "time": 1678268204563.2966,
+    "uuid": "265eadaa-a37a-492c-9bcf-1e291a9b5ca8",
+    "missing": false
+  },
+  "/Users/zuno/Desktop/ZUNO/coco-poker/assets/images/TableRoom.png.meta": {
+    "time": 1678268228394.842
+  },
+  "/Users/zuno/Desktop/ZUNO/coco-poker/assets/images/TableRoom.png": {
+    "time": 1678268227100.0303,
+    "uuid": "8ce7b3a6-375b-4c23-9817-e205ea27132c",
+    "missing": false
+  },
+  "/Users/zuno/Desktop/ZUNO/coco-poker/assets/images/BackgroundRoom.png.meta": {
+    "time": 1678268254351.4695
+  },
+  "/Users/zuno/Desktop/ZUNO/coco-poker/assets/images/BackgroundRoom.png": {
+    "time": 1678268253412.0356,
+    "uuid": "1308ce5a-ce82-42e6-bb8e-6770a4a83a7e",
+    "missing": false
+  },
+  "/Users/zuno/Desktop/ZUNO/coco-poker/assets/animations.meta": {
+    "time": 1678268399863.5264
+  },
+  "/Users/zuno/Desktop/ZUNO/coco-poker/assets/animations": {
+    "time": 1678268489200.5286,
+    "uuid": "29deb783-a897-471a-8f24-cf1315b0ed62",
+    "missing": false
+  },
+  "/Users/zuno/Desktop/ZUNO/coco-poker/assets/images/A♥.png.meta": {
+    "time": 1678268417345.6443
+  },
+  "/Users/zuno/Desktop/ZUNO/coco-poker/assets/images/A♥.png": {
+    "time": 1678268417285.796,
+    "uuid": "20160287-9061-4d47-84b7-cfd067b001e2",
+    "missing": false
+  },
+  "/Users/zuno/Desktop/ZUNO/coco-poker/assets/animations/slide.anim.meta": {
+    "time": 1678268489205.8008
+  },
+  "/Users/zuno/Desktop/ZUNO/coco-poker/assets/animations/slide.anim": {
+    "time": 1678270712699.588,
+    "uuid": "924c29ca-87ce-4c50-828c-7ca7d38df2fd",
+    "missing": false
+  },
+  "/Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts.meta": {
+    "time": 1678268730772.5828
+  },
+  "/Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts": {
+    "time": 1678269055038.993,
+    "uuid": "25f984af-0011-4b65-bcf5-9e461e979cff",
+    "missing": false
+  },
+  "/Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/Login.ts.meta": {
+    "time": 1678269055041.4524
+  },
+  "/Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/Login.ts": {
+    "time": 1678269323436.8635,
+    "uuid": "91d97c05-b360-44e2-9cbc-81fbb90510dd",
+    "missing": false
+  },
+  "/Users/zuno/Desktop/ZUNO/coco-poker/assets/main.scene": {
+    "time": 1678270720350.7527,
+    "uuid": "78911f8a-d1bf-49d8-bfbb-2651d017a8b0",
+    "missing": false
+  },
+  "/Users/zuno/Desktop/ZUNO/coco-poker/assets/main.scene.meta": {
+    "time": 1678270720352.109
+  }
+}

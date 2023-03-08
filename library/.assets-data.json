@@ -1,0 +1,127 @@
+{
+  "65eecc5f-a57f-4ee1-85c4-ddbdee649e17": {
+    "url": "db://assets/images",
+    "value": {}
+  },
+  "265eadaa-a37a-492c-9bcf-1e291a9b5ca8": {
+    "url": "db://assets/images/GirlBanker.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "265eadaa-a37a-492c-9bcf-1e291a9b5ca8@6c48a": {
+    "url": "db://assets/images/GirlBanker.png@6c48a",
+    "value": {
+      "depends": [
+        "265eadaa-a37a-492c-9bcf-1e291a9b5ca8"
+      ]
+    }
+  },
+  "265eadaa-a37a-492c-9bcf-1e291a9b5ca8@f9941": {
+    "url": "db://assets/images/GirlBanker.png@f9941",
+    "value": {
+      "depends": [
+        "265eadaa-a37a-492c-9bcf-1e291a9b5ca8@6c48a"
+      ]
+    }
+  },
+  "8ce7b3a6-375b-4c23-9817-e205ea27132c": {
+    "url": "db://assets/images/TableRoom.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "8ce7b3a6-375b-4c23-9817-e205ea27132c@6c48a": {
+    "url": "db://assets/images/TableRoom.png@6c48a",
+    "value": {
+      "depends": [
+        "8ce7b3a6-375b-4c23-9817-e205ea27132c"
+      ]
+    }
+  },
+  "8ce7b3a6-375b-4c23-9817-e205ea27132c@f9941": {
+    "url": "db://assets/images/TableRoom.png@f9941",
+    "value": {
+      "depends": [
+        "8ce7b3a6-375b-4c23-9817-e205ea27132c@6c48a"
+      ]
+    }
+  },
+  "1308ce5a-ce82-42e6-bb8e-6770a4a83a7e": {
+    "url": "db://assets/images/BackgroundRoom.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "1308ce5a-ce82-42e6-bb8e-6770a4a83a7e@6c48a": {
+    "url": "db://assets/images/BackgroundRoom.png@6c48a",
+    "value": {
+      "depends": [
+        "1308ce5a-ce82-42e6-bb8e-6770a4a83a7e"
+      ]
+    }
+  },
+  "1308ce5a-ce82-42e6-bb8e-6770a4a83a7e@f9941": {
+    "url": "db://assets/images/BackgroundRoom.png@f9941",
+    "value": {
+      "depends": [
+        "1308ce5a-ce82-42e6-bb8e-6770a4a83a7e@6c48a"
+      ]
+    }
+  },
+  "29deb783-a897-471a-8f24-cf1315b0ed62": {
+    "url": "db://assets/animations",
+    "value": {}
+  },
+  "20160287-9061-4d47-84b7-cfd067b001e2": {
+    "url": "db://assets/images/A♥.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "20160287-9061-4d47-84b7-cfd067b001e2@6c48a": {
+    "url": "db://assets/images/A♥.png@6c48a",
+    "value": {
+      "depends": [
+        "20160287-9061-4d47-84b7-cfd067b001e2"
+      ]
+    }
+  },
+  "20160287-9061-4d47-84b7-cfd067b001e2@f9941": {
+    "url": "db://assets/images/A♥.png@f9941",
+    "value": {
+      "depends": [
+        "20160287-9061-4d47-84b7-cfd067b001e2@6c48a"
+      ]
+    }
+  },
+  "924c29ca-87ce-4c50-828c-7ca7d38df2fd": {
+    "url": "db://assets/animations/slide.anim",
+    "value": {
+      "depends": []
+    }
+  },
+  "25f984af-0011-4b65-bcf5-9e461e979cff": {
+    "url": "db://assets/scripts",
+    "value": {}
+  },
+  "91d97c05-b360-44e2-9cbc-81fbb90510dd": {
+    "url": "db://assets/scripts/Login.ts",
+    "value": {}
+  },
+  "78911f8a-d1bf-49d8-bfbb-2651d017a8b0": {
+    "url": "db://assets/main.scene",
+    "value": {
+      "depends": [
+        "c77ecaa8-c936-46c4-a5b0-98692673ed87",
+        "1308ce5a-ce82-42e6-bb8e-6770a4a83a7e@f9941",
+        "57520716-48c8-4a19-8acf-41c9f8777fb0@f9941",
+        "8ce7b3a6-375b-4c23-9817-e205ea27132c@f9941",
+        "265eadaa-a37a-492c-9bcf-1e291a9b5ca8@f9941",
+        "20160287-9061-4d47-84b7-cfd067b001e2@f9941",
+        "924c29ca-87ce-4c50-828c-7ca7d38df2fd",
+        "924c29ca-87ce-4c50-828c-7ca7d38df2fd"
+      ]
+    }
+  }
+}

@@ -1,0 +1,98 @@
+2023-03-08T10:34:15.022Z - verbose: Arguments:
+2023-03-08T10:34:15.022Z - verbose:   /Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/MacOS/CocosCreator: true
+2023-03-08T10:34:15.022Z - verbose:   project: /Users/zuno/Desktop/ZUNO/coco-poker
+2023-03-08T10:34:15.022Z - verbose:   dev: false
+2023-03-08T10:34:15.022Z - verbose:   home: /Users/zuno/.CocosCreator
+2023-03-08T10:34:15.022Z - verbose:  
+2023-03-08T10:34:19.304Z - verbose: [Package] menu@1.0.0 enable
+2023-03-08T10:34:19.306Z - verbose: [Package] profile@1.0.0 enable
+2023-03-08T10:34:19.315Z - verbose: [Package] project@1.0.4 enable
+2023-03-08T10:34:19.320Z - verbose: [Package] messages@1.0.0 enable
+2023-03-08T10:34:19.334Z - verbose: [Package] program@1.0.3 enable
+2023-03-08T10:34:19.338Z - verbose: [Package] tester@1.0.0 enable
+2023-03-08T10:34:19.339Z - verbose: [Package] information@1.0.0 enable
+2023-03-08T10:34:19.342Z - verbose: [Package] preferences@1.0.0 enable
+2023-03-08T10:34:21.071Z - log: Load engine in /Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine
+2023-03-08T10:34:21.346Z - log: Profile changed: engine (modules.includeModules: 2d,animation,audio,base,dragon-bones,gfx-webgl,gfx-webgl2,intersection-2d,light-probe,particle-2d,physics-2d-box2d,profiler,spine,tiled-map,tween,ui,video,websocket,webview)
+2023-03-08T10:34:21.349Z - log: Register native engine in /Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/native
+2023-03-08T10:34:21.351Z - verbose: [Package] engine@1.0.7 enable
+2023-03-08T10:34:21.989Z - verbose: [Package] programming@1.0.0 enable
+2023-03-08T10:34:21.992Z - verbose: [Package] device@1.0.1 enable
+2023-03-08T10:34:21.995Z - verbose: [Package] ui-kit@1.0.1 enable
+2023-03-08T10:34:22.055Z - verbose: [Package] asset-db@1.0.0 enable
+2023-03-08T10:34:22.084Z - verbose: [Package] scene@1.0.0 enable
+2023-03-08T10:34:22.179Z - verbose: [Package] server@1.0.0 enable
+2023-03-08T10:34:22.206Z - verbose: [Package] utils@1.0.0 enable
+2023-03-08T10:34:25.130Z - verbose: [Package] preview@1.0.1 enable
+2023-03-08T10:34:25.158Z - verbose: [Package] animator@1.0.0 enable
+2023-03-08T10:34:25.265Z - verbose: [Build-plugin] register pkg scene: 1ms
+2023-03-08T10:34:25.265Z - verbose: Builder PluginManager init: 1ms
+2023-03-08T10:34:25.269Z - verbose: [Package] builder@1.3.4 enable
+2023-03-08T10:34:25.297Z - verbose: [Package] shortcuts@1.0.1 enable
+2023-03-08T10:34:25.323Z - verbose: [Package] animation-graph@1.0.0 enable
+2023-03-08T10:34:25.349Z - verbose: [Package] about@1.0.0 enable
+2023-03-08T10:34:25.375Z - verbose: [Package] assets@1.0.0 enable
+2023-03-08T10:34:25.402Z - verbose: [Package] console@1.0.0 enable
+2023-03-08T10:34:25.547Z - verbose: [Package] crash-reporter@1.0.0 enable
+2023-03-08T10:34:25.713Z - verbose: [Package] extension@3.1.0 enable
+2023-03-08T10:34:25.738Z - verbose: [Package] hierarchy@1.0.0 enable
+2023-03-08T10:34:25.767Z - verbose: [Package] inspector@1.0.0 enable
+2023-03-08T10:34:25.793Z - verbose: [Package] light-probe@1.0.4 enable
+2023-03-08T10:34:25.821Z - verbose: [Package] lightmap@1.0.4 enable
+2023-03-08T10:34:25.850Z - verbose: [Package] node-library@1.0.1 enable
+2023-03-08T10:34:25.874Z - verbose: [Package] package-asset@1.0.1 enable
+2023-03-08T10:34:25.905Z - verbose: [Package] process@1.0.0 enable
+2023-03-08T10:34:25.933Z - verbose: [Package] reference-image@1.0.0 enable
+2023-03-08T10:34:25.960Z - verbose: [Package] reflection-probe@1.0.4 enable
+2023-03-08T10:34:25.985Z - verbose: [Package] engine-extends@1.0.0 enable
+2023-03-08T10:34:26.012Z - verbose: [Package] alipay-mini-game@1.0.1 enable
+2023-03-08T10:34:26.034Z - verbose: [Package] android@1.0.1 enable
+2023-03-08T10:34:26.078Z - verbose: [Package] bytedance-mini-game@1.0.2 enable
+2023-03-08T10:34:26.102Z - verbose: [Package] certificate@1.0.0 enable
+2023-03-08T10:34:26.123Z - verbose: [Package] channel-upload-tools@1.0.0 enable
+2023-03-08T10:34:26.148Z - verbose: [Package] fb-instant-games@1.0.0 enable
+2023-03-08T10:34:26.175Z - verbose: [Package] huawei-agc@1.0.0 enable
+2023-03-08T10:34:26.202Z - verbose: [Package] huawei-quick-game@1.0.1 enable
+2023-03-08T10:34:26.767Z - verbose: [Package] ios@1.0.0 enable
+2023-03-08T10:34:26.774Z - verbose: [Build-plugin] register pkg android: 739ms
+2023-03-08T10:34:26.774Z - verbose: [Build-plugin] register pkg bytedance-mini-game: 696ms
+2023-03-08T10:34:26.793Z - verbose: [Package] linux@1.0.0 enable
+2023-03-08T10:34:26.818Z - verbose: [Package] mac@1.0.0 enable
+2023-03-08T10:34:26.883Z - verbose: [Package] native@1.0.2 enable
+2023-03-08T10:34:26.904Z - verbose: [Build-plugin] register pkg native: 21ms
+2023-03-08T10:34:26.909Z - verbose: [Package] ohos@1.0.0 enable
+2023-03-08T10:34:26.931Z - verbose: [Package] open-harmonyos@1.0.0 enable
+2023-03-08T10:34:26.956Z - verbose: [Package] oppo-mini-game@1.0.1 enable
+2023-03-08T10:34:26.974Z - verbose: [Build-plugin] register pkg huawei-agc: 799ms
+2023-03-08T10:34:26.979Z - verbose: [Package] runtime-dev-tools@1.0.0 enable
+2023-03-08T10:34:26.980Z - verbose: [Build-plugin] register pkg fb-instant-games: 832ms
+2023-03-08T10:34:27.002Z - verbose: [Package] taobao-creative-app@1.0.0 enable
+2023-03-08T10:34:27.025Z - verbose: [Package] vivo-mini-game@1.0.1 enable
+2023-03-08T10:34:27.059Z - verbose: [Package] web-desktop@1.0.1 enable
+2023-03-08T10:34:27.074Z - verbose: asset-db is ready!
+2023-03-08T10:34:27.086Z - verbose: [Package] web-mobile@1.0.1 enable
+2023-03-08T10:34:27.111Z - verbose: [Package] wechatgame@1.0.2 enable
+2023-03-08T10:34:27.114Z - verbose: [Build-plugin] register pkg huawei-quick-game: 912ms
+2023-03-08T10:34:27.135Z - verbose: [Package] windows@1.0.1 enable
+2023-03-08T10:34:27.157Z - verbose: [Package] xiaomi-quick-game@1.0.1 enable
+2023-03-08T10:34:27.171Z - verbose: [Build-plugin] register pkg ohos: 262ms
+2023-03-08T10:34:27.292Z - verbose: [Package] cocos-service@3.0.5 enable
+2023-03-08T10:34:27.313Z - verbose: [Build-plugin] register pkg cocos-service: 20ms
+2023-03-08T10:34:27.314Z - verbose: [Build-plugin] register pkg ios: 547ms
+2023-03-08T10:34:27.316Z - verbose: [Build-plugin] register pkg mac: 498ms
+2023-03-08T10:34:27.317Z - verbose: [Build-plugin] register pkg oppo-mini-game: 361ms
+2023-03-08T10:34:27.443Z - verbose: [Package] im-plugin@3.0.10 enable
+2023-03-08T10:34:27.446Z - verbose: [Build-plugin] register pkg taobao-creative-app: 444ms
+2023-03-08T10:34:27.447Z - verbose: [Build-plugin] register pkg web-mobile: 361ms
+2023-03-08T10:34:27.448Z - verbose: [Build-plugin] register pkg vivo-mini-game: 423ms
+2023-03-08T10:34:27.463Z - verbose: [Build-plugin] register pkg web-desktop: 404ms
+2023-03-08T10:34:27.467Z - verbose: [Package] placeholder@1.0.0 enable
+2023-03-08T10:34:27.523Z - verbose: [Build-plugin] register pkg wechatgame: 412ms
+2023-03-08T10:34:27.533Z - verbose: [Build-plugin] register pkg windows: 398ms
+2023-03-08T10:34:27.645Z - verbose: [Build-plugin] register pkg xiaomi-quick-game: 488ms
+2023-03-08T10:34:29.326Z - info: [Scene] [Physics][Bullet]: Using asmjs Bullet libs.
+2023-03-08T10:34:29.331Z - info: [Scene] [PHYSICS]: using builtin.
+2023-03-08T10:34:29.414Z - log: [Scene] Cocos Creator v3.7.1
+2023-03-08T10:34:29.415Z - info: [Scene] Forward render pipeline initialized.
+2023-03-08T10:34:29.476Z - info: [Scene] [PHYSICS2D]: switch from builtin to box2d.
+2023-03-08T10:36:50.041Z - warn: Metrics: no valid info
