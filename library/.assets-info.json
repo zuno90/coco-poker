@@ -78,5 +78,109 @@
   },
   "/Users/zuno/Desktop/ZUNO/coco-poker/assets/main.scene.meta": {
     "time": 1678270720352.109
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/animations": {
+    "time": 1678350071362.351,
+    "uuid": "29deb783-a897-471a-8f24-cf1315b0ed62",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/images": {
+    "time": 1678350071389.5117,
+    "uuid": "65eecc5f-a57f-4ee1-85c4-ddbdee649e17",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/scripts": {
+    "time": 1678350071390.0093,
+    "uuid": "25f984af-0011-4b65-bcf5-9e461e979cff",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/scripts/Login.ts": {
+    "time": 1678351225538.0789,
+    "uuid": "91d97c05-b360-44e2-9cbc-81fbb90510dd",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/animations.meta": {
+    "time": 1678350071362.169
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/images.meta": {
+    "time": 1678350071362.4775
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/scripts.meta": {
+    "time": 1678350071389.8538
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/scripts/Login.ts.meta": {
+    "time": 1678350071390.0444
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/main.scene": {
+    "time": 1678350332238.154,
+    "uuid": "78911f8a-d1bf-49d8-bfbb-2651d017a8b0",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/animations/slide.anim": {
+    "time": 1678350071362.3062,
+    "uuid": "924c29ca-87ce-4c50-828c-7ca7d38df2fd",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/images/A♥.png": {
+    "time": 1678350071362.6804,
+    "uuid": "20160287-9061-4d47-84b7-cfd067b001e2",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/images/BackgroundRoom.png": {
+    "time": 1678350071379.6868,
+    "uuid": "1308ce5a-ce82-42e6-bb8e-6770a4a83a7e",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/images/GirlBanker.png": {
+    "time": 1678350071380.6514,
+    "uuid": "265eadaa-a37a-492c-9bcf-1e291a9b5ca8",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/images/TableRoom.png": {
+    "time": 1678350071389.337,
+    "uuid": "8ce7b3a6-375b-4c23-9817-e205ea27132c",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/animations/slide.anim.meta": {
+    "time": 1678350071362.3938
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/main.scene.meta": {
+    "time": 1678350071389.7878
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/images/A♥.png.meta": {
+    "time": 1678350071362.7773
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/images/GirlBanker.png.meta": {
+    "time": 1678350071380.7344
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/images/BackgroundRoom.png.meta": {
+    "time": 1678350071380.0376
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/images/TableRoom.png.meta": {
+    "time": 1678350071389.5925
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/cs-huawei.meta": {
+    "time": 1678356300274.366
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/cs-huawei/agcauth.meta": {
+    "time": 1678356300274.4614
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/cs-huawei/agcauth/agcauth.js.meta": {
+    "time": 1678356300361.44
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/cs-huawei": {
+    "time": 1678356300273.5684,
+    "uuid": "8c0d690d-6ea0-495b-8335-ea5c97eb2d02",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/cs-huawei/agcauth": {
+    "time": 1678356300271.798,
+    "uuid": "25442eed-b204-42c5-a7de-11e46321a7f5",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/cs-huawei/agcauth/agcauth.js": {
+    "time": 1678356300271.8887,
+    "uuid": "aff1c175-d373-4409-bea1-300d1209c8c2",
+    "missing": false
   }
 }

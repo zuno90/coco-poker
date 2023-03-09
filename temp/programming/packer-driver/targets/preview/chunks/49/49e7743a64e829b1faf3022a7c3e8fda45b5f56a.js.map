@@ -1,0 +1,1 @@
+{"version":3,"sources":["file:///Users/apple/Documents/Dads/coco-poker/node_modules/axios/lib/platform/index.js"],"names":["platform"],"mappings":";;;;;;AAAOA,MAAAA,Q;;;yBAECA,Q","sourcesContent":["import platform from './node/index.js';\n\nexport {platform as default}\n"]}

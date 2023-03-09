@@ -2,7 +2,7 @@
   "imports": {
     "cce:/internal/x/cc": "./chunks/02/02454ce52c24527a6d11792cfd90549c5b418480.js",
     "cce:/internal/x/prerequisite-imports": "./chunks/6b/6b8f85b7feaee65395ce6b5e8080983e7f56d534.js",
-    "file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/Login.ts": "./chunks/8c/8c2d2a5a51b2f1d0023b7246cca0a4d18f525d10.js"
+    "file:///Users/apple/Documents/Dads/coco-poker/assets/scripts/Login.ts": "./chunks/bf/bf9332b148268b5417dc50c0f4f8ba2b69731a5e.js"
   },
   "scopes": {
     "./chunks/02/02454ce52c24527a6d11792cfd90549c5b418480.js": {
@@ -28,9 +28,9 @@
       "__unresolved_9": "cce:/internal/x/cc-fu/light-probe"
     },
     "./chunks/6b/6b8f85b7feaee65395ce6b5e8080983e7f56d534.js": {
-      "__unresolved_0": "./chunks/8c/8c2d2a5a51b2f1d0023b7246cca0a4d18f525d10.js"
+      "__unresolved_0": "./chunks/bf/bf9332b148268b5417dc50c0f4f8ba2b69731a5e.js"
     },
-    "./chunks/8c/8c2d2a5a51b2f1d0023b7246cca0a4d18f525d10.js": {
+    "./chunks/bf/bf9332b148268b5417dc50c0f4f8ba2b69731a5e.js": {
       "cc": "./chunks/02/02454ce52c24527a6d11792cfd90549c5b418480.js"
     }
   }

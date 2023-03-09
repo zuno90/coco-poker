@@ -2,8 +2,10 @@
     "systemInfo": {
         "arch": "arm64",
         "cpu": "Apple M1 Pro",
-        "version": "Darwin Kernel Version 22.3.0: Mon Jan 30 20:38:37 PST 2023; root:xnu-8792.81.3~2/RELEASE_ARM64_T6000"
+        "version": "Darwin Kernel Version 22.3.0: Thu Jan  5 20:48:54 PST 2023; root:xnu-8792.81.2~2/RELEASE_ARM64_T6000"
     },
-    "sceneListMap": {},
-    "deviceMd5": "92d723001556edaf4411c46911dfaac9"
+    "sceneListMap": {
+        "78911f8a-d1bf-49d8-bfbb-2651d017a8b0": "/Users/apple/Documents/Dads/coco-poker/assets/main.scene"
+    },
+    "deviceMd5": "aa2ffce9cdfd28333cf6476b15ad0968"
 }

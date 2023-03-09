@@ -113,15 +113,32 @@
     "url": "db://assets/main.scene",
     "value": {
       "depends": [
-        "c77ecaa8-c936-46c4-a5b0-98692673ed87",
+        "78911f8a-d1bf-49d8-bfbb-2651d017a8b0",
         "1308ce5a-ce82-42e6-bb8e-6770a4a83a7e@f9941",
         "57520716-48c8-4a19-8acf-41c9f8777fb0@f9941",
         "8ce7b3a6-375b-4c23-9817-e205ea27132c@f9941",
         "265eadaa-a37a-492c-9bcf-1e291a9b5ca8@f9941",
         "20160287-9061-4d47-84b7-cfd067b001e2@f9941",
         "924c29ca-87ce-4c50-828c-7ca7d38df2fd",
-        "924c29ca-87ce-4c50-828c-7ca7d38df2fd"
+        "924c29ca-87ce-4c50-828c-7ca7d38df2fd",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941"
       ]
     }
+  },
+  "8c0d690d-6ea0-495b-8335-ea5c97eb2d02": {
+    "url": "db://assets/cs-huawei",
+    "value": {}
+  },
+  "25442eed-b204-42c5-a7de-11e46321a7f5": {
+    "url": "db://assets/cs-huawei/agcauth",
+    "value": {}
+  },
+  "aff1c175-d373-4409-bea1-300d1209c8c2": {
+    "url": "db://assets/cs-huawei/agcauth/agcauth.js",
+    "value": {}
   }
 }
