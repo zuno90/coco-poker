@@ -1,0 +1,82 @@
+3-8-2023 18:20:02-debug: asset-db:worker-init (2630ms)
+3-8-2023 18:20:02-debug: Preimport db internal success
+3-8-2023 18:20:02-debug: %cImport%c: /Users/myanhpham/Documents/coco-poker/assets/animationsbackground: #aaff85; color: #000;color: #000;
+3-8-2023 18:20:02-debug: %cImport%c: /Users/myanhpham/Documents/coco-poker/assets/scriptsbackground: #aaff85; color: #000;color: #000;
+3-8-2023 18:20:02-debug: %cImport%c: /Users/myanhpham/Documents/coco-poker/assets/imagesbackground: #aaff85; color: #000;color: #000;
+3-8-2023 18:20:02-debug: %cImport%c: /Users/myanhpham/Documents/coco-poker/assets/scripts/Login.tsbackground: #aaff85; color: #000;color: #000;
+3-8-2023 18:20:02-debug: Preimport db assets success
+3-8-2023 18:20:03-debug: asset-db:worker-effect-data-processing (368ms)
+3-8-2023 18:20:15-debug: Set detail map pack:///resolution-detail-map.json: {}
+3-8-2023 18:20:15-debug: Start up the 'internal' database...
+3-8-2023 18:20:15-debug: asset-db:worker-init-script (8ms)
+3-8-2023 18:20:15-debug: %cImport%c: /Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/primitives.fbxbackground: #aaff85; color: #000;color: #000;
+3-8-2023 18:20:16-debug: Frame rate: 24 [{asset(1263d74c-8167-4928-91a6-4e2672411f47)}]
+3-8-2023 18:20:16-debug: %cImport%c: /Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/primitives.fbx@17020background: #aaff85; color: #000;color: #000;
+3-8-2023 18:20:16-debug: %cImport%c: /Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/primitives.fbx@801ecbackground: #aaff85; color: #000;color: #000;
+3-8-2023 18:20:16-debug: %cImport%c: /Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/primitives.fbx@2e76ebackground: #aaff85; color: #000;color: #000;
+3-8-2023 18:20:16-debug: %cImport%c: /Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/primitives.fbx@38fd2background: #aaff85; color: #000;color: #000;
+3-8-2023 18:20:16-debug: %cImport%c: /Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/primitives.fbx@40ecebackground: #aaff85; color: #000;color: #000;
+3-8-2023 18:20:16-debug: %cImport%c: /Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/primitives.fbx@fc873background: #aaff85; color: #000;color: #000;
+3-8-2023 18:20:16-debug: %cImport%c: /Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/primitives.fbx@8abdcbackground: #aaff85; color: #000;color: #000;
+3-8-2023 18:20:16-debug: %cImport%c: /Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/primitives.fbx@a804abackground: #aaff85; color: #000;color: #000;
+3-8-2023 18:20:16-debug: %cImport%c: /Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/primitives.fbx@8d883background: #aaff85; color: #000;color: #000;
+3-8-2023 18:20:16-debug: %cImport%c: /Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/primitives.fbx@aae0fbackground: #aaff85; color: #000;color: #000;
+3-8-2023 18:20:16-debug: Start up the 'assets' database...
+3-8-2023 18:20:16-debug: %cImport%c: /Users/myanhpham/Documents/coco-poker/assets/main.scenebackground: #aaff85; color: #000;color: #000;
+3-8-2023 18:20:16-debug: %cImport%c: /Users/myanhpham/Documents/coco-poker/assets/animations/slide.animbackground: #aaff85; color: #000;color: #000;
+3-8-2023 18:20:16-debug: %cImport%c: /Users/myanhpham/Documents/coco-poker/assets/images/A♥.pngbackground: #aaff85; color: #000;color: #000;
+3-8-2023 18:20:16-debug: %cImport%c: /Users/myanhpham/Documents/coco-poker/assets/images/BackgroundRoom.pngbackground: #aaff85; color: #000;color: #000;
+3-8-2023 18:20:16-debug: %cImport%c: /Users/myanhpham/Documents/coco-poker/assets/images/GirlBanker.pngbackground: #aaff85; color: #000;color: #000;
+3-8-2023 18:20:16-debug: %cImport%c: /Users/myanhpham/Documents/coco-poker/assets/images/TableRoom.pngbackground: #aaff85; color: #000;color: #000;
+3-8-2023 18:20:16-debug: %cImport%c: /Users/myanhpham/Documents/coco-poker/assets/images/GirlBanker.png@6c48abackground: #aaff85; color: #000;color: #000;
+3-8-2023 18:20:16-debug: %cImport%c: /Users/myanhpham/Documents/coco-poker/assets/images/GirlBanker.png@f9941background: #aaff85; color: #000;color: #000;
+3-8-2023 18:20:16-debug: %cImport%c: /Users/myanhpham/Documents/coco-poker/assets/images/A♥.png@6c48abackground: #aaff85; color: #000;color: #000;
+3-8-2023 18:20:16-debug: %cImport%c: /Users/myanhpham/Documents/coco-poker/assets/images/A♥.png@f9941background: #aaff85; color: #000;color: #000;
+3-8-2023 18:20:20-debug: %cImport%c: /Users/myanhpham/Documents/coco-poker/assets/images/BackgroundRoom.png@6c48abackground: #aaff85; color: #000;color: #000;
+3-8-2023 18:20:20-debug: %cImport%c: /Users/myanhpham/Documents/coco-poker/assets/images/BackgroundRoom.png@f9941background: #aaff85; color: #000;color: #000;
+3-8-2023 18:20:22-debug: %cImport%c: /Users/myanhpham/Documents/coco-poker/assets/images/TableRoom.png@6c48abackground: #aaff85; color: #000;color: #000;
+3-8-2023 18:20:22-debug: %cImport%c: /Users/myanhpham/Documents/coco-poker/assets/images/TableRoom.png@f9941background: #aaff85; color: #000;color: #000;
+3-8-2023 18:20:23-debug: Asset DB is ready!
+3-8-2023 18:20:23-debug: init worker message success
+3-8-2023 18:20:23-debug: programming:execute-script (2ms)
+3-8-2023 18:20:29-debug: builder:worker-init (5305ms)
+3-8-2023 18:20:30-debug: programming:execute-script (4ms)
+3-8-2023 18:20:54-debug: refresh db internal success
+3-8-2023 18:20:54-debug: asset-db:worker-effect-data-processing (235ms)
+3-8-2023 18:20:54-debug: refresh db assets success
+3-8-2023 18:20:54-debug: asset-db:refresh-all-database (336ms)
+3-8-2023 18:21:25-debug: refresh db internal success
+3-8-2023 18:21:25-debug: asset-db:worker-effect-data-processing (221ms)
+3-8-2023 18:21:25-debug: refresh db assets success
+3-8-2023 18:21:25-debug: asset-db:refresh-all-database (291ms)
+3-8-2023 18:21:44-debug: refresh db internal success
+3-8-2023 18:21:45-debug: asset-db:worker-effect-data-processing (544ms)
+3-8-2023 18:21:45-debug: refresh db assets success
+3-8-2023 18:21:45-debug: asset-db:refresh-all-database (617ms)
+3-8-2023 18:22:26-debug: start refresh asset from /Users/myanhpham/Documents/coco-poker/assets/lgin...
+3-8-2023 18:22:26-debug: %cImport%c: /Users/myanhpham/Documents/coco-poker/assets/lginbackground: #aaff85; color: #000;color: #000;
+3-8-2023 18:22:26-debug: refresh asset /Users/myanhpham/Documents/coco-poker/assets/lgin success
+3-8-2023 18:22:30-debug: start move asset from /Users/myanhpham/Documents/coco-poker/assets/lgin -> /Users/myanhpham/Documents/coco-poker/assets/login...
+3-8-2023 18:22:30-debug: start refresh asset from /Users/myanhpham/Documents/coco-poker/assets/login...
+3-8-2023 18:22:30-debug: move asset from /Users/myanhpham/Documents/coco-poker/assets/lgin -> /Users/myanhpham/Documents/coco-poker/assets/login success
+3-8-2023 18:22:30-debug: refresh asset /Users/myanhpham/Documents/coco-poker/assets success
+3-8-2023 18:22:30-debug: refresh asset /Users/myanhpham/Documents/coco-poker/assets/login success
+3-8-2023 18:22:30-debug: start refresh asset from /Users/myanhpham/Documents/coco-poker/assets...
+3-8-2023 18:22:30-debug: %cImport%c: /Users/myanhpham/Documents/coco-poker/assets/loginbackground: #aaff85; color: #000;color: #000;
+3-8-2023 18:22:30-debug: start move asset from /Users/myanhpham/Documents/coco-poker/assets/login -> /Users/myanhpham/Documents/coco-poker/assets/lgin...
+3-8-2023 18:22:30-debug: start refresh asset from /Users/myanhpham/Documents/coco-poker/assets/lgin...
+3-8-2023 18:22:30-debug: refresh asset /Users/myanhpham/Documents/coco-poker/assets/lgin success
+3-8-2023 18:22:30-debug: start refresh asset from /Users/myanhpham/Documents/coco-poker/assets...
+3-8-2023 18:22:30-debug: refresh asset /Users/myanhpham/Documents/coco-poker/assets success
+3-8-2023 18:22:30-debug: move asset from /Users/myanhpham/Documents/coco-poker/assets/login -> /Users/myanhpham/Documents/coco-poker/assets/lgin success
+3-8-2023 18:22:30-debug: %cImport%c: /Users/myanhpham/Documents/coco-poker/assets/lginbackground: #aaff85; color: #000;color: #000;
+3-8-2023 18:22:55-debug: start refresh asset from /Users/myanhpham/Documents/coco-poker/assets/lgin/scene-login.scene...
+3-8-2023 18:22:55-debug: %cImport%c: /Users/myanhpham/Documents/coco-poker/assets/lgin/scene-login.scenebackground: #aaff85; color: #000;color: #000;
+3-8-2023 18:22:55-debug: start refresh asset from /Users/myanhpham/Documents/coco-poker/assets/lgin/scene-login.scene...
+3-8-2023 18:22:55-debug: refresh asset /Users/myanhpham/Documents/coco-poker/assets/lgin/scene-login.scene success
+3-8-2023 18:22:55-debug: refresh asset /Users/myanhpham/Documents/coco-poker/assets/lgin/scene-login.scene success
+3-8-2023 18:24:24-debug: refresh db internal success
+3-8-2023 18:24:24-debug: asset-db:worker-effect-data-processing (223ms)
+3-8-2023 18:24:24-debug: %cImport%c: /Users/myanhpham/Documents/coco-poker/assets/lginbackground: #aaff85; color: #000;color: #000;
+3-8-2023 18:24:24-debug: refresh db assets success
+3-8-2023 18:24:24-debug: asset-db:refresh-all-database (325ms)

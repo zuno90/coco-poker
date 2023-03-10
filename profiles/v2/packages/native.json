@@ -1,27 +1,11 @@
 {
   "__version__": "1.0.2",
   "builder": {
-    "options": {
-      "ios": {
-        "encrypted": true,
-        "xxteaKey": "45RgXp2dBMBYfFld",
-        "compressZip": true,
-        "JobSystem": "none",
-        "__version__": "1.0.2"
-      }
-    },
     "taskOptionsMap": {
-      "1678357639893": {
-        "encrypted": true,
-        "xxteaKey": "45RgXp2dBMBYfFld",
-        "compressZip": true,
-        "JobSystem": "none",
-        "__version__": "1.0.2"
-      },
-      "1678358143132": {
-        "encrypted": true,
-        "xxteaKey": "45RgXp2dBMBYfFld",
-        "compressZip": true,
+      "1678425728378": {
+        "encrypted": false,
+        "xxteaKey": "ccKOSLTe5GSLsvTx",
+        "compressZip": false,
         "JobSystem": "none",
         "__version__": "1.0.2"
       }

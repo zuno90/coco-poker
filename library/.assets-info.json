@@ -79,108 +79,1716 @@
   "/Users/zuno/Desktop/ZUNO/coco-poker/assets/main.scene.meta": {
     "time": 1678270720352.109
   },
+  "/Users/myanhpham/Documents/coco-poker/assets/animations": {
+    "time": 1678274347580.026,
+    "uuid": "29deb783-a897-471a-8f24-cf1315b0ed62",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/images": {
+    "time": 1678274347637.056,
+    "uuid": "65eecc5f-a57f-4ee1-85c4-ddbdee649e17",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/scripts": {
+    "time": 1678335642885.4119,
+    "uuid": "25f984af-0011-4b65-bcf5-9e461e979cff",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/scripts/Login.ts": {
+    "time": 1678274347639.1138,
+    "uuid": "91d97c05-b360-44e2-9cbc-81fbb90510dd",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/animations.meta": {
+    "time": 1678274347578.5566
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/images.meta": {
+    "time": 1678274347580.5203
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/scripts.meta": {
+    "time": 1678274347638.6807
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/scripts/Login.ts.meta": {
+    "time": 1678274347639.4138
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/main.scene": {
+    "time": 1678274347637.9868,
+    "uuid": "78911f8a-d1bf-49d8-bfbb-2651d017a8b0",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/animations/slide.anim": {
+    "time": 1678274347579.6519,
+    "uuid": "924c29ca-87ce-4c50-828c-7ca7d38df2fd",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/images/A♥.png": {
+    "time": 1678274347581.091,
+    "uuid": "20160287-9061-4d47-84b7-cfd067b001e2",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/images/BackgroundRoom.png": {
+    "time": 1678274347611.3118,
+    "uuid": "1308ce5a-ce82-42e6-bb8e-6770a4a83a7e",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/images/GirlBanker.png": {
+    "time": 1678274347615.1902,
+    "uuid": "265eadaa-a37a-492c-9bcf-1e291a9b5ca8",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/images/TableRoom.png": {
+    "time": 1678274347633.4692,
+    "uuid": "8ce7b3a6-375b-4c23-9817-e205ea27132c",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/main.scene.meta": {
+    "time": 1678274347638.4004
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/animations/slide.anim.meta": {
+    "time": 1678274347580.1526
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/images/GirlBanker.png.meta": {
+    "time": 1678274347615.8237
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/images/A♥.png.meta": {
+    "time": 1678274347582.1965
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/images/BackgroundRoom.png.meta": {
+    "time": 1678274347613.44
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/images/TableRoom.png.meta": {
+    "time": 1678274347637.1948
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/Homepage.meta": {
+    "time": 1678294808612.7688
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/Homepage": {
+    "time": 1678296919269.8096,
+    "uuid": "2bf48316-902a-4381-8c3a-7d22d9b52fd3",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/Homepage/Artboard 6@8x 1.png.meta": {
+    "time": 1678295133238.0032
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/Homepage/BackgroundHome.png.meta": {
+    "time": 1678295133607.2295
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/Homepage/Chat.png.meta": {
+    "time": 1678295133017.475
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/Homepage/ChatVn.png.meta": {
+    "time": 1678295133018.282
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/Homepage/Group 427318942.png.meta": {
+    "time": 1678295133288.4216
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/Homepage/Mail.png.meta": {
+    "time": 1678295133296.705
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/Homepage/MailVn.png.meta": {
+    "time": 1678295133364.2954
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/Homepage/PlayNow.png.meta": {
+    "time": 1678295133611.1672
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/Homepage/PlaynowVn.png.meta": {
+    "time": 1678295133603.7576
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/Homepage/Ranking.png.meta": {
+    "time": 1678295133610.237
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/Homepage/RankingVn.png.meta": {
+    "time": 1678295133768.902
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/Homepage/SelectRoomVn.png.meta": {
+    "time": 1678295133936.847
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/Homepage/SettingsVn.png.meta": {
+    "time": 1678295133942.4211
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/Homepage/settings.png.meta": {
+    "time": 1678295133975.0718
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/Homepage/watchAds.png.meta": {
+    "time": 1678295134010.696
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/Homepage/watchAdsVn.png.meta": {
+    "time": 1678295133991.2346
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/Homepage/Chat.png": {
+    "time": 1678271848980,
+    "uuid": "f8a337df-9ad6-4b06-b7bc-3b5e62492f01",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/Homepage/ChatVn.png": {
+    "time": 1678271849020,
+    "uuid": "324333f3-92df-4cc7-96ee-61e1d202eb4c",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/Homepage/Artboard 6@8x 1.png": {
+    "time": 1678295037170,
+    "uuid": "2c55fc7f-b345-496e-8333-5e7372a18ff0",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/Homepage/Group 427318942.png": {
+    "time": 1678295067860,
+    "uuid": "40e27d1c-74f3-4dfb-9e49-e8fcd4e77d58",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/Homepage/Mail.png": {
+    "time": 1678271849330,
+    "uuid": "e746ea92-9b58-493e-9a5d-ef95be9279e4",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/Homepage/MailVn.png": {
+    "time": 1678271849330,
+    "uuid": "bdb3606d-c93e-486b-8901-061afdbecd87",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/Homepage/PlaynowVn.png": {
+    "time": 1678271850480,
+    "uuid": "9743debc-9ac8-4338-8bab-a207714b72a0",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/Homepage/BackgroundHome.png": {
+    "time": 1678271848230,
+    "uuid": "0ea8d814-0270-4db4-af94-915b9c16126c",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/Homepage/Ranking.png": {
+    "time": 1678271851660,
+    "uuid": "2119949a-58b2-4aab-bf7c-6009826644dd",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/Homepage/PlayNow.png": {
+    "time": 1678271850480,
+    "uuid": "ec658842-4058-4c99-8a23-ad84c2074f83",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/Homepage/RankingVn.png": {
+    "time": 1678271851660,
+    "uuid": "cdf17e77-596f-4ccd-9cf8-a3f8c2bcaed5",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/Homepage/SelectRoomVn.png": {
+    "time": 1678271851690,
+    "uuid": "dc66eb5a-bac0-4cc7-aab2-77689574821c",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/Homepage/SettingsVn.png": {
+    "time": 1678271851690,
+    "uuid": "d68fa142-e08a-441c-974f-0d4572a59433",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/Homepage/settings.png": {
+    "time": 1678271851920,
+    "uuid": "b269c050-91dd-43f0-afdd-d0ba38e83dfd",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/Homepage/watchAdsVn.png": {
+    "time": 1678271851940,
+    "uuid": "6a86f8f1-5901-4e38-bb3c-b011efd4d7b4",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/Homepage/watchAds.png": {
+    "time": 1678271851940,
+    "uuid": "a66f1c5b-a9b4-4366-b963-b5c5733fef20",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/Homepage/Group (2).png.meta": {
+    "time": 1678295439432.9043
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/Homepage/Group (2).png": {
+    "time": 1678295422457.868,
+    "uuid": "c027736f-b05d-456e-ac93-6cba8df27339",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/Homepage/Layer 1.png.meta": {
+    "time": 1678295557756.8423
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/Homepage/Layer 1.png": {
+    "time": 1678295532297.5676,
+    "uuid": "b3203802-2b92-41b1-bc16-92f15dde4028",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/homepage.scene.meta": {
+    "time": 1678296023353.906
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/homepage.scene": {
+    "time": 1678353857527.3733,
+    "uuid": "b7d0975a-b160-40c1-825a-9a12700cbdda",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/Homepage/girl_homepage_2 1.png.meta": {
+    "time": 1678296257500.8545
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/Homepage/girl_homepage_2 1.png": {
+    "time": 1678296230205.408,
+    "uuid": "01695082-5a8a-48fa-9ea4-9bde27275219",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/Homepage/Group 427318943 (1).png.meta": {
+    "time": 1678296801712.1418
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/Homepage/Group 427318943 (1).png": {
+    "time": 1678296771111.4465,
+    "uuid": "4a18b84b-09cf-4229-99ae-6b681bd809cb",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/Homepage/Group 427318943 (2).png.meta": {
+    "time": 1678296919442.125
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/Homepage/Group 427318943 (2).png": {
+    "time": 1678296901708.2588,
+    "uuid": "9c06b7e7-7226-4e9b-8666-7e30113444c1",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/Login.scene.meta": {
+    "time": 1678335152636.8406
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/Login.scene": {
+    "time": 1678353873144.7185,
+    "uuid": "3a9e107c-c444-4c5d-b0d8-4794d9bd6656",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/login.meta": {
+    "time": 1678335219741.5813
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/login": {
+    "time": 1678335220240.0876,
+    "uuid": "e1fc1de4-27bf-451a-ae8b-ab7ae888c059",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/login/4887959bd6a9a3ed4f0d1c278b08bff3 1.png.meta": {
+    "time": 1678335222038.755
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/login/BackgroundGame.png.meta": {
+    "time": 1678335221353.72
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/login/Group 427318911.png.meta": {
+    "time": 1678335221352.2761
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/login/Group 427318912.png.meta": {
+    "time": 1678335221353.0115
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/login/Group 427318913.png.meta": {
+    "time": 1678335221351.344
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/login/Group 427318916.png.meta": {
+    "time": 1678335221496.0046
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/login/Play as GUEST.png.meta": {
+    "time": 1678335221458.781
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/login/Group 427318913.png": {
+    "time": 1678334816040,
+    "uuid": "6180b42b-22a6-4e4e-b814-92e77d4b9282",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/login/Group 427318911.png": {
+    "time": 1678334809130,
+    "uuid": "a7dac547-962d-40bd-bd5c-6e431087b1c9",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/login/Group 427318912.png": {
+    "time": 1678334812820,
+    "uuid": "5a288c4d-4e21-44a0-ada3-32e74600c936",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/login/BackgroundGame.png": {
+    "time": 1678271848180,
+    "uuid": "dd98f0f4-6c76-42e6-8f5e-d74df31b7590",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/login/Play as GUEST.png": {
+    "time": 1678334823630,
+    "uuid": "efe8d666-ac25-4de3-a876-e45465bd9ada",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/login/Group 427318916.png": {
+    "time": 1678334827060,
+    "uuid": "deeb27a8-e7ec-406d-b96a-4446b6f6f787",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/login/4887959bd6a9a3ed4f0d1c278b08bff3 1.png": {
+    "time": 1678334831040,
+    "uuid": "ed200d51-8b78-44e5-8a3c-133f3309b326",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/Choose room.meta": {
+    "time": 1678335627958.4924
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/Choose room": {
+    "time": 1678335950239.887,
+    "uuid": "24afed99-529d-45ee-8ef3-484ad1211919",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/choose room.scene.meta": {
+    "time": 1678335640977.635
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/choose room.scene": {
+    "time": 1678355707096.4307,
+    "uuid": "de512fff-2828-42d9-bf6f-9c6b43b9cfad",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/Choose room/choose room.meta": {
+    "time": 1678335950241.7358
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/Choose room/choose room": {
+    "time": 1678337644280.7346,
+    "uuid": "0dd548bf-6f9d-43e7-87ab-fbe5fa474a6c",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/Choose room/choose room/ButtonBack.png.meta": {
+    "time": 1678335954785.1787
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/Choose room/choose room/TextRoomLevels.png.meta": {
+    "time": 1678335958908.741
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/Choose room/choose room/bg.png.meta": {
+    "time": 1678335959489.8442
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/Choose room/choose room/watchAds.png.meta": {
+    "time": 1678335959517.6357
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/Choose room/choose room/watchAdsVn.png.meta": {
+    "time": 1678335959516.7014
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/Choose room/choose room/ButtonBack.png": {
+    "time": 1678271848870,
+    "uuid": "6533390c-dd74-446e-89a0-aaba3dcb43ef",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/Choose room/choose room/TextRoomLevels.png": {
+    "time": 1678271851780,
+    "uuid": "9216b3df-bb88-47cc-924b-d8fe787d1881",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/Choose room/choose room/bg.png": {
+    "time": 1678271851920,
+    "uuid": "7819fdc2-a140-42e0-bde9-ee88d56ca465",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/Choose room/choose room/watchAdsVn.png": {
+    "time": 1678271851940,
+    "uuid": "58241bb7-2f0a-49c9-aa97-985edb87cfb3",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/Choose room/choose room/watchAds.png": {
+    "time": 1678271851940,
+    "uuid": "36ee3fd6-233d-4fe3-94f4-09bab9bc4bb0",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/Choose room/choose room/Group 427318894.png.meta": {
+    "time": 1678336352688.5166
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/Choose room/choose room/classic room.png.meta": {
+    "time": 1678336352330.4043
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/Choose room/choose room/pre room.png.meta": {
+    "time": 1678336353335.0854
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/Choose room/choose room/classic room.png": {
+    "time": 1678336197829.9421,
+    "uuid": "cb17e75f-3114-40b1-b17a-a23503abb56f",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/Choose room/choose room/Group 427318894.png": {
+    "time": 1678336325046.3896,
+    "uuid": "2a0c82c9-c8e5-474e-880c-a5e75044feef",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/Choose room/choose room/pre room.png": {
+    "time": 1678336230135.8232,
+    "uuid": "42d79b27-8ee5-4a9e-a973-2b311a87250a",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/Choose room/choose room/Please choose a room to start playing.png.meta": {
+    "time": 1678336683292.5332
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/Choose room/choose room/Please choose a room to start playing.png": {
+    "time": 1678335805222.623,
+    "uuid": "096387f7-9531-49a9-bf8d-45871dc60cd3",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/Choose room/choose room/FrameCoins.png.meta": {
+    "time": 1678337644426.485
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/Choose room/choose room/FrameCoins.png": {
+    "time": 1678271849220,
+    "uuid": "3f15fdf7-5700-4286-a08a-08cbdfde64b6",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/my profile.meta": {
+    "time": 1678338924747.9832
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/my profile": {
+    "time": 1678343839805.0334,
+    "uuid": "e8695059-7e2e-424e-814b-d50a7bd60809",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/my profile/CameraIcon.png.meta": {
+    "time": 1678338925080.163
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/my profile/FFAWkY.tif.png.meta": {
+    "time": 1678338925263.2249
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/my profile/Group 427318824.png.meta": {
+    "time": 1678338925078.8357
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/my profile/Group 427318909.png.meta": {
+    "time": 1678338925294.9182
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/my profile/Lz2IhG.tif.png.meta": {
+    "time": 1678338926255.7336
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/my profile/MY PROFILE.png.meta": {
+    "time": 1678338926322.4985
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/my profile/bg.png.meta": {
+    "time": 1678338926332.2515
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/my profile/Group 427318824.png": {
+    "time": 1678338860680,
+    "uuid": "c0a6796a-dc18-4bad-b4f9-93bd77d8ca5b",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/my profile/CameraIcon.png": {
+    "time": 1678271848970,
+    "uuid": "0197c98e-3dbe-4fae-bd95-448fd781cb00",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/my profile/FFAWkY.tif.png": {
+    "time": 1678338870210,
+    "uuid": "029293d5-ba08-4087-bcfa-f883df7baf5f",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/my profile/Group 427318909.png": {
+    "time": 1678338812270,
+    "uuid": "5c3667a0-bef1-444b-867b-92063446cd73",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/my profile/Lz2IhG.tif.png": {
+    "time": 1678338873670,
+    "uuid": "813b1b21-4901-48e9-b5b8-9560e813745d",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/my profile/MY PROFILE.png": {
+    "time": 1678338742740,
+    "uuid": "6786a1d7-15a9-4ce0-91e3-1e79bebb6122",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/my profile/bg.png": {
+    "time": 1678271851910,
+    "uuid": "eb1afe1b-3bd8-49f1-8d6c-7086bc954f0f",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/my profile/Layer 1 (1).png.meta": {
+    "time": 1678339185141.9504
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/my profile/Layer 1 (1).png": {
+    "time": 1678339160780.1465,
+    "uuid": "308187a0-0db2-410c-9687-4e58f7148cc3",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/my profile/Group 427318946.png.meta": {
+    "time": 1678341666566.712
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/my profile/Group 427318946.png": {
+    "time": 1678341626059.0732,
+    "uuid": "765dc121-fbb5-4c1c-93ef-3ac79db3c1cf",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/my profile/Vector.png.meta": {
+    "time": 1678343619780.2205
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/my profile/Vector.png": {
+    "time": 1678343562657.8086,
+    "uuid": "47421619-a348-4d9d-9068-8068f5408f4d",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/my profile/Frame.png.meta": {
+    "time": 1678343839982.3416
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/my profile/Frame.png": {
+    "time": 1678343826305.125,
+    "uuid": "21672a83-a551-4a4e-a1a6-8d2e7cb90a5c",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/profile.scene.meta": {
+    "time": 1678344524263.3938
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/profile.scene": {
+    "time": 1678355719837.3943,
+    "uuid": "23cfb5e0-69fd-4c0f-9b64-f3416b6d0800",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/ranking.meta": {
+    "time": 1678345010303.1396
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/ranking": {
+    "time": 1678346273128.384,
+    "uuid": "5cbafb2e-21e3-4378-a4cc-d49c4dfa8e42",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/ranking/4.png.meta": {
+    "time": 1678345010843.1736
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/ranking/5.png.meta": {
+    "time": 1678345010861.144
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/ranking/Group 427318947.png.meta": {
+    "time": 1678345012266.0737
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/ranking/Group-1.png.meta": {
+    "time": 1678345011657.5105
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/ranking/Group-2.png.meta": {
+    "time": 1678345011817.432
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/ranking/Group.png.meta": {
+    "time": 1678345011901.7056
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/ranking/PLAYER.png.meta": {
+    "time": 1678345011816.0706
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/ranking/RANK.png.meta": {
+    "time": 1678345011833.7778
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/ranking/TOTAL CHIP.png.meta": {
+    "time": 1678345012366.2263
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/ranking/WEEKLY RANKING.png.meta": {
+    "time": 1678345012431.172
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/ranking/4.png": {
+    "time": 1678344862000,
+    "uuid": "f63d12f5-f18b-46b4-ad83-036f3e36068c",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/ranking/5.png": {
+    "time": 1678344862000,
+    "uuid": "2712be7a-8b95-49a3-8251-0bb7c667bce2",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/ranking/Group-1.png": {
+    "time": 1678344862000,
+    "uuid": "82337cd3-77d6-4cf7-85ae-391f75e235c1",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/ranking/PLAYER.png": {
+    "time": 1678344862000,
+    "uuid": "64336a1a-72a6-4bfe-99b7-b24c2e340311",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/ranking/Group-2.png": {
+    "time": 1678344862000,
+    "uuid": "495ab3df-e629-41ca-8bed-17d3e5b54003",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/ranking/RANK.png": {
+    "time": 1678344862000,
+    "uuid": "f1b7ff67-3fff-49c3-ba55-24b325b8712f",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/ranking/Group.png": {
+    "time": 1678344862000,
+    "uuid": "6e912f04-5876-45f2-a5ad-222482da5fe1",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/ranking/Group 427318947.png": {
+    "time": 1678344828289.4578,
+    "uuid": "c6ffd29c-0458-4636-849b-2a19ad525ef0",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/ranking/TOTAL CHIP.png": {
+    "time": 1678344862000,
+    "uuid": "8c5283b9-9e6e-492f-a4aa-d5f0d862b6f1",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/ranking/WEEKLY RANKING.png": {
+    "time": 1678344811378.178,
+    "uuid": "a432dcfc-b933-4300-893b-14d2b7d5c837",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/rank.scene.meta": {
+    "time": 1678345117508.1572
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/rank.scene": {
+    "time": 1678355728115.8987,
+    "uuid": "a0b55cec-cb20-4534-a133-f6a10246528c",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/ranking/Group 427318948 2.png.meta": {
+    "time": 1678346273352.5203
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/ranking/Group 427318948 2.png": {
+    "time": 1678346098355.472,
+    "uuid": "a07a23d8-db33-4a1a-9b1c-b224cf210c02",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/seeting.meta": {
+    "time": 1678355437997.9365
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/seeting/gen.meta": {
+    "time": 1678355437998.43
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/seeting": {
+    "time": 1678357805333.5786,
+    "uuid": "f589e8d5-0170-43ff-b63b-0c4ae1a8591b",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/seeting/gen": {
+    "time": 1678355890996.0508,
+    "uuid": "3b2c98a6-b29e-49cc-a30a-f8ae9cc5e47f",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/seeting/gen/Artboard 10@5x 1.png.meta": {
+    "time": 1678355439495.3105
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/seeting/gen/Artboard 9@5x 1.png.meta": {
+    "time": 1678355439518.238
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/seeting/gen/GENERAL.png.meta": {
+    "time": 1678355439517.2869
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/seeting/gen/Group 427318828.png.meta": {
+    "time": 1678355439496.061
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/seeting/gen/Group 427318829.png.meta": {
+    "time": 1678355439539.099
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/seeting/gen/PRIVATE.png.meta": {
+    "time": 1678355439778.3975
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/seeting/gen/SETTINGS.png.meta": {
+    "time": 1678355439794.6604
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/seeting/gen/SUPPORT.png.meta": {
+    "time": 1678355439719.7102
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/seeting/gen/Vector.png.meta": {
+    "time": 1678355439806.4744
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/seeting/gen/Artboard 10@5x 1.png": {
+    "time": 1678355323842.1538,
+    "uuid": "057142b2-7e20-461f-bd3a-4cee656be3db",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/seeting/gen/Group 427318828.png": {
+    "time": 1678355334095.1006,
+    "uuid": "b671ba16-971d-4a60-be91-368982f26054",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/seeting/gen/GENERAL.png": {
+    "time": 1678355290000,
+    "uuid": "94af4dc5-46c3-407b-9f81-fe5d7ebc8706",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/seeting/gen/Artboard 9@5x 1.png": {
+    "time": 1678355320680.2239,
+    "uuid": "fa6a6c15-9913-4064-9fd8-3f1ab9aec70c",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/seeting/gen/Group 427318829.png": {
+    "time": 1678355337265.2278,
+    "uuid": "d44f17d3-8a83-4d5b-a247-354d950267bd",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/seeting/gen/SUPPORT.png": {
+    "time": 1678355312000,
+    "uuid": "9b7f9c93-c46f-4914-aeb7-5680b76e5655",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/seeting/gen/PRIVATE.png": {
+    "time": 1678355312000,
+    "uuid": "60dc5717-1f99-49aa-96c2-2b115fb4f5ba",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/seeting/gen/SETTINGS.png": {
+    "time": 1678355243784.4417,
+    "uuid": "2ba534f5-2809-4127-853f-dabcabd0f7e4",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/seeting/gen/Vector.png": {
+    "time": 1678355290000,
+    "uuid": "9f0fd642-f5c1-4c7d-90d9-7a08acbb6478",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/seeting/gen/Vector (1).png.meta": {
+    "time": 1678355891127.9006
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/seeting/gen/Vector (1).png": {
+    "time": 1678355300172.505,
+    "uuid": "2a797b1c-fc50-4c56-b0a1-c1ed6a95b59a",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/setting-pri.scene.meta": {
+    "time": 1678357053159.1802
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/setting-pri.scene": {
+    "time": 1678358237024.0146,
+    "uuid": "1393484a-22f9-45da-bc10-b2256f4f0a72",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/seeting/private.meta": {
+    "time": 1678357177226.1116
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/seeting/private": {
+    "time": 1678357385890.006,
+    "uuid": "2878f4cc-0ff6-4a3c-afed-350968e2d57c",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/seeting/private/GENERAL.png.meta": {
+    "time": 1678357178047.7773
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/seeting/private/PRIVATE.png.meta": {
+    "time": 1678357178048.6992
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/seeting/private/GENERAL.png": {
+    "time": 1678357152397.6855,
+    "uuid": "9ddd3983-72d3-4e1e-8dc7-0ef87f2331cf",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/seeting/private/PRIVATE.png": {
+    "time": 1678357149187.5752,
+    "uuid": "84cc1be6-e3dd-4e6f-82e5-4e6e7a8ea7fd",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/seeting/private/Group 427318949 (1).png.meta": {
+    "time": 1678357385957.2512
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/seeting/private/Vector.png.meta": {
+    "time": 1678357385980.2122
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/seeting/private/Group 427318949 (1).png": {
+    "time": 1678357276628.4858,
+    "uuid": "92b86874-756b-43ca-813b-2e237e112cc6",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/seeting/private/Vector.png": {
+    "time": 1678357308555.6624,
+    "uuid": "4ef58fee-2776-41be-a6f6-219a3254fcda",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/seeting/support.meta": {
+    "time": 1678357805334.867
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/seeting/support": {
+    "time": 1678357876148.725,
+    "uuid": "ce06b6ab-9369-4425-a397-84b00ff4bf70",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/seeting/support/Design (1).png.meta": {
+    "time": 1678357805985.1514
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/seeting/support/Design.png.meta": {
+    "time": 1678357805965.0515
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/seeting/support/Graphic_Elements.png.meta": {
+    "time": 1678357805955.018
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/seeting/support/Graphic_Elements.png": {
+    "time": 1678357764909.8628,
+    "uuid": "8108ecbc-f60b-4531-81d4-6e5ea911b82c",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/seeting/support/Design.png": {
+    "time": 1678357752684.6846,
+    "uuid": "9c01dde8-c681-4133-bdb7-879e2ad1a815",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/seeting/support/Design (1).png": {
+    "time": 1678357757461.34,
+    "uuid": "943667cd-f0d1-4171-bac5-8a16cc162a97",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/seeting/support/GENERAL.png.meta": {
+    "time": 1678357876270.7786
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/seeting/support/SUPPORT.png.meta": {
+    "time": 1678357876548.7
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/seeting/support/GENERAL.png": {
+    "time": 1678357152397.6855,
+    "uuid": "ad226e9d-a1a9-4965-a73a-324e59875ef2",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/seeting/support/SUPPORT.png": {
+    "time": 1678357703403.5188,
+    "uuid": "82d79988-3847-4a79-8936-fcd43b28e496",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/setting-sup.scene.meta": {
+    "time": 1678355580173.6746
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/setting-sup.scene": {
+    "time": 1678358209086.6436,
+    "uuid": "1e7811ae-7650-4822-a2d1-6cf298d5cdcc",
+    "missing": false
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/setting-general.scene.meta": {
+    "time": 1678357724508.3416
+  },
+  "/Users/myanhpham/Documents/coco-poker/assets/setting-general.scene": {
+    "time": 1678358215674.8733,
+    "uuid": "169d4508-1e9d-4ea6-bc39-03502308beec",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/Choose room": {
+    "time": 1678335950000,
+    "uuid": "24afed99-529d-45ee-8ef3-484ad1211919",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/Homepage": {
+    "time": 1678296919000,
+    "uuid": "2bf48316-902a-4381-8c3a-7d22d9b52fd3",
+    "missing": false
+  },
   "/Users/apple/Documents/Dads/coco-poker/assets/animations": {
-    "time": 1678350071362.351,
+    "time": 1678274347000,
     "uuid": "29deb783-a897-471a-8f24-cf1315b0ed62",
     "missing": false
   },
   "/Users/apple/Documents/Dads/coco-poker/assets/images": {
-    "time": 1678350071389.5117,
+    "time": 1678274347000,
     "uuid": "65eecc5f-a57f-4ee1-85c4-ddbdee649e17",
     "missing": false
   },
+  "/Users/apple/Documents/Dads/coco-poker/assets/login": {
+    "time": 1678335220000,
+    "uuid": "e1fc1de4-27bf-451a-ae8b-ab7ae888c059",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/my profile": {
+    "time": 1678343839000,
+    "uuid": "e8695059-7e2e-424e-814b-d50a7bd60809",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/ranking": {
+    "time": 1678346273000,
+    "uuid": "5cbafb2e-21e3-4378-a4cc-d49c4dfa8e42",
+    "missing": false
+  },
   "/Users/apple/Documents/Dads/coco-poker/assets/scripts": {
-    "time": 1678350071390.0093,
+    "time": 1678335642000,
     "uuid": "25f984af-0011-4b65-bcf5-9e461e979cff",
     "missing": false
   },
+  "/Users/apple/Documents/Dads/coco-poker/assets/seeting": {
+    "time": 1678357805000,
+    "uuid": "f589e8d5-0170-43ff-b63b-0c4ae1a8591b",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/Choose room/choose room": {
+    "time": 1678337644000,
+    "uuid": "0dd548bf-6f9d-43e7-87ab-fbe5fa474a6c",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/seeting/gen": {
+    "time": 1678355890000,
+    "uuid": "3b2c98a6-b29e-49cc-a30a-f8ae9cc5e47f",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/seeting/private": {
+    "time": 1678357385000,
+    "uuid": "2878f4cc-0ff6-4a3c-afed-350968e2d57c",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/seeting/support": {
+    "time": 1678357876000,
+    "uuid": "ce06b6ab-9369-4425-a397-84b00ff4bf70",
+    "missing": false
+  },
   "/Users/apple/Documents/Dads/coco-poker/assets/scripts/Login.ts": {
-    "time": 1678351225538.0789,
+    "time": 1678274347000,
     "uuid": "91d97c05-b360-44e2-9cbc-81fbb90510dd",
     "missing": false
   },
+  "/Users/apple/Documents/Dads/coco-poker/assets/Choose room.meta": {
+    "time": 1678335627000
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/Homepage.meta": {
+    "time": 1678294808000
+  },
   "/Users/apple/Documents/Dads/coco-poker/assets/animations.meta": {
-    "time": 1678350071362.169
+    "time": 1678274347000
   },
   "/Users/apple/Documents/Dads/coco-poker/assets/images.meta": {
-    "time": 1678350071362.4775
+    "time": 1678274347000
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/login.meta": {
+    "time": 1678335219000
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/my profile.meta": {
+    "time": 1678338924000
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/ranking.meta": {
+    "time": 1678345010000
   },
   "/Users/apple/Documents/Dads/coco-poker/assets/scripts.meta": {
-    "time": 1678350071389.8538
+    "time": 1678274347000
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/seeting.meta": {
+    "time": 1678355437000
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/Choose room/choose room.meta": {
+    "time": 1678335950000
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/seeting/gen.meta": {
+    "time": 1678355437000
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/seeting/private.meta": {
+    "time": 1678357177000
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/seeting/support.meta": {
+    "time": 1678357805000
   },
   "/Users/apple/Documents/Dads/coco-poker/assets/scripts/Login.ts.meta": {
-    "time": 1678350071390.0444
+    "time": 1678274347000
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/Login.scene": {
+    "time": 1678353873000,
+    "uuid": "3a9e107c-c444-4c5d-b0d8-4794d9bd6656",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/choose room.scene": {
+    "time": 1678355707000,
+    "uuid": "de512fff-2828-42d9-bf6f-9c6b43b9cfad",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/homepage.scene": {
+    "time": 1678353857000,
+    "uuid": "b7d0975a-b160-40c1-825a-9a12700cbdda",
+    "missing": false
   },
   "/Users/apple/Documents/Dads/coco-poker/assets/main.scene": {
-    "time": 1678350332238.154,
+    "time": 1678274347000,
     "uuid": "78911f8a-d1bf-49d8-bfbb-2651d017a8b0",
     "missing": false
   },
+  "/Users/apple/Documents/Dads/coco-poker/assets/profile.scene": {
+    "time": 1678355719000,
+    "uuid": "23cfb5e0-69fd-4c0f-9b64-f3416b6d0800",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/rank.scene": {
+    "time": 1678355728000,
+    "uuid": "a0b55cec-cb20-4534-a133-f6a10246528c",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/setting-general.scene": {
+    "time": 1678358215000,
+    "uuid": "169d4508-1e9d-4ea6-bc39-03502308beec",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/setting-pri.scene": {
+    "time": 1678358237000,
+    "uuid": "1393484a-22f9-45da-bc10-b2256f4f0a72",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/setting-sup.scene": {
+    "time": 1678358209000,
+    "uuid": "1e7811ae-7650-4822-a2d1-6cf298d5cdcc",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/Homepage/Artboard 6@8x 1.png": {
+    "time": 1678295037000,
+    "uuid": "2c55fc7f-b345-496e-8333-5e7372a18ff0",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/Homepage/BackgroundHome.png": {
+    "time": 1678271848000,
+    "uuid": "0ea8d814-0270-4db4-af94-915b9c16126c",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/Homepage/Chat.png": {
+    "time": 1678271848000,
+    "uuid": "f8a337df-9ad6-4b06-b7bc-3b5e62492f01",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/Homepage/ChatVn.png": {
+    "time": 1678271849000,
+    "uuid": "324333f3-92df-4cc7-96ee-61e1d202eb4c",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/Homepage/Group (2).png": {
+    "time": 1678295422000,
+    "uuid": "c027736f-b05d-456e-ac93-6cba8df27339",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/Homepage/Group 427318942.png": {
+    "time": 1678295067000,
+    "uuid": "40e27d1c-74f3-4dfb-9e49-e8fcd4e77d58",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/Homepage/Group 427318943 (1).png": {
+    "time": 1678296771000,
+    "uuid": "4a18b84b-09cf-4229-99ae-6b681bd809cb",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/Homepage/Group 427318943 (2).png": {
+    "time": 1678296901000,
+    "uuid": "9c06b7e7-7226-4e9b-8666-7e30113444c1",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/Homepage/Layer 1.png": {
+    "time": 1678295532000,
+    "uuid": "b3203802-2b92-41b1-bc16-92f15dde4028",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/Homepage/Mail.png": {
+    "time": 1678271849000,
+    "uuid": "e746ea92-9b58-493e-9a5d-ef95be9279e4",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/Homepage/MailVn.png": {
+    "time": 1678271849000,
+    "uuid": "bdb3606d-c93e-486b-8901-061afdbecd87",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/Homepage/PlayNow.png": {
+    "time": 1678271850000,
+    "uuid": "ec658842-4058-4c99-8a23-ad84c2074f83",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/Homepage/PlaynowVn.png": {
+    "time": 1678271850000,
+    "uuid": "9743debc-9ac8-4338-8bab-a207714b72a0",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/Homepage/Ranking.png": {
+    "time": 1678271851000,
+    "uuid": "2119949a-58b2-4aab-bf7c-6009826644dd",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/Homepage/RankingVn.png": {
+    "time": 1678271851000,
+    "uuid": "cdf17e77-596f-4ccd-9cf8-a3f8c2bcaed5",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/Homepage/SelectRoomVn.png": {
+    "time": 1678271851000,
+    "uuid": "dc66eb5a-bac0-4cc7-aab2-77689574821c",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/Homepage/SettingsVn.png": {
+    "time": 1678271851000,
+    "uuid": "d68fa142-e08a-441c-974f-0d4572a59433",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/Homepage/girl_homepage_2 1.png": {
+    "time": 1678296230000,
+    "uuid": "01695082-5a8a-48fa-9ea4-9bde27275219",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/Homepage/settings.png": {
+    "time": 1678271851000,
+    "uuid": "b269c050-91dd-43f0-afdd-d0ba38e83dfd",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/Homepage/watchAds.png": {
+    "time": 1678271851000,
+    "uuid": "a66f1c5b-a9b4-4366-b963-b5c5733fef20",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/Homepage/watchAdsVn.png": {
+    "time": 1678271851000,
+    "uuid": "6a86f8f1-5901-4e38-bb3c-b011efd4d7b4",
+    "missing": false
+  },
   "/Users/apple/Documents/Dads/coco-poker/assets/animations/slide.anim": {
-    "time": 1678350071362.3062,
+    "time": 1678274347000,
     "uuid": "924c29ca-87ce-4c50-828c-7ca7d38df2fd",
     "missing": false
   },
   "/Users/apple/Documents/Dads/coco-poker/assets/images/A♥.png": {
-    "time": 1678350071362.6804,
+    "time": 1678274347000,
     "uuid": "20160287-9061-4d47-84b7-cfd067b001e2",
     "missing": false
   },
   "/Users/apple/Documents/Dads/coco-poker/assets/images/BackgroundRoom.png": {
-    "time": 1678350071379.6868,
+    "time": 1678274347000,
     "uuid": "1308ce5a-ce82-42e6-bb8e-6770a4a83a7e",
     "missing": false
   },
   "/Users/apple/Documents/Dads/coco-poker/assets/images/GirlBanker.png": {
-    "time": 1678350071380.6514,
+    "time": 1678274347000,
     "uuid": "265eadaa-a37a-492c-9bcf-1e291a9b5ca8",
     "missing": false
   },
   "/Users/apple/Documents/Dads/coco-poker/assets/images/TableRoom.png": {
-    "time": 1678350071389.337,
+    "time": 1678274347000,
     "uuid": "8ce7b3a6-375b-4c23-9817-e205ea27132c",
     "missing": false
   },
-  "/Users/apple/Documents/Dads/coco-poker/assets/animations/slide.anim.meta": {
-    "time": 1678350071362.3938
+  "/Users/apple/Documents/Dads/coco-poker/assets/login/4887959bd6a9a3ed4f0d1c278b08bff3 1.png": {
+    "time": 1678334831000,
+    "uuid": "ed200d51-8b78-44e5-8a3c-133f3309b326",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/login/BackgroundGame.png": {
+    "time": 1678271848000,
+    "uuid": "dd98f0f4-6c76-42e6-8f5e-d74df31b7590",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/login/Group 427318911.png": {
+    "time": 1678334809000,
+    "uuid": "a7dac547-962d-40bd-bd5c-6e431087b1c9",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/login/Group 427318912.png": {
+    "time": 1678334812000,
+    "uuid": "5a288c4d-4e21-44a0-ada3-32e74600c936",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/login/Group 427318913.png": {
+    "time": 1678334816000,
+    "uuid": "6180b42b-22a6-4e4e-b814-92e77d4b9282",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/login/Group 427318916.png": {
+    "time": 1678334827000,
+    "uuid": "deeb27a8-e7ec-406d-b96a-4446b6f6f787",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/login/Play as GUEST.png": {
+    "time": 1678334823000,
+    "uuid": "efe8d666-ac25-4de3-a876-e45465bd9ada",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/my profile/CameraIcon.png": {
+    "time": 1678271848000,
+    "uuid": "0197c98e-3dbe-4fae-bd95-448fd781cb00",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/my profile/FFAWkY.tif.png": {
+    "time": 1678338870000,
+    "uuid": "029293d5-ba08-4087-bcfa-f883df7baf5f",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/my profile/Frame.png": {
+    "time": 1678343826000,
+    "uuid": "21672a83-a551-4a4e-a1a6-8d2e7cb90a5c",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/my profile/Group 427318824.png": {
+    "time": 1678338860000,
+    "uuid": "c0a6796a-dc18-4bad-b4f9-93bd77d8ca5b",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/my profile/Group 427318909.png": {
+    "time": 1678338812000,
+    "uuid": "5c3667a0-bef1-444b-867b-92063446cd73",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/my profile/Group 427318946.png": {
+    "time": 1678341626000,
+    "uuid": "765dc121-fbb5-4c1c-93ef-3ac79db3c1cf",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/my profile/Layer 1 (1).png": {
+    "time": 1678339160000,
+    "uuid": "308187a0-0db2-410c-9687-4e58f7148cc3",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/my profile/Lz2IhG.tif.png": {
+    "time": 1678338873000,
+    "uuid": "813b1b21-4901-48e9-b5b8-9560e813745d",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/my profile/MY PROFILE.png": {
+    "time": 1678338742000,
+    "uuid": "6786a1d7-15a9-4ce0-91e3-1e79bebb6122",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/my profile/Vector.png": {
+    "time": 1678343562000,
+    "uuid": "47421619-a348-4d9d-9068-8068f5408f4d",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/my profile/bg.png": {
+    "time": 1678271851000,
+    "uuid": "eb1afe1b-3bd8-49f1-8d6c-7086bc954f0f",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/ranking/4.png": {
+    "time": 1678344862000,
+    "uuid": "f63d12f5-f18b-46b4-ad83-036f3e36068c",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/ranking/5.png": {
+    "time": 1678344862000,
+    "uuid": "2712be7a-8b95-49a3-8251-0bb7c667bce2",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/ranking/Group 427318947.png": {
+    "time": 1678344828000,
+    "uuid": "c6ffd29c-0458-4636-849b-2a19ad525ef0",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/ranking/Group 427318948 2.png": {
+    "time": 1678346098000,
+    "uuid": "a07a23d8-db33-4a1a-9b1c-b224cf210c02",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/ranking/Group-1.png": {
+    "time": 1678344862000,
+    "uuid": "82337cd3-77d6-4cf7-85ae-391f75e235c1",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/ranking/Group-2.png": {
+    "time": 1678344862000,
+    "uuid": "495ab3df-e629-41ca-8bed-17d3e5b54003",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/ranking/Group.png": {
+    "time": 1678344862000,
+    "uuid": "6e912f04-5876-45f2-a5ad-222482da5fe1",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/ranking/PLAYER.png": {
+    "time": 1678344862000,
+    "uuid": "64336a1a-72a6-4bfe-99b7-b24c2e340311",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/ranking/RANK.png": {
+    "time": 1678344862000,
+    "uuid": "f1b7ff67-3fff-49c3-ba55-24b325b8712f",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/ranking/TOTAL CHIP.png": {
+    "time": 1678344862000,
+    "uuid": "8c5283b9-9e6e-492f-a4aa-d5f0d862b6f1",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/ranking/WEEKLY RANKING.png": {
+    "time": 1678344811000,
+    "uuid": "a432dcfc-b933-4300-893b-14d2b7d5c837",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/Choose room/choose room/ButtonBack.png": {
+    "time": 1678271848000,
+    "uuid": "6533390c-dd74-446e-89a0-aaba3dcb43ef",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/Choose room/choose room/FrameCoins.png": {
+    "time": 1678271849000,
+    "uuid": "3f15fdf7-5700-4286-a08a-08cbdfde64b6",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/Choose room/choose room/Group 427318894.png": {
+    "time": 1678336325000,
+    "uuid": "2a0c82c9-c8e5-474e-880c-a5e75044feef",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/Choose room/choose room/Please choose a room to start playing.png": {
+    "time": 1678335805000,
+    "uuid": "096387f7-9531-49a9-bf8d-45871dc60cd3",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/Choose room/choose room/TextRoomLevels.png": {
+    "time": 1678271851000,
+    "uuid": "9216b3df-bb88-47cc-924b-d8fe787d1881",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/Choose room/choose room/bg.png": {
+    "time": 1678271851000,
+    "uuid": "7819fdc2-a140-42e0-bde9-ee88d56ca465",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/Choose room/choose room/classic room.png": {
+    "time": 1678336197000,
+    "uuid": "cb17e75f-3114-40b1-b17a-a23503abb56f",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/Choose room/choose room/pre room.png": {
+    "time": 1678336230000,
+    "uuid": "42d79b27-8ee5-4a9e-a973-2b311a87250a",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/Choose room/choose room/watchAds.png": {
+    "time": 1678271851000,
+    "uuid": "36ee3fd6-233d-4fe3-94f4-09bab9bc4bb0",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/Choose room/choose room/watchAdsVn.png": {
+    "time": 1678271851000,
+    "uuid": "58241bb7-2f0a-49c9-aa97-985edb87cfb3",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/seeting/gen/Artboard 10@5x 1.png": {
+    "time": 1678355323000,
+    "uuid": "057142b2-7e20-461f-bd3a-4cee656be3db",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/seeting/gen/Artboard 9@5x 1.png": {
+    "time": 1678355320000,
+    "uuid": "fa6a6c15-9913-4064-9fd8-3f1ab9aec70c",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/seeting/gen/GENERAL.png": {
+    "time": 1678355290000,
+    "uuid": "94af4dc5-46c3-407b-9f81-fe5d7ebc8706",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/seeting/gen/Group 427318828.png": {
+    "time": 1678355334000,
+    "uuid": "b671ba16-971d-4a60-be91-368982f26054",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/seeting/gen/Group 427318829.png": {
+    "time": 1678355337000,
+    "uuid": "d44f17d3-8a83-4d5b-a247-354d950267bd",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/seeting/gen/PRIVATE.png": {
+    "time": 1678355312000,
+    "uuid": "60dc5717-1f99-49aa-96c2-2b115fb4f5ba",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/seeting/gen/SETTINGS.png": {
+    "time": 1678355243000,
+    "uuid": "2ba534f5-2809-4127-853f-dabcabd0f7e4",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/seeting/gen/SUPPORT.png": {
+    "time": 1678355312000,
+    "uuid": "9b7f9c93-c46f-4914-aeb7-5680b76e5655",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/seeting/gen/Vector (1).png": {
+    "time": 1678355300000,
+    "uuid": "2a797b1c-fc50-4c56-b0a1-c1ed6a95b59a",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/seeting/gen/Vector.png": {
+    "time": 1678355290000,
+    "uuid": "9f0fd642-f5c1-4c7d-90d9-7a08acbb6478",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/seeting/private/GENERAL.png": {
+    "time": 1678357152000,
+    "uuid": "9ddd3983-72d3-4e1e-8dc7-0ef87f2331cf",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/seeting/private/Group 427318949 (1).png": {
+    "time": 1678357276000,
+    "uuid": "92b86874-756b-43ca-813b-2e237e112cc6",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/seeting/private/PRIVATE.png": {
+    "time": 1678357149000,
+    "uuid": "84cc1be6-e3dd-4e6f-82e5-4e6e7a8ea7fd",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/seeting/private/Vector.png": {
+    "time": 1678357308000,
+    "uuid": "4ef58fee-2776-41be-a6f6-219a3254fcda",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/seeting/support/Design (1).png": {
+    "time": 1678357757000,
+    "uuid": "943667cd-f0d1-4171-bac5-8a16cc162a97",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/seeting/support/Design.png": {
+    "time": 1678357752000,
+    "uuid": "9c01dde8-c681-4133-bdb7-879e2ad1a815",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/seeting/support/GENERAL.png": {
+    "time": 1678357152000,
+    "uuid": "ad226e9d-a1a9-4965-a73a-324e59875ef2",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/seeting/support/Graphic_Elements.png": {
+    "time": 1678357764000,
+    "uuid": "8108ecbc-f60b-4531-81d4-6e5ea911b82c",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/seeting/support/SUPPORT.png": {
+    "time": 1678357703000,
+    "uuid": "82d79988-3847-4a79-8936-fcd43b28e496",
+    "missing": false
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/Login.scene.meta": {
+    "time": 1678335152000
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/homepage.scene.meta": {
+    "time": 1678296023000
   },
   "/Users/apple/Documents/Dads/coco-poker/assets/main.scene.meta": {
-    "time": 1678350071389.7878
+    "time": 1678274347000
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/choose room.scene.meta": {
+    "time": 1678335640000
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/profile.scene.meta": {
+    "time": 1678344524000
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/rank.scene.meta": {
+    "time": 1678345117000
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/setting-general.scene.meta": {
+    "time": 1678357724000
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/setting-pri.scene.meta": {
+    "time": 1678357053000
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/setting-sup.scene.meta": {
+    "time": 1678355580000
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/Homepage/Group (2).png.meta": {
+    "time": 1678295439000
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/Homepage/Chat.png.meta": {
+    "time": 1678295133000
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/Homepage/ChatVn.png.meta": {
+    "time": 1678295133000
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/Homepage/Artboard 6@8x 1.png.meta": {
+    "time": 1678295133000
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/Homepage/Group 427318942.png.meta": {
+    "time": 1678295133000
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/Homepage/Group 427318943 (1).png.meta": {
+    "time": 1678296801000
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/Homepage/Group 427318943 (2).png.meta": {
+    "time": 1678296919000
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/Homepage/Layer 1.png.meta": {
+    "time": 1678295557000
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/Homepage/MailVn.png.meta": {
+    "time": 1678295133000
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/Homepage/Mail.png.meta": {
+    "time": 1678295133000
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/Homepage/PlayNow.png.meta": {
+    "time": 1678295133000
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/Homepage/PlaynowVn.png.meta": {
+    "time": 1678295133000
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/Homepage/Ranking.png.meta": {
+    "time": 1678295133000
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/Homepage/BackgroundHome.png.meta": {
+    "time": 1678295133000
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/Homepage/SelectRoomVn.png.meta": {
+    "time": 1678295133000
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/Homepage/RankingVn.png.meta": {
+    "time": 1678295133000
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/Homepage/SettingsVn.png.meta": {
+    "time": 1678295133000
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/Homepage/settings.png.meta": {
+    "time": 1678295133000
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/animations/slide.anim.meta": {
+    "time": 1678274347000
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/Homepage/watchAds.png.meta": {
+    "time": 1678295134000
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/Homepage/watchAdsVn.png.meta": {
+    "time": 1678295133000
   },
   "/Users/apple/Documents/Dads/coco-poker/assets/images/A♥.png.meta": {
-    "time": 1678350071362.7773
+    "time": 1678274347000
   },
   "/Users/apple/Documents/Dads/coco-poker/assets/images/GirlBanker.png.meta": {
-    "time": 1678350071380.7344
+    "time": 1678274347000
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/Homepage/girl_homepage_2 1.png.meta": {
+    "time": 1678296257000
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/login/BackgroundGame.png.meta": {
+    "time": 1678335221000
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/login/4887959bd6a9a3ed4f0d1c278b08bff3 1.png.meta": {
+    "time": 1678335222000
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/login/Group 427318911.png.meta": {
+    "time": 1678335221000
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/login/Group 427318913.png.meta": {
+    "time": 1678335221000
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/login/Group 427318912.png.meta": {
+    "time": 1678335221000
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/login/Group 427318916.png.meta": {
+    "time": 1678335221000
   },
   "/Users/apple/Documents/Dads/coco-poker/assets/images/BackgroundRoom.png.meta": {
-    "time": 1678350071380.0376
+    "time": 1678274347000
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/login/Play as GUEST.png.meta": {
+    "time": 1678335221000
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/my profile/CameraIcon.png.meta": {
+    "time": 1678338925000
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/my profile/FFAWkY.tif.png.meta": {
+    "time": 1678338925000
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/my profile/Frame.png.meta": {
+    "time": 1678343839000
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/my profile/Group 427318824.png.meta": {
+    "time": 1678338925000
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/my profile/Group 427318909.png.meta": {
+    "time": 1678338925000
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/my profile/Group 427318946.png.meta": {
+    "time": 1678341666000
   },
   "/Users/apple/Documents/Dads/coco-poker/assets/images/TableRoom.png.meta": {
-    "time": 1678350071389.5925
+    "time": 1678274347000
   },
-  "/Users/apple/Documents/Dads/coco-poker/assets/cs-huawei.meta": {
-    "time": 1678356300274.366
+  "/Users/apple/Documents/Dads/coco-poker/assets/my profile/Lz2IhG.tif.png.meta": {
+    "time": 1678338926000
   },
-  "/Users/apple/Documents/Dads/coco-poker/assets/cs-huawei/agcauth.meta": {
-    "time": 1678356300274.4614
+  "/Users/apple/Documents/Dads/coco-poker/assets/my profile/MY PROFILE.png.meta": {
+    "time": 1678338926000
   },
-  "/Users/apple/Documents/Dads/coco-poker/assets/cs-huawei/agcauth/agcauth.js.meta": {
-    "time": 1678356300361.44
+  "/Users/apple/Documents/Dads/coco-poker/assets/my profile/Vector.png.meta": {
+    "time": 1678343619000
   },
-  "/Users/apple/Documents/Dads/coco-poker/assets/cs-huawei": {
-    "time": 1678356300273.5684,
-    "uuid": "8c0d690d-6ea0-495b-8335-ea5c97eb2d02",
-    "missing": false
+  "/Users/apple/Documents/Dads/coco-poker/assets/my profile/bg.png.meta": {
+    "time": 1678338926000
   },
-  "/Users/apple/Documents/Dads/coco-poker/assets/cs-huawei/agcauth": {
-    "time": 1678356300271.798,
-    "uuid": "25442eed-b204-42c5-a7de-11e46321a7f5",
-    "missing": false
+  "/Users/apple/Documents/Dads/coco-poker/assets/ranking/4.png.meta": {
+    "time": 1678345010000
   },
-  "/Users/apple/Documents/Dads/coco-poker/assets/cs-huawei/agcauth/agcauth.js": {
-    "time": 1678356300271.8887,
-    "uuid": "aff1c175-d373-4409-bea1-300d1209c8c2",
-    "missing": false
+  "/Users/apple/Documents/Dads/coco-poker/assets/ranking/5.png.meta": {
+    "time": 1678345010000
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/ranking/Group-1.png.meta": {
+    "time": 1678345011000
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/ranking/Group 427318948 2.png.meta": {
+    "time": 1678346273000
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/ranking/Group-2.png.meta": {
+    "time": 1678345011000
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/ranking/Group 427318947.png.meta": {
+    "time": 1678345012000
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/ranking/PLAYER.png.meta": {
+    "time": 1678345011000
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/ranking/Group.png.meta": {
+    "time": 1678345011000
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/ranking/RANK.png.meta": {
+    "time": 1678345011000
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/ranking/TOTAL CHIP.png.meta": {
+    "time": 1678345012000
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/Choose room/choose room/ButtonBack.png.meta": {
+    "time": 1678335954000
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/Choose room/choose room/FrameCoins.png.meta": {
+    "time": 1678337644000
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/ranking/WEEKLY RANKING.png.meta": {
+    "time": 1678345012000
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/Choose room/choose room/Please choose a room to start playing.png.meta": {
+    "time": 1678336683000
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/Choose room/choose room/TextRoomLevels.png.meta": {
+    "time": 1678335958000
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/Choose room/choose room/bg.png.meta": {
+    "time": 1678335959000
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/Choose room/choose room/Group 427318894.png.meta": {
+    "time": 1678336352000
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/Choose room/choose room/watchAds.png.meta": {
+    "time": 1678335959000
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/Choose room/choose room/watchAdsVn.png.meta": {
+    "time": 1678335959000
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/my profile/Layer 1 (1).png.meta": {
+    "time": 1678339185000
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/Choose room/choose room/classic room.png.meta": {
+    "time": 1678336352000
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/seeting/gen/Artboard 9@5x 1.png.meta": {
+    "time": 1678355439000
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/seeting/gen/Artboard 10@5x 1.png.meta": {
+    "time": 1678355439000
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/seeting/gen/GENERAL.png.meta": {
+    "time": 1678355439000
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/Choose room/choose room/pre room.png.meta": {
+    "time": 1678336353000
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/seeting/gen/Group 427318828.png.meta": {
+    "time": 1678355439000
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/seeting/gen/PRIVATE.png.meta": {
+    "time": 1678355439000
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/seeting/gen/SUPPORT.png.meta": {
+    "time": 1678355439000
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/seeting/gen/Group 427318829.png.meta": {
+    "time": 1678355439000
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/seeting/gen/SETTINGS.png.meta": {
+    "time": 1678355439000
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/seeting/gen/Vector (1).png.meta": {
+    "time": 1678355891000
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/seeting/private/GENERAL.png.meta": {
+    "time": 1678357178000
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/seeting/gen/Vector.png.meta": {
+    "time": 1678355439000
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/seeting/private/Group 427318949 (1).png.meta": {
+    "time": 1678357385000
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/seeting/private/PRIVATE.png.meta": {
+    "time": 1678357178000
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/seeting/private/Vector.png.meta": {
+    "time": 1678357385000
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/seeting/support/Design (1).png.meta": {
+    "time": 1678357805000
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/seeting/support/GENERAL.png.meta": {
+    "time": 1678357876000
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/seeting/support/Design.png.meta": {
+    "time": 1678357805000
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/seeting/support/Graphic_Elements.png.meta": {
+    "time": 1678357805000
+  },
+  "/Users/apple/Documents/Dads/coco-poker/assets/seeting/support/SUPPORT.png.meta": {
+    "time": 1678357876000
   }
 }

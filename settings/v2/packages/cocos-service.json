@@ -1,18 +1,14 @@
 {
   "__version__": "3.0.5",
   "game": {
-    "app_id": "683551845",
-    "c_id": "0",
-    "name": "Poker"
+    "name": "UNKNOW GAME",
+    "app_id": "UNKNOW",
+    "c_id": "0"
   },
   "appConfigMaps": [
     {
       "app_id": "UNKNOW",
       "config_id": "10410f"
-    },
-    {
-      "app_id": "683551845",
-      "config_id": "62aa40"
     }
   ],
   "configs": [
@@ -22,42 +18,6 @@
       "config_name": "Default",
       "config_remarks": "",
       "services": []
-    },
-    {
-      "app_id": "683551845",
-      "config_id": "62aa40",
-      "config_name": "Default",
-      "config_remarks": "",
-      "services": [
-        {
-          "service_id": "278",
-          "enable": false,
-          "param": {}
-        },
-        {
-          "service_id": "304",
-          "enable": true,
-          "param": {
-            "providerEnabledMap": {
-              "Google": true,
-              "Facebook": true
-            },
-            "providerParamsMap": {
-              "facebook_app_id": "388421841221352578",
-              "google_client_id": "388421841221352578"
-            },
-            "plugin_version": "2.0.3_1.6.3.300"
-          }
-        },
-        {
-          "service_id": "235",
-          "enable": true,
-          "param": {
-            "app_id": "683551845",
-            "store_id": "H5"
-          }
-        }
-      ]
     }
   ]
 }

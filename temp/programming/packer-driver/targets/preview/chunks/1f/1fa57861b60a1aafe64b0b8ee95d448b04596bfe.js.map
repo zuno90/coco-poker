@@ -1,1 +1,0 @@
-{"version":3,"sources":["file:///Users/apple/Documents/Dads/coco-poker/node_modules/axios/lib/env/data.js"],"names":["VERSION"],"mappings":";;;;;;;yBAAaA,O,GAAU,O","sourcesContent":["export const VERSION = \"1.3.4\";"]}

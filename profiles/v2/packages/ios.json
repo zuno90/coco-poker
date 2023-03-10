@@ -6,73 +6,49 @@
       "outputName": "ios",
       "mainBundleCompressionType": "merge_dep",
       "platform": "ios",
-      "buildStageGroup": {
-        "build": [
-          "make",
-          "run"
-        ]
-      }
+      "startScene": "3a9e107c-c444-4c5d-b0d8-4794d9bd6656",
+      "debug": true
     },
     "options": {
       "ios": {
-        "packageName": "pokeGtech.cocos.ios",
+        "packageName": "PokerGTech",
         "renderBackEnd": {
           "metal": true
         },
-        "skipUpdateXcodeProject": false,
+        "skipUpdateXcodeProject": true,
         "orientation": {
           "portrait": false,
           "upsideDown": false,
-          "landscapeRight": false,
+          "landscapeRight": true,
           "landscapeLeft": true
         },
         "osTarget": {
           "iphoneos": false,
           "simulator": true
         },
-        "targetVersion": "12.0",
+        "targetVersion": "13.0",
         "__version__": "1.0.0",
         "developerTeam": "79RF53F62V_929AA5E05E5A01298519FA992CFED384191F7846"
       }
     },
     "taskOptionsMap": {
-      "1678357639893": {
-        "packageName": "pokeGtech.cocos.ios",
+      "1678425728378": {
+        "packageName": "PokerGTech",
         "renderBackEnd": {
           "metal": true
         },
-        "skipUpdateXcodeProject": false,
+        "skipUpdateXcodeProject": true,
         "orientation": {
           "portrait": false,
           "upsideDown": false,
-          "landscapeRight": false,
+          "landscapeRight": true,
           "landscapeLeft": true
         },
         "osTarget": {
           "iphoneos": false,
           "simulator": true
         },
-        "targetVersion": "12.0",
-        "__version__": "1.0.0",
-        "developerTeam": "79RF53F62V_929AA5E05E5A01298519FA992CFED384191F7846"
-      },
-      "1678358143132": {
-        "packageName": "pokeGtech.cocos.ios",
-        "renderBackEnd": {
-          "metal": true
-        },
-        "skipUpdateXcodeProject": false,
-        "orientation": {
-          "portrait": false,
-          "upsideDown": false,
-          "landscapeRight": false,
-          "landscapeLeft": true
-        },
-        "osTarget": {
-          "iphoneos": false,
-          "simulator": true
-        },
-        "targetVersion": "12.0",
+        "targetVersion": "13.0",
         "__version__": "1.0.0",
         "developerTeam": "79RF53F62V_929AA5E05E5A01298519FA992CFED384191F7846"
       }

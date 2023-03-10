@@ -3,168 +3,102 @@
   "builder": {
     "options": {
       "web-desktop": {
-        "configID": "62aa40",
+        "configID": "10410f",
         "services": [
           {
             "service_id": "235",
             "service_component_name": "service-analytics",
             "builder": "/Users/apple/.CocosCreator/.service/analytics/builder/builder.js",
-            "enable": true,
-            "params": {
-              "app_id": "683551845",
-              "store_id": "H5"
-            }
+            "enable": false,
+            "params": {}
           },
           {
             "service_id": "304",
             "service_component_name": "service-agcauth",
             "builder": "/Users/apple/.CocosCreator/.service/agcauth/src/builder/builder.js",
-            "enable": true,
-            "params": {
-              "providerEnabledMap": {
-                "Google": true,
-                "Facebook": true
-              },
-              "providerParamsMap": {
-                "facebook_app_id": "388421841221352578",
-                "google_client_id": "388421841221352578"
-              },
-              "plugin_version": "2.0.3_1.6.3.300"
-            }
+            "enable": false,
+            "params": {}
+          }
+        ]
+      },
+      "huawei-agc": {
+        "configID": "10410f",
+        "services": [
+          {
+            "service_id": "235",
+            "service_component_name": "service-analytics",
+            "builder": "/Users/apple/.CocosCreator/.service/analytics/builder/builder.js",
+            "enable": false,
+            "params": {}
+          },
+          {
+            "service_id": "304",
+            "service_component_name": "service-agcauth",
+            "builder": "/Users/apple/.CocosCreator/.service/agcauth/src/builder/builder.js",
+            "enable": false,
+            "params": {}
           }
         ]
       },
       "ios": {
-        "configID": "62aa40",
+        "configID": "10410f",
         "services": [
           {
             "service_id": "235",
             "service_component_name": "service-analytics",
             "builder": "/Users/apple/.CocosCreator/.service/analytics/builder/builder.js",
-            "enable": true,
-            "params": {
-              "app_id": "683551845",
-              "store_id": "H5"
-            }
+            "enable": false,
+            "params": {}
           },
           {
             "service_id": "304",
             "service_component_name": "service-agcauth",
             "builder": "/Users/apple/.CocosCreator/.service/agcauth/src/builder/builder.js",
-            "enable": true,
-            "params": {
-              "providerEnabledMap": {
-                "Google": true,
-                "Facebook": true
-              },
-              "providerParamsMap": {
-                "facebook_app_id": "388421841221352578",
-                "google_client_id": "388421841221352578"
-              },
-              "plugin_version": "2.0.3_1.6.3.300"
-            }
+            "enable": false,
+            "params": {}
           }
         ]
       }
     },
     "taskOptionsMap": {
-      "1678357639893": {
-        "configID": "62aa40",
+      "1678425728378": {
+        "configID": "10410f",
         "services": [
           {
             "service_id": "235",
             "service_component_name": "service-analytics",
             "builder": "/Users/apple/.CocosCreator/.service/analytics/builder/builder.js",
-            "enable": true,
-            "params": {
-              "app_id": "683551845",
-              "store_id": "H5"
-            }
+            "enable": false,
+            "params": {}
           },
           {
             "service_id": "304",
             "service_component_name": "service-agcauth",
             "builder": "/Users/apple/.CocosCreator/.service/agcauth/src/builder/builder.js",
-            "enable": true,
-            "params": {
-              "providerEnabledMap": {
-                "Google": true,
-                "Facebook": true
-              },
-              "providerParamsMap": {
-                "facebook_app_id": "388421841221352578",
-                "google_client_id": "388421841221352578"
-              },
-              "plugin_version": "2.0.3_1.6.3.300"
-            }
+            "enable": false,
+            "params": {}
           }
         ]
-      },
-      "1678358143132": {
-        "configID": "62aa40",
-        "services": [
-          {
-            "service_id": "235",
-            "service_component_name": "service-analytics",
-            "builder": "/Users/apple/.CocosCreator/.service/analytics/builder/builder.js",
-            "enable": true,
-            "params": {
-              "app_id": "683551845",
-              "store_id": "H5"
-            }
-          },
-          {
-            "service_id": "304",
-            "service_component_name": "service-agcauth",
-            "builder": "/Users/apple/.CocosCreator/.service/agcauth/src/builder/builder.js",
-            "enable": true,
-            "params": {
-              "providerEnabledMap": {
-                "Google": true,
-                "Facebook": true
-              },
-              "providerParamsMap": {
-                "facebook_app_id": "388421841221352578",
-                "google_client_id": "388421841221352578"
-              },
-              "plugin_version": "2.0.3_1.6.3.300"
-            }
-          }
-        ],
-        "__version__": "3.0.5"
       }
     },
     "__version__": "1.3.4"
   },
   "builder-options": {
-    "configID": "62aa40",
+    "configID": "10410f",
     "services": [
       {
         "service_id": "235",
         "service_component_name": "service-analytics",
         "builder": "/Users/apple/.CocosCreator/.service/analytics/builder/builder.js",
-        "enable": true,
-        "params": {
-          "app_id": "683551845",
-          "store_id": "H5"
-        }
+        "enable": false,
+        "params": {}
       },
       {
         "service_id": "304",
         "service_component_name": "service-agcauth",
         "builder": "/Users/apple/.CocosCreator/.service/agcauth/src/builder/builder.js",
-        "enable": true,
-        "params": {
-          "providerEnabledMap": {
-            "Google": true,
-            "Facebook": true
-          },
-          "providerParamsMap": {
-            "facebook_app_id": "388421841221352578",
-            "google_client_id": "388421841221352578"
-          },
-          "plugin_version": "2.0.3_1.6.3.300"
-        }
+        "enable": false,
+        "params": {}
       }
     ],
     "__version__": "3.0.5"
