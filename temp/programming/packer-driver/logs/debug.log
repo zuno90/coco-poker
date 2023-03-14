@@ -1,11 +1,11 @@
-debug: Thu, 09 Mar 2023 11:04:44 GMT
-debug: Project: /Users/apple/Documents/Dads/coco-poker
+debug: Tue, 14 Mar 2023 05:14:40 GMT
+debug: Project: /Users/zuno/Desktop/ZUNO/coco-poker
 debug: Targets: editor,preview
 debug: Incremental file seems great.
 debug: Engine path: /Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine
 debug: Initializing target [Editor]
 debug: Loading cache
-debug: Loading cache costs 1.0900830030441284ms.
+debug: Loading cache costs 1.5655829906463623ms.
 debug: Engine features shipped in editor: base,gfx-webgl,gfx-webgl2,gfx-empty,3d,animation,skeletal-animation,2d,ui,particle,particle-2d,physics-framework,physics-2d-framework,intersection-2d,primitive,profiler,occlusion-query,geometry-renderer,debug-renderer,audio,video,xr,light-probe,terrain,webview,tween,tiled-map,spine,dragon-bones,marionette,custom-pipeline,websocket,websocket-server
 debug: Our import map(foo:/bar): {
   "imports": {
@@ -14,7 +14,7 @@ debug: Our import map(foo:/bar): {
 }
 debug: Initializing target [Preview]
 debug: Loading cache
-debug: Loading cache costs 1.1051659882068634ms.
+debug: Loading cache costs 1.2479169368743896ms.
 debug: Our import map(foo:/bar): {
   "imports": {
     "cc": "cce:/internal/x/cc"
@@ -28,30 +28,37 @@ debug: Reset databases. Enumerated domains: [
   },
   {
     "root": "db://assets/",
-    "physical": "/Users/apple/Documents/Dads/coco-poker/assets"
+    "physical": "/Users/zuno/Desktop/ZUNO/coco-poker/assets"
+  },
+  {
+    "root": "db://colyseus-sdk/",
+    "physical": "/Users/zuno/Desktop/ZUNO/coco-poker/extensions/colyseus-sdk/runtime",
+    "jail": "/Users/zuno/Desktop/ZUNO/coco-poker/extensions/colyseus-sdk"
   }
 ]
 debug: Our import map(foo:/bar): {
   "imports": {
     "cc": "cce:/internal/x/cc",
     "db://internal/": "file:///Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/",
-    "db://assets/": "file:///Users/apple/Documents/Dads/coco-poker/assets/"
+    "db://assets/": "file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/",
+    "db://colyseus-sdk/": "file:///Users/zuno/Desktop/ZUNO/coco-poker/extensions/colyseus-sdk/runtime/"
   }
 }
 debug: Our import map(foo:/bar): {
   "imports": {
     "cc": "cce:/internal/x/cc",
     "db://internal/": "file:///Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/",
-    "db://assets/": "file:///Users/apple/Documents/Dads/coco-poker/assets/"
+    "db://assets/": "file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/",
+    "db://colyseus-sdk/": "file:///Users/zuno/Desktop/ZUNO/coco-poker/extensions/colyseus-sdk/runtime/"
   }
 }
 debug: Pulling asset-db.
-debug: Fetch asset-db cost: 19.81070899963379ms.
+debug: Fetch asset-db cost: 5.827583074569702ms.
 debug: Build iteration starts.
-Number of accumulated asset changes: 1
+Number of accumulated asset changes: 11
 Feature changed: false
 debug: Target(editor) build started.
-debug: Detected change: cce:/internal/x/cc. Last mtime: Thu Jan 01 1970 08:00:27 GMT+0800 (Indochina Time), Current mtime: Thu Jan 01 1970 08:00:04 GMT+0800 (Indochina Time)
+debug: Detected change: cce:/internal/x/cc. Last mtime: Thu Jan 01 1970 08:00:04 GMT+0800 (Indochina Time), Current mtime: Thu Jan 01 1970 08:00:03 GMT+0800 (Indochina Time)
 debug: Inspect cce:/internal/x/cc
 debug: Resolve cce:/internal/x/cc-fu/base from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/base.
 debug: Resolve cce:/internal/x/cc-fu/gfx-webgl from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/gfx-webgl.
@@ -82,16 +89,75 @@ debug: Resolve cce:/internal/x/cc-fu/tiled-map from cce:/internal/x/cc as extern
 debug: Resolve cce:/internal/x/cc-fu/spine from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/spine.
 debug: Resolve cce:/internal/x/cc-fu/dragon-bones from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/dragon-bones.
 debug: Resolve cce:/internal/x/cc-fu/custom-pipeline from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/custom-pipeline.
-debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:00:57 GMT+0800 (Indochina Time), Current mtime: Thu Jan 01 1970 08:00:06 GMT+0800 (Indochina Time)
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 09:08:17 GMT+0800 (Indochina Time), Current mtime: Thu Jan 01 1970 08:00:03 GMT+0800 (Indochina Time)
 debug: Inspect cce:/internal/x/prerequisite-imports
-debug: Resolve file:///Users/apple/Documents/Dads/coco-poker/assets/scripts/Login.ts from cce:/internal/x/prerequisite-imports as file:///Users/apple/Documents/Dads/coco-poker/assets/scripts/Login.ts.
-debug: Inspect file:///Users/apple/Documents/Dads/coco-poker/assets/scripts/Login.ts
-debug: Resolve cc from file:///Users/apple/Documents/Dads/coco-poker/assets/scripts/Login.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/apple/Documents/Dads/coco-poker/assets/scripts/Login.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/apple/Documents/Dads/coco-poker/assets/scripts/Login.ts as cce:/internal/x/cc.
-debug: Target(editor) ends with cost 48.95208302140236ms.
+debug: Resolve file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/__types__/layout.type.ts from cce:/internal/x/prerequisite-imports as file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/__types__/layout.type.ts.
+debug: Resolve cc from file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/__types__/layout.type.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/__types__/room-level-type.ts from cce:/internal/x/prerequisite-imports as file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/__types__/room-level-type.ts.
+debug: Resolve cc from file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/__types__/room-level-type.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/ColyseusNetwork.ts from cce:/internal/x/prerequisite-imports as file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/ColyseusNetwork.ts.
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/ColyseusNetwork.ts as cce:/internal/code-quality/cr.mjs.
+debug: Detected change: cce:/internal/code-quality/cr.mjs. Last mtime: Tue Mar 14 2023 11:01:57 GMT+0700 (Indochina Time), Current mtime: Tue Mar 14 2023 12:14:37 GMT+0700 (Indochina Time)
+debug: Inspect cce:/internal/code-quality/cr.mjs
+debug: Resolve cc from file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/ColyseusNetwork.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/ColyseusNetwork.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/ColyseusNetwork.ts as cce:/internal/x/cc.
+debug: Create cjs interop url for 'file:///Users/zuno/Desktop/ZUNO/coco-poker/extensions/colyseus-sdk/runtime/colyseus.js'
+debug: Resolve db://colyseus-sdk/colyseus.js from file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/ColyseusNetwork.ts as file:///Users/zuno/Desktop/ZUNO/coco-poker/extensions/colyseus-sdk/runtime/colyseus.mjs?cjs=&original=.js.
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/zuno/Desktop/ZUNO/coco-poker/extensions/colyseus-sdk/runtime/colyseus.mjs?cjs=&original=.js as cce:/internal/code-quality/cr.mjs.
+debug: Resolve ./colyseus.js from file:///Users/zuno/Desktop/ZUNO/coco-poker/extensions/colyseus-sdk/runtime/colyseus.mjs?cjs=&original=.js as file:///Users/zuno/Desktop/ZUNO/coco-poker/extensions/colyseus-sdk/runtime/colyseus.js.
+debug: Detected change: file:///Users/zuno/Desktop/ZUNO/coco-poker/extensions/colyseus-sdk/runtime/colyseus.js. Last mtime: Wed Jun 09 2021 03:56:00 GMT+0700 (Indochina Time)@b554cfc3-98f3-4c04-ac8b-fd4ca2621ffb, Current mtime: Wed Jun 09 2021 03:56:00 GMT+0700 (Indochina Time)
+debug: Inspect file:///Users/zuno/Desktop/ZUNO/coco-poker/extensions/colyseus-sdk/runtime/colyseus.js
+debug: Resolve cce:/internal/ml/cjs-loader.mjs from file:///Users/zuno/Desktop/ZUNO/coco-poker/extensions/colyseus-sdk/runtime/colyseus.js as cce:/internal/ml/cjs-loader.mjs.
+debug: Detected change: cce:/internal/ml/cjs-loader.mjs. Last mtime: Tue Mar 14 2023 11:01:57 GMT+0700 (Indochina Time), Current mtime: Tue Mar 14 2023 12:14:37 GMT+0700 (Indochina Time)
+debug: Inspect cce:/internal/ml/cjs-loader.mjs
+debug: Resolve cce:/internal/ml/cjs-loader.mjs from file:///Users/zuno/Desktop/ZUNO/coco-poker/extensions/colyseus-sdk/runtime/colyseus.mjs?cjs=&original=.js as cce:/internal/ml/cjs-loader.mjs.
+debug: Resolve ./colyseus.js from file:///Users/zuno/Desktop/ZUNO/coco-poker/extensions/colyseus-sdk/runtime/colyseus.mjs?cjs=&original=.js as file:///Users/zuno/Desktop/ZUNO/coco-poker/extensions/colyseus-sdk/runtime/colyseus.js.
+debug: Resolve ./colyseus.js from file:///Users/zuno/Desktop/ZUNO/coco-poker/extensions/colyseus-sdk/runtime/colyseus.mjs?cjs=&original=.js as file:///Users/zuno/Desktop/ZUNO/coco-poker/extensions/colyseus-sdk/runtime/colyseus.js.
+debug: Resolve file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/Config.ts from cce:/internal/x/prerequisite-imports as file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/Config.ts.
+debug: Resolve cc from file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/Config.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/Config.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/Config.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/auth/Login.ts from cce:/internal/x/prerequisite-imports as file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/auth/Login.ts.
+debug: Resolve cc from file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/auth/Login.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/auth/Login.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/auth/Login.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/loading/Loading.ts from cce:/internal/x/prerequisite-imports as file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/loading/Loading.ts.
+debug: Resolve cc from file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/loading/Loading.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/loading/Loading.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/loading/Loading.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/LobbyLayout.ts from cce:/internal/x/prerequisite-imports as file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/LobbyLayout.ts.
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/LobbyLayout.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/LobbyLayout.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/LobbyLayout.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/LobbyLayout.ts as cce:/internal/x/cc.
+debug: Resolve db://assets/__types__/layout.type from file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/LobbyLayout.ts as file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/__types__/layout.type.ts.
+debug: Resolve file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/MyProfile.ts from cce:/internal/x/prerequisite-imports as file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/MyProfile.ts.
+debug: Resolve cc from file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/MyProfile.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/MyProfile.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/MyProfile.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/RoomSelect.ts from cce:/internal/x/prerequisite-imports as file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/RoomSelect.ts.
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/RoomSelect.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/RoomSelect.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/RoomSelect.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/RoomSelect.ts as cce:/internal/x/cc.
+debug: Resolve db://assets/__types__/layout.type from file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/RoomSelect.ts as file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/__types__/layout.type.ts.
+debug: Resolve file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/Setting.ts from cce:/internal/x/prerequisite-imports as file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/Setting.ts.
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/Setting.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/Setting.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/Setting.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/Setting.ts as cce:/internal/x/cc.
+debug: Resolve db://assets/__types__/layout.type from file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/Setting.ts as file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/__types__/layout.type.ts.
+debug: Resolve file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/main.ts from cce:/internal/x/prerequisite-imports as file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/main.ts.
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/main.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/main.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/main.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/main.ts as cce:/internal/x/cc.
+debug: Resolve db://assets/__types__/layout.type from file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/main.ts as file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/__types__/layout.type.ts.
+debug: Resolve db://assets/scripts/Config from file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/main.ts as file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/Config.ts.
+debug: Target(editor) ends with cost 546.2442920207977ms.
 debug: Target(preview) build started.
-debug: Detected change: cce:/internal/x/cc. Last mtime: Thu Jan 01 1970 08:00:27 GMT+0800 (Indochina Time), Current mtime: Thu Jan 01 1970 08:00:04 GMT+0800 (Indochina Time)
+debug: Detected change: cce:/internal/x/cc. Last mtime: Thu Jan 01 1970 08:00:04 GMT+0800 (Indochina Time), Current mtime: Thu Jan 01 1970 08:00:03 GMT+0800 (Indochina Time)
 debug: Inspect cce:/internal/x/cc
 debug: Resolve cce:/internal/x/cc-fu/2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/2d.
 debug: Resolve cce:/internal/x/cc-fu/sorting from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/sorting.
@@ -113,26 +179,171 @@ debug: Resolve cce:/internal/x/cc-fu/tween from cce:/internal/x/cc as external d
 debug: Resolve cce:/internal/x/cc-fu/ui from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/ui.
 debug: Resolve cce:/internal/x/cc-fu/video from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/video.
 debug: Resolve cce:/internal/x/cc-fu/webview from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/webview.
-debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:00:57 GMT+0800 (Indochina Time), Current mtime: Thu Jan 01 1970 08:00:06 GMT+0800 (Indochina Time)
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 09:08:17 GMT+0800 (Indochina Time), Current mtime: Thu Jan 01 1970 08:00:04 GMT+0800 (Indochina Time)
 debug: Inspect cce:/internal/x/prerequisite-imports
-debug: Resolve file:///Users/apple/Documents/Dads/coco-poker/assets/scripts/Login.ts from cce:/internal/x/prerequisite-imports as file:///Users/apple/Documents/Dads/coco-poker/assets/scripts/Login.ts.
-debug: Inspect file:///Users/apple/Documents/Dads/coco-poker/assets/scripts/Login.ts
-debug: Resolve cc from file:///Users/apple/Documents/Dads/coco-poker/assets/scripts/Login.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/apple/Documents/Dads/coco-poker/assets/scripts/Login.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/apple/Documents/Dads/coco-poker/assets/scripts/Login.ts as cce:/internal/x/cc.
-debug: Target(preview) ends with cost 139.5967499911785ms.
+debug: Resolve file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/__types__/layout.type.ts from cce:/internal/x/prerequisite-imports as file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/__types__/layout.type.ts.
+debug: Resolve cc from file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/__types__/layout.type.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/__types__/room-level-type.ts from cce:/internal/x/prerequisite-imports as file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/__types__/room-level-type.ts.
+debug: Resolve cc from file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/__types__/room-level-type.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/ColyseusNetwork.ts from cce:/internal/x/prerequisite-imports as file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/ColyseusNetwork.ts.
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/ColyseusNetwork.ts as cce:/internal/code-quality/cr.mjs.
+debug: Detected change: cce:/internal/code-quality/cr.mjs. Last mtime: Tue Mar 14 2023 11:01:57 GMT+0700 (Indochina Time), Current mtime: Tue Mar 14 2023 12:14:37 GMT+0700 (Indochina Time)
+debug: Inspect cce:/internal/code-quality/cr.mjs
+debug: Resolve cc from file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/ColyseusNetwork.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/ColyseusNetwork.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/ColyseusNetwork.ts as cce:/internal/x/cc.
+debug: Create cjs interop url for 'file:///Users/zuno/Desktop/ZUNO/coco-poker/extensions/colyseus-sdk/runtime/colyseus.js'
+debug: Resolve db://colyseus-sdk/colyseus.js from file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/ColyseusNetwork.ts as file:///Users/zuno/Desktop/ZUNO/coco-poker/extensions/colyseus-sdk/runtime/colyseus.mjs?cjs=&original=.js.
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/zuno/Desktop/ZUNO/coco-poker/extensions/colyseus-sdk/runtime/colyseus.mjs?cjs=&original=.js as cce:/internal/code-quality/cr.mjs.
+debug: Resolve ./colyseus.js from file:///Users/zuno/Desktop/ZUNO/coco-poker/extensions/colyseus-sdk/runtime/colyseus.mjs?cjs=&original=.js as file:///Users/zuno/Desktop/ZUNO/coco-poker/extensions/colyseus-sdk/runtime/colyseus.js.
+debug: Detected change: file:///Users/zuno/Desktop/ZUNO/coco-poker/extensions/colyseus-sdk/runtime/colyseus.js. Last mtime: Wed Jun 09 2021 03:56:00 GMT+0700 (Indochina Time)@b554cfc3-98f3-4c04-ac8b-fd4ca2621ffb, Current mtime: Wed Jun 09 2021 03:56:00 GMT+0700 (Indochina Time)
+debug: Inspect file:///Users/zuno/Desktop/ZUNO/coco-poker/extensions/colyseus-sdk/runtime/colyseus.js
+debug: Resolve cce:/internal/ml/cjs-loader.mjs from file:///Users/zuno/Desktop/ZUNO/coco-poker/extensions/colyseus-sdk/runtime/colyseus.js as cce:/internal/ml/cjs-loader.mjs.
+debug: Detected change: cce:/internal/ml/cjs-loader.mjs. Last mtime: Tue Mar 14 2023 11:01:57 GMT+0700 (Indochina Time), Current mtime: Tue Mar 14 2023 12:14:37 GMT+0700 (Indochina Time)
+debug: Inspect cce:/internal/ml/cjs-loader.mjs
+debug: Resolve cce:/internal/ml/cjs-loader.mjs from file:///Users/zuno/Desktop/ZUNO/coco-poker/extensions/colyseus-sdk/runtime/colyseus.mjs?cjs=&original=.js as cce:/internal/ml/cjs-loader.mjs.
+debug: Resolve ./colyseus.js from file:///Users/zuno/Desktop/ZUNO/coco-poker/extensions/colyseus-sdk/runtime/colyseus.mjs?cjs=&original=.js as file:///Users/zuno/Desktop/ZUNO/coco-poker/extensions/colyseus-sdk/runtime/colyseus.js.
+debug: Resolve ./colyseus.js from file:///Users/zuno/Desktop/ZUNO/coco-poker/extensions/colyseus-sdk/runtime/colyseus.mjs?cjs=&original=.js as file:///Users/zuno/Desktop/ZUNO/coco-poker/extensions/colyseus-sdk/runtime/colyseus.js.
+debug: Resolve file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/Config.ts from cce:/internal/x/prerequisite-imports as file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/Config.ts.
+debug: Resolve cc from file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/Config.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/Config.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/Config.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/auth/Login.ts from cce:/internal/x/prerequisite-imports as file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/auth/Login.ts.
+debug: Resolve cc from file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/auth/Login.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/auth/Login.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/auth/Login.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/loading/Loading.ts from cce:/internal/x/prerequisite-imports as file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/loading/Loading.ts.
+debug: Resolve cc from file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/loading/Loading.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/loading/Loading.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/loading/Loading.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/LobbyLayout.ts from cce:/internal/x/prerequisite-imports as file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/LobbyLayout.ts.
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/LobbyLayout.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/LobbyLayout.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/LobbyLayout.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/LobbyLayout.ts as cce:/internal/x/cc.
+debug: Resolve db://assets/__types__/layout.type from file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/LobbyLayout.ts as file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/__types__/layout.type.ts.
+debug: Resolve file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/MyProfile.ts from cce:/internal/x/prerequisite-imports as file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/MyProfile.ts.
+debug: Resolve cc from file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/MyProfile.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/MyProfile.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/MyProfile.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/RoomSelect.ts from cce:/internal/x/prerequisite-imports as file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/RoomSelect.ts.
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/RoomSelect.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/RoomSelect.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/RoomSelect.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/RoomSelect.ts as cce:/internal/x/cc.
+debug: Resolve db://assets/__types__/layout.type from file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/RoomSelect.ts as file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/__types__/layout.type.ts.
+debug: Resolve file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/Setting.ts from cce:/internal/x/prerequisite-imports as file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/Setting.ts.
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/Setting.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/Setting.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/Setting.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/Setting.ts as cce:/internal/x/cc.
+debug: Resolve db://assets/__types__/layout.type from file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/Setting.ts as file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/__types__/layout.type.ts.
+debug: Resolve file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/main.ts from cce:/internal/x/prerequisite-imports as file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/main.ts.
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/main.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/main.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/main.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/main.ts as cce:/internal/x/cc.
+debug: Resolve db://assets/__types__/layout.type from file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/main.ts as file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/__types__/layout.type.ts.
+debug: Resolve db://assets/scripts/Config from file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/main.ts as file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/Config.ts.
+debug: Target(preview) ends with cost 482.9968750476837ms.
 debug: Pulling asset-db.
-debug: Fetch asset-db cost: 1409.2792079746723ms.
+debug: Fetch asset-db cost: 1312.5187499523163ms.
+debug: Build iteration starts.
+Number of accumulated asset changes: 12
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:00:03 GMT+0800 (Indochina Time), Current mtime: Thu Jan 01 1970 08:00:07 GMT+0800 (Indochina Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/__types__/layout.type.ts from cce:/internal/x/prerequisite-imports as file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/__types__/layout.type.ts.
+debug: Resolve file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/__types__/room-level-type.ts from cce:/internal/x/prerequisite-imports as file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/__types__/room-level-type.ts.
+debug: Resolve file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/ColyseusNetwork.ts from cce:/internal/x/prerequisite-imports as file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/ColyseusNetwork.ts.
+debug: Detected change: file:///Users/zuno/Desktop/ZUNO/coco-poker/extensions/colyseus-sdk/runtime/colyseus.js. Last mtime: Wed Jun 09 2021 03:56:00 GMT+0700 (Indochina Time), Current mtime: Wed Jun 09 2021 03:56:00 GMT+0700 (Indochina Time)@b554cfc3-98f3-4c04-ac8b-fd4ca2621ffb
+debug: Inspect file:///Users/zuno/Desktop/ZUNO/coco-poker/extensions/colyseus-sdk/runtime/colyseus.js
+debug: Resolve cce:/internal/ml/cjs-loader.mjs from file:///Users/zuno/Desktop/ZUNO/coco-poker/extensions/colyseus-sdk/runtime/colyseus.js as cce:/internal/ml/cjs-loader.mjs.
+debug: Resolve file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/Config.ts from cce:/internal/x/prerequisite-imports as file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/Config.ts.
+debug: Resolve file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/auth/Login.ts from cce:/internal/x/prerequisite-imports as file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/auth/Login.ts.
+debug: Resolve file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/loading/Loading.ts from cce:/internal/x/prerequisite-imports as file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/loading/Loading.ts.
+debug: Resolve file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/LobbyLayout.ts from cce:/internal/x/prerequisite-imports as file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/LobbyLayout.ts.
+debug: Resolve file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/MyProfile.ts from cce:/internal/x/prerequisite-imports as file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/MyProfile.ts.
+debug: Resolve file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/RoomSelect.ts from cce:/internal/x/prerequisite-imports as file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/RoomSelect.ts.
+debug: Resolve file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/Setting.ts from cce:/internal/x/prerequisite-imports as file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/Setting.ts.
+debug: Resolve file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/main.ts from cce:/internal/x/prerequisite-imports as file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/main.ts.
+debug: Create cjs interop url for 'file:///Users/zuno/Desktop/ZUNO/coco-poker/extensions/colyseus-sdk/runtime/colyseus.js'
+debug: Resolve file:///Users/zuno/Desktop/ZUNO/coco-poker/extensions/colyseus-sdk/runtime/colyseus.js from cce:/internal/x/prerequisite-imports as file:///Users/zuno/Desktop/ZUNO/coco-poker/extensions/colyseus-sdk/runtime/colyseus.mjs?cjs=&original=.js.
+debug: Create cjs interop url for 'file:///Users/zuno/Desktop/ZUNO/coco-poker/extensions/colyseus-sdk/runtime/colyseus.js'
+debug: Target(editor) ends with cost 397.8475830554962ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:00:04 GMT+0800 (Indochina Time), Current mtime: Thu Jan 01 1970 08:00:08 GMT+0800 (Indochina Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/__types__/layout.type.ts from cce:/internal/x/prerequisite-imports as file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/__types__/layout.type.ts.
+debug: Resolve file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/__types__/room-level-type.ts from cce:/internal/x/prerequisite-imports as file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/__types__/room-level-type.ts.
+debug: Resolve file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/ColyseusNetwork.ts from cce:/internal/x/prerequisite-imports as file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/ColyseusNetwork.ts.
+debug: Detected change: file:///Users/zuno/Desktop/ZUNO/coco-poker/extensions/colyseus-sdk/runtime/colyseus.js. Last mtime: Wed Jun 09 2021 03:56:00 GMT+0700 (Indochina Time), Current mtime: Wed Jun 09 2021 03:56:00 GMT+0700 (Indochina Time)@b554cfc3-98f3-4c04-ac8b-fd4ca2621ffb
+debug: Inspect file:///Users/zuno/Desktop/ZUNO/coco-poker/extensions/colyseus-sdk/runtime/colyseus.js
+debug: Resolve cce:/internal/ml/cjs-loader.mjs from file:///Users/zuno/Desktop/ZUNO/coco-poker/extensions/colyseus-sdk/runtime/colyseus.js as cce:/internal/ml/cjs-loader.mjs.
+debug: Resolve file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/Config.ts from cce:/internal/x/prerequisite-imports as file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/Config.ts.
+debug: Resolve file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/auth/Login.ts from cce:/internal/x/prerequisite-imports as file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/auth/Login.ts.
+debug: Resolve file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/loading/Loading.ts from cce:/internal/x/prerequisite-imports as file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/loading/Loading.ts.
+debug: Resolve file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/LobbyLayout.ts from cce:/internal/x/prerequisite-imports as file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/LobbyLayout.ts.
+debug: Resolve file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/MyProfile.ts from cce:/internal/x/prerequisite-imports as file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/MyProfile.ts.
+debug: Resolve file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/RoomSelect.ts from cce:/internal/x/prerequisite-imports as file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/RoomSelect.ts.
+debug: Resolve file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/Setting.ts from cce:/internal/x/prerequisite-imports as file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/Setting.ts.
+debug: Resolve file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/main.ts from cce:/internal/x/prerequisite-imports as file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/main.ts.
+debug: Create cjs interop url for 'file:///Users/zuno/Desktop/ZUNO/coco-poker/extensions/colyseus-sdk/runtime/colyseus.js'
+debug: Resolve file:///Users/zuno/Desktop/ZUNO/coco-poker/extensions/colyseus-sdk/runtime/colyseus.js from cce:/internal/x/prerequisite-imports as file:///Users/zuno/Desktop/ZUNO/coco-poker/extensions/colyseus-sdk/runtime/colyseus.mjs?cjs=&original=.js.
+debug: Create cjs interop url for 'file:///Users/zuno/Desktop/ZUNO/coco-poker/extensions/colyseus-sdk/runtime/colyseus.js'
+debug: Target(preview) ends with cost 372.88783407211304ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
 debug: Build iteration starts.
 Number of accumulated asset changes: 1
 Feature changed: false
 debug: Target(editor) build started.
-debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:00:06 GMT+0800 (Indochina Time), Current mtime: Thu Jan 01 1970 08:00:19 GMT+0800 (Indochina Time)
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:00:07 GMT+0800 (Indochina Time), Current mtime: Thu Jan 01 1970 08:54:45 GMT+0800 (Indochina Time)
 debug: Inspect cce:/internal/x/prerequisite-imports
-debug: Resolve file:///Users/apple/Documents/Dads/coco-poker/assets/scripts/Login.ts from cce:/internal/x/prerequisite-imports as file:///Users/apple/Documents/Dads/coco-poker/assets/scripts/Login.ts.
-debug: Target(editor) ends with cost 80.60033401846886ms.
+debug: Resolve file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/__types__/layout.type.ts from cce:/internal/x/prerequisite-imports as file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/__types__/layout.type.ts.
+debug: Resolve file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/__types__/room-level-type.ts from cce:/internal/x/prerequisite-imports as file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/__types__/room-level-type.ts.
+debug: Resolve file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/ColyseusNetwork.ts from cce:/internal/x/prerequisite-imports as file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/ColyseusNetwork.ts.
+debug: Resolve file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/Config.ts from cce:/internal/x/prerequisite-imports as file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/Config.ts.
+debug: Resolve file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/auth/Login.ts from cce:/internal/x/prerequisite-imports as file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/auth/Login.ts.
+debug: Resolve file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/loading/Loading.ts from cce:/internal/x/prerequisite-imports as file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/loading/Loading.ts.
+debug: Resolve file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/LobbyLayout.ts from cce:/internal/x/prerequisite-imports as file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/LobbyLayout.ts.
+debug: Resolve file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/MyProfile.ts from cce:/internal/x/prerequisite-imports as file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/MyProfile.ts.
+debug: Resolve file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/RoomSelect.ts from cce:/internal/x/prerequisite-imports as file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/RoomSelect.ts.
+debug: Resolve file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/Setting.ts from cce:/internal/x/prerequisite-imports as file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/Setting.ts.
+debug: Detected change: file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/Setting.ts. Last mtime: Tue Mar 14 2023 12:10:12 GMT+0700 (Indochina Time)@06a84b86-1ed2-4dfe-bab3-b872893819c1, Current mtime: Tue Mar 14 2023 13:09:21 GMT+0700 (Indochina Time)@06a84b86-1ed2-4dfe-bab3-b872893819c1
+debug: Inspect file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/Setting.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/Setting.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/Setting.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/Setting.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/Setting.ts as cce:/internal/x/cc.
+debug: Resolve db://assets/__types__/layout.type from file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/Setting.ts as file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/__types__/layout.type.ts.
+debug: Resolve file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/main.ts from cce:/internal/x/prerequisite-imports as file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/main.ts.
+debug: Create cjs interop url for 'file:///Users/zuno/Desktop/ZUNO/coco-poker/extensions/colyseus-sdk/runtime/colyseus.js'
+debug: Resolve file:///Users/zuno/Desktop/ZUNO/coco-poker/extensions/colyseus-sdk/runtime/colyseus.js from cce:/internal/x/prerequisite-imports as file:///Users/zuno/Desktop/ZUNO/coco-poker/extensions/colyseus-sdk/runtime/colyseus.mjs?cjs=&original=.js.
+debug: Create cjs interop url for 'file:///Users/zuno/Desktop/ZUNO/coco-poker/extensions/colyseus-sdk/runtime/colyseus.js'
+debug: Target(editor) ends with cost 149.57699990272522ms.
 debug: Target(preview) build started.
-debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:00:06 GMT+0800 (Indochina Time), Current mtime: Thu Jan 01 1970 08:00:19 GMT+0800 (Indochina Time)
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:00:08 GMT+0800 (Indochina Time), Current mtime: Thu Jan 01 1970 08:54:45 GMT+0800 (Indochina Time)
 debug: Inspect cce:/internal/x/prerequisite-imports
-debug: Resolve file:///Users/apple/Documents/Dads/coco-poker/assets/scripts/Login.ts from cce:/internal/x/prerequisite-imports as file:///Users/apple/Documents/Dads/coco-poker/assets/scripts/Login.ts.
-debug: Target(preview) ends with cost 36.0620000064373ms.
+debug: Resolve file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/__types__/layout.type.ts from cce:/internal/x/prerequisite-imports as file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/__types__/layout.type.ts.
+debug: Resolve file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/__types__/room-level-type.ts from cce:/internal/x/prerequisite-imports as file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/__types__/room-level-type.ts.
+debug: Resolve file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/ColyseusNetwork.ts from cce:/internal/x/prerequisite-imports as file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/ColyseusNetwork.ts.
+debug: Resolve file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/Config.ts from cce:/internal/x/prerequisite-imports as file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/Config.ts.
+debug: Resolve file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/auth/Login.ts from cce:/internal/x/prerequisite-imports as file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/auth/Login.ts.
+debug: Resolve file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/loading/Loading.ts from cce:/internal/x/prerequisite-imports as file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/loading/Loading.ts.
+debug: Resolve file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/LobbyLayout.ts from cce:/internal/x/prerequisite-imports as file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/LobbyLayout.ts.
+debug: Resolve file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/MyProfile.ts from cce:/internal/x/prerequisite-imports as file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/MyProfile.ts.
+debug: Resolve file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/RoomSelect.ts from cce:/internal/x/prerequisite-imports as file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/RoomSelect.ts.
+debug: Resolve file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/Setting.ts from cce:/internal/x/prerequisite-imports as file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/Setting.ts.
+debug: Detected change: file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/Setting.ts. Last mtime: Tue Mar 14 2023 12:10:12 GMT+0700 (Indochina Time)@06a84b86-1ed2-4dfe-bab3-b872893819c1, Current mtime: Tue Mar 14 2023 13:09:21 GMT+0700 (Indochina Time)@06a84b86-1ed2-4dfe-bab3-b872893819c1
+debug: Inspect file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/Setting.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/Setting.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/Setting.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/Setting.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/Setting.ts as cce:/internal/x/cc.
+debug: Resolve db://assets/__types__/layout.type from file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/Setting.ts as file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/__types__/layout.type.ts.
+debug: Resolve file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/main.ts from cce:/internal/x/prerequisite-imports as file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/main.ts.
+debug: Create cjs interop url for 'file:///Users/zuno/Desktop/ZUNO/coco-poker/extensions/colyseus-sdk/runtime/colyseus.js'
+debug: Resolve file:///Users/zuno/Desktop/ZUNO/coco-poker/extensions/colyseus-sdk/runtime/colyseus.js from cce:/internal/x/prerequisite-imports as file:///Users/zuno/Desktop/ZUNO/coco-poker/extensions/colyseus-sdk/runtime/colyseus.mjs?cjs=&original=.js.
+debug: Create cjs interop url for 'file:///Users/zuno/Desktop/ZUNO/coco-poker/extensions/colyseus-sdk/runtime/colyseus.js'
+debug: Target(preview) ends with cost 73.62220811843872ms.

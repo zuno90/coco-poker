@@ -1,0 +1,56 @@
+3-10-2023 18:18:23-debug: asset-db:worker-init (798ms)
+3-10-2023 18:18:23-debug: Preimport db internal success
+3-10-2023 18:18:23-debug: Preimport db assets success
+3-10-2023 18:18:23-debug: asset-db:worker-effect-data-processing (89ms)
+3-10-2023 18:18:26-debug: Set detail map pack:///resolution-detail-map.json: {}
+3-10-2023 18:18:26-debug: asset-db:worker-init-script (1959ms)
+3-10-2023 18:18:26-debug: Start up the 'internal' database...
+3-10-2023 18:18:26-debug: Start up the 'assets' database...
+3-10-2023 18:18:26-debug: Asset DB is ready!
+3-10-2023 18:18:26-debug: init worker message success
+3-10-2023 18:18:27-debug: programming:execute-script (1ms)
+3-10-2023 18:18:27-debug: builder:worker-init (1271ms)
+3-10-2023 18:18:28-debug: programming:execute-script (2ms)
+3-10-2023 18:20:32-debug: refresh db internal success
+3-10-2023 18:20:32-debug: asset-db:worker-effect-data-processing (83ms)
+3-10-2023 18:20:32-debug: refresh db assets success
+3-10-2023 18:20:32-debug: asset-db:refresh-all-database (134ms)
+3-10-2023 18:23:10-debug: refresh db internal success
+3-10-2023 18:23:10-debug: asset-db:worker-effect-data-processing (92ms)
+3-10-2023 18:23:10-debug: refresh db assets success
+3-10-2023 18:23:10-debug: asset-db:refresh-all-database (149ms)
+3-10-2023 18:23:15-debug: refresh db internal success
+3-10-2023 18:23:15-debug: asset-db:worker-effect-data-processing (82ms)
+3-10-2023 18:23:15-debug: refresh db assets success
+3-10-2023 18:23:15-debug: asset-db:refresh-all-database (137ms)
+3-10-2023 18:23:41-debug: refresh db internal success
+3-10-2023 18:23:41-debug: %cImport%c: /Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/colyseus.d.tsbackground: #aaff85; color: #000;color: #000;
+3-10-2023 18:23:41-debug: asset-db:worker-effect-data-processing (95ms)
+3-10-2023 18:23:41-debug: %cImport%c: /Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/colyseus.jsbackground: #aaff85; color: #000;color: #000;
+3-10-2023 18:23:41-debug: %cImport%c: /Users/zuno/Desktop/ZUNO/coco-poker/assets/scriptsbackground: #aaff85; color: #000;color: #000;
+3-10-2023 18:23:41-debug: refresh db assets success
+3-10-2023 18:23:41-debug: asset-db:refresh-all-database (144ms)
+3-10-2023 18:24:42-debug: refresh db internal success
+3-10-2023 18:24:42-debug: %cImport%c: /Users/zuno/Desktop/ZUNO/coco-poker/assets/colyseus-js-clientbackground: #aaff85; color: #000;color: #000;
+3-10-2023 18:24:42-debug: %cImport%c: /Users/zuno/Desktop/ZUNO/coco-poker/assets/colyseus-js-client/colyseus.d.tsbackground: #aaff85; color: #000;color: #000;
+3-10-2023 18:24:42-debug: asset-db:worker-effect-data-processing (153ms)
+3-10-2023 18:24:42-debug: %cImport%c: /Users/zuno/Desktop/ZUNO/coco-poker/assets/colyseus-js-client/colyseus.jsbackground: #aaff85; color: #000;color: #000;
+3-10-2023 18:24:42-debug: %cImport%c: /Users/zuno/Desktop/ZUNO/coco-poker/assets/colyseus-js-client/colyseus.js.mapbackground: #aaff85; color: #000;color: #000;
+3-10-2023 18:24:42-debug: %cImport%c: /Users/zuno/Desktop/ZUNO/coco-poker/assets/colyseus-js-client/index.htmlbackground: #aaff85; color: #000;color: #000;
+3-10-2023 18:24:42-debug: refresh db assets success
+3-10-2023 18:24:42-debug: asset-db:refresh-all-database (214ms)
+3-10-2023 18:24:58-debug: %cImport%c: /Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/colyseus.jsbackground: #aaff85; color: #000;color: #000;
+3-10-2023 18:24:58-debug: asset-db:reimport-assetdb://assets/scripts/colyseus.js (329ms)
+3-10-2023 18:26:27-debug: refresh db internal success
+3-10-2023 18:26:27-debug: %cImport%c: /Users/zuno/Desktop/ZUNO/coco-poker/assets/colyseus-js-clientbackground: #aaff85; color: #000;color: #000;
+3-10-2023 18:26:27-debug: refresh db assets success
+3-10-2023 18:26:27-debug: asset-db:worker-effect-data-processing (110ms)
+3-10-2023 18:26:27-debug: asset-db:refresh-all-database (145ms)
+3-10-2023 18:27:04-debug: refresh db internal success
+3-10-2023 18:27:04-debug: asset-db:worker-effect-data-processing (76ms)
+3-10-2023 18:27:04-debug: refresh db assets success
+3-10-2023 18:27:04-debug: asset-db:refresh-all-database (123ms)
+3-10-2023 18:28:17-debug: refresh db internal success
+3-10-2023 18:28:17-debug: asset-db:worker-effect-data-processing (76ms)
+3-10-2023 18:28:17-debug: refresh db assets success
+3-10-2023 18:28:17-debug: asset-db:refresh-all-database (120ms)

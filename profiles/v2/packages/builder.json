@@ -13,13 +13,13 @@
   },
   "BuildTaskManager": {
     "taskMap": {
-      "1678425728378": {
+      "1678441047333": {
         "type": "build",
-        "id": "1678425728378",
+        "id": "1678441047333",
         "progress": 1,
         "state": "success",
-        "stage": "run",
-        "message": "3-10-2023 12:28:05 run package /Users/apple/Documents/Dads/coco-poker/build/ios success!",
+        "stage": "build",
+        "message": "3-10-2023 17:43:13 Build success in 21201 ms!",
         "options": {
           "name": "coco-poker",
           "platform": "ios",
@@ -38,7 +38,7 @@
           "useSplashScreen": true,
           "packAutoAtlas": true,
           "startScene": "3a9e107c-c444-4c5d-b0d8-4794d9bd6656",
-          "outputName": "ios",
+          "outputName": "ios-001",
           "scenes": [
             {
               "url": "db://assets/Login.scene",
@@ -86,13 +86,11 @@
               "inBundle": false
             }
           ],
-          "web-desktop": [],
+          "ios": [],
           "packages": {},
-          "__version__": "1.3.4",
-          "huawei-agc": [],
-          "ios": []
+          "__version__": "1.3.4"
         },
-        "time": "3-10-2023 12:22",
+        "time": "3-10-2023 17:42",
         "dirty": false
       }
     }

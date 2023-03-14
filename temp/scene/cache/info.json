@@ -1,0 +1,19 @@
+{
+    "systemInfo": {
+        "arch": "arm64",
+        "cpu": "Apple M1 Pro",
+        "version": "Darwin Kernel Version 22.3.0: Mon Jan 30 20:38:37 PST 2023; root:xnu-8792.81.3~2/RELEASE_ARM64_T6000"
+    },
+    "sceneListMap": {
+        "3a9e107c-c444-4c5d-b0d8-4794d9bd6656": "/Users/zuno/Desktop/ZUNO/coco-poker/assets/Login.scene",
+        "78911f8a-d1bf-49d8-bfbb-2651d017a8b0": "/Users/zuno/Desktop/ZUNO/coco-poker/assets/zuno-poker.scene",
+        "b7d0975a-b160-40c1-825a-9a12700cbdda": "/Users/zuno/Desktop/ZUNO/coco-poker/assets/scenes/homepage.scene",
+        "de512fff-2828-42d9-bf6f-9c6b43b9cfad": "/Users/zuno/Desktop/ZUNO/coco-poker/assets/scenes/choose room.scene",
+        "169d4508-1e9d-4ea6-bc39-03502308beec": "/Users/zuno/Desktop/ZUNO/coco-poker/assets/scenes/lobby/SettingLobby.scene",
+        "a0b55cec-cb20-4534-a133-f6a10246528c": "/Users/zuno/Desktop/ZUNO/coco-poker/assets/scenes/lobby/RankLobby.scene",
+        "23cfb5e0-69fd-4c0f-9b64-f3416b6d0800": "/Users/zuno/Desktop/ZUNO/coco-poker/assets/scenes/lobby/PlayerProfileLobby.scene",
+        "01d335af-7472-48a1-b09d-67aa55aa68b7": "/Users/zuno/Desktop/ZUNO/coco-poker/assets/scenes/Loading.scene",
+        "59f2931c-1666-41fe-b47f-ca599a181bc8": "/Users/zuno/Desktop/ZUNO/coco-poker/assets/scenes/lobby/RewardLobby.scene"
+    },
+    "deviceMd5": "92d723001556edaf4411c46911dfaac9"
+}

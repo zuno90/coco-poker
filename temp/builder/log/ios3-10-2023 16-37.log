@@ -1,0 +1,1198 @@
+3-10-2023 16:37:27-debug: =================================== Build Task (ios-001) Start ================================
+3-10-2023 16:37:27-debug: Build with Cocos Creator 3.7.1
+3-10-2023 16:37:27-debug: cocos-service:(onBeforeBuild) start...0%
+3-10-2023 16:37:27-debug: // ---- build task cocos-service：onBeforeBuild ----
+3-10-2023 16:37:27-debug: Process: heapTotal 243.52MB heapUsed 231.34MB rss 137.83MB
+3-10-2023 16:37:27-debug: Start build task, options:{"name":"coco-poker","platform":"ios","buildPath":"project://build","debug":true,"md5Cache":false,"skipCompressTexture":false,"sourceMaps":false,"polyfills":{"asyncFunctions":false},"experimentalEraseModules":false,"useBuiltinServer":false,"mainBundleIsRemote":false,"mainBundleCompressionType":"merge_dep","useSplashScreen":true,"packAutoAtlas":true,"startScene":"3a9e107c-c444-4c5d-b0d8-4794d9bd6656","outputName":"ios-001","scenes":[{"url":"db://assets/Login.scene","uuid":"3a9e107c-c444-4c5d-b0d8-4794d9bd6656","inBundle":false},{"url":"db://assets/choose room.scene","uuid":"de512fff-2828-42d9-bf6f-9c6b43b9cfad","inBundle":false},{"url":"db://assets/homepage.scene","uuid":"b7d0975a-b160-40c1-825a-9a12700cbdda","inBundle":false},{"url":"db://assets/main.scene","uuid":"78911f8a-d1bf-49d8-bfbb-2651d017a8b0","inBundle":false},{"url":"db://assets/profile.scene","uuid":"23cfb5e0-69fd-4c0f-9b64-f3416b6d0800","inBundle":false},{"url":"db://assets/rank.scene","uuid":"a0b55cec-cb20-4534-a133-f6a10246528c","inBundle":false},{"url":"db://assets/setting-general.scene","uuid":"169d4508-1e9d-4ea6-bc39-03502308beec","inBundle":false},{"url":"db://assets/setting-pri.scene","uuid":"1393484a-22f9-45da-bc10-b2256f4f0a72","inBundle":false},{"url":"db://assets/setting-sup.scene","uuid":"1e7811ae-7650-4822-a2d1-6cf298d5cdcc","inBundle":false}],"ios":[],"packages":{"ios":{"packageName":"PokerGTech","renderBackEnd":{"metal":true},"skipUpdateXcodeProject":true,"orientation":{"portrait":false,"upsideDown":false,"landscapeRight":true,"landscapeLeft":true},"osTarget":{"iphoneos":false,"simulator":true},"targetVersion":"13.0","__version__":"1.0.0","developerTeam":"79RF53F62V_175A8848F82877CC1CF3F21B5D3881AEB4260F6D"},"cocos-service":{"configID":"10410f","services":[],"__version__":"3.0.5"},"native":{"encrypted":false,"xxteaKey":"428/hH55BLfbs1nw","compressZip":false,"JobSystem":"none","__version__":"1.0.2"}},"__version__":"1.3.4"}
+3-10-2023 16:37:27-debug: // ---- build task cocos-service：onBeforeBuild ---- (307ms)
+3-10-2023 16:37:27-debug: scene:(onBeforeBuild) start...1%
+3-10-2023 16:37:27-debug: // ---- build task scene：onBeforeBuild ----
+3-10-2023 16:37:27-debug: Process: heapTotal 243.52MB heapUsed 231.61MB rss 140.30MB
+3-10-2023 16:37:27-debug: cocos-service:(onBeforeBuild) in 307 ms1%
+3-10-2023 16:37:30-debug: start refresh asset from /Users/zuno/Desktop/ZUNO/coco-poker/assets/Login.scene...
+3-10-2023 16:37:30-debug: %cImport%c: /Users/zuno/Desktop/ZUNO/coco-poker/assets/Login.scenebackground: #aaff85; color: #000;color: #000;
+3-10-2023 16:37:30-debug: refresh asset /Users/zuno/Desktop/ZUNO/coco-poker/assets/Login.scene success
+3-10-2023 16:37:30-debug: Start lock asset db...2%
+3-10-2023 16:37:30-log: Asset DB is paused with build!
+3-10-2023 16:37:30-debug: Query all assets info in project
+3-10-2023 16:37:30-debug: // ---- build task scene：onBeforeBuild ---- (3159ms)
+3-10-2023 16:37:30-debug: scene:(onBeforeBuild) in 3159 ms2%
+3-10-2023 16:37:30-debug: init custom config: keepNodeUuid: false, useCache: true
+3-10-2023 16:37:30-debug:   Number of all scenes: 9
+3-10-2023 16:37:30-debug:   Number of all scripts: 1
+3-10-2023 16:37:30-debug:   Number of other assets: 539
+3-10-2023 16:37:30-debug: native:(onAfterInit) start...2%
+3-10-2023 16:37:30-debug: // ---- build task native：onAfterInit ----
+3-10-2023 16:37:30-debug: Process: heapTotal 243.77MB heapUsed 232.62MB rss 143.05MB
+3-10-2023 16:37:30-debug: Native engine root:/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/native
+3-10-2023 16:37:30-debug: ios:(onAfterInit) start...3%
+3-10-2023 16:37:30-debug: native:(onAfterInit) in 14 ms3%
+3-10-2023 16:37:30-debug: // ---- build task ios：onAfterInit ----
+3-10-2023 16:37:30-debug: Process: heapTotal 243.77MB heapUsed 231.03MB rss 144.05MB
+3-10-2023 16:37:30-debug: // ---- build task native：onAfterInit ---- (14ms)
+3-10-2023 16:37:30-debug: ios:(onAfterInit) in 2 ms4%
+3-10-2023 16:37:30-debug: // ---- build task cocos-service：onAfterInit ----
+3-10-2023 16:37:30-debug: Process: heapTotal 243.77MB heapUsed 231.11MB rss 144.20MB
+3-10-2023 16:37:30-debug: // ---- build task ios：onAfterInit ---- (2ms)
+3-10-2023 16:37:30-debug: cocos-service:(onAfterInit) start...4%
+3-10-2023 16:37:31-debug: // ---- build task cocos-service：onAfterInit ---- (361ms)
+3-10-2023 16:37:31-debug: cocos-service:(onAfterInit) in 361 ms4%
+3-10-2023 16:37:31-debug: Reload project scripts start4%
+3-10-2023 16:37:31-debug: // ---- build task Reload project scripts ----
+3-10-2023 16:37:31-debug: Process: heapTotal 243.77MB heapUsed 231.21MB rss 144.33MB
+3-10-2023 16:37:31-debug: Incremental keys: 
+3-10-2023 16:37:31-debug: reload all scripts.
+3-10-2023 16:37:31-debug: Unregister Login
+3-10-2023 16:37:31-debug: Invalidating 'pack:///chunks/ce/cee638a986ad8fae09398db255647defcaa6612a.js'
+3-10-2023 16:37:31-debug: Invalidating 'pack:///chunks/48/48925ed89f58b0eff72f0ddf69b47c4b5e8f623a.js'
+3-10-2023 16:37:31-groupEnd: undefined
+3-10-2023 16:37:31-debug: Invalidating 'pack:///chunks/9c/9c1ea91ed297bc134a72c89d2914ff293be524ba.js'
+3-10-2023 16:37:31-debug: [[Executor]] Module "pack:///chunks/ce/cee638a986ad8fae09398db255647defcaa6612a.js" loaded.
+3-10-2023 16:37:31-debug: [[Executor]] Module "pack:///chunks/48/48925ed89f58b0eff72f0ddf69b47c4b5e8f623a.js" loaded.
+3-10-2023 16:37:31-debug: [[Executor]] Register Login
+3-10-2023 16:37:31-debug: [[Executor]] Module "pack:///chunks/9c/9c1ea91ed297bc134a72c89d2914ff293be524ba.js" loaded.
+3-10-2023 16:37:31-debug: [[Executor]] Module "pack:///chunks/48/48925ed89f58b0eff72f0ddf69b47c4b5e8f623a.js" loaded.
+3-10-2023 16:37:31-groupEnd: undefined
+3-10-2023 16:37:31-debug: Set detail map pack:///resolution-detail-map.json: {}
+3-10-2023 16:37:31-debug: // ---- build task Reload project scripts ---- (10ms)
+3-10-2023 16:37:31-debug: run build task Reload project scripts success in 10 ms √6%
+3-10-2023 16:37:31-debug: Query asset bundle start6%
+3-10-2023 16:37:31-debug: // ---- build task Query asset bundle ----
+3-10-2023 16:37:31-debug: Process: heapTotal 243.77MB heapUsed 231.82MB rss 148.06MB
+3-10-2023 16:37:31-debug: Query and organize assets start7%
+3-10-2023 16:37:31-debug: // ---- build task Query and organize assets ----
+3-10-2023 16:37:31-debug: Process: heapTotal 243.77MB heapUsed 232.02MB rss 148.13MB
+3-10-2023 16:37:31-debug: run build task Query asset bundle success in 11 ms √7%
+3-10-2023 16:37:31-debug: // ---- build task Query asset bundle ---- (11ms)
+3-10-2023 16:37:31-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,ff9be190-20a4-4e48-b68c-76e3c7cff085,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,9361fd90-ba52-4f84-aa93-6e878fd576ca,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,871c3b6c-7379-419d-bda3-794b239ab90d
+3-10-2023 16:37:31-debug: Number of scenes: 9
+3-10-2023 16:37:31-debug: Number of asset bundle: 2
+3-10-2023 16:37:31-debug: Number of assets: 260
+3-10-2023 16:37:31-debug: run build task Query and organize assets success in 37 ms √8%
+3-10-2023 16:37:31-debug: Organize scripts start8%
+3-10-2023 16:37:31-debug: Process: heapTotal 243.77MB heapUsed 232.72MB rss 157.30MB
+3-10-2023 16:37:31-debug: sort script group...
+3-10-2023 16:37:31-debug: // ---- build task Query and organize assets ---- (37ms)
+3-10-2023 16:37:31-debug: // ---- build task Organize scripts ----
+3-10-2023 16:37:31-debug: // ---- build task Organize scripts ---- (1ms)
+3-10-2023 16:37:31-debug: run build task Organize scripts success in 1 ms √9%
+3-10-2023 16:37:31-debug: Organize texture compression tasks start9%
+3-10-2023 16:37:31-debug: // ---- build task Organize texture compression tasks ----
+3-10-2023 16:37:31-debug: Process: heapTotal 243.77MB heapUsed 232.79MB rss 157.41MB
+3-10-2023 16:37:31-debug: Number of image-compress task: 0
+3-10-2023 16:37:31-debug: Group json start11%
+3-10-2023 16:37:31-debug: // ---- build task Group json ----
+3-10-2023 16:37:31-debug: Process: heapTotal 243.77MB heapUsed 232.20MB rss 158.97MB
+3-10-2023 16:37:31-debug: // ---- build task Organize texture compression tasks ---- (13ms)
+3-10-2023 16:37:31-debug: run build task Organize texture compression tasks success in 13 ms √11%
+3-10-2023 16:37:31-debug: Number of json group: 10
+3-10-2023 16:37:31-debug: run build task Group json success in 4 ms √12%
+3-10-2023 16:37:31-debug: // ---- build task Merging Texture2D json ----
+3-10-2023 16:37:31-debug: Process: heapTotal 243.77MB heapUsed 231.60MB rss 160.16MB
+3-10-2023 16:37:31-debug: // ---- build task Group json ---- (4ms)
+3-10-2023 16:37:31-debug: Merging Texture2D json start12%
+3-10-2023 16:37:31-debug: // ---- build task Merging Texture2D json ---- (4ms)
+3-10-2023 16:37:31-debug: Sort import-map.json start13%
+3-10-2023 16:37:31-debug: // ---- build task Sort import-map.json ----
+3-10-2023 16:37:31-debug: Process: heapTotal 248.92MB heapUsed 233.32MB rss 161.73MB
+3-10-2023 16:37:31-debug: run build task Merging Texture2D json success in 4 ms √13%
+3-10-2023 16:37:31-debug: native:(onBeforeBuildAssets) start...14%
+3-10-2023 16:37:31-debug: // ---- build task native：onBeforeBuildAssets ----
+3-10-2023 16:37:31-debug: Process: heapTotal 248.92MB heapUsed 233.42MB rss 161.83MB
+3-10-2023 16:37:31-debug: run build task Sort import-map.json success in 1 ms √14%
+3-10-2023 16:37:31-debug: // ---- build task Sort import-map.json ---- (1ms)
+3-10-2023 16:37:31-debug: // ---- build task native：onBeforeBuildAssets ---- (1ms)
+3-10-2023 16:37:31-debug: native:(onBeforeBuildAssets) in 1 ms17%
+3-10-2023 16:37:31-debug: // ---- build task Build auto-atlas ----
+3-10-2023 16:37:31-debug: Process: heapTotal 248.92MB heapUsed 233.51MB rss 161.92MB
+3-10-2023 16:37:31-debug: Start collect pack info from bundleds
+3-10-2023 16:37:31-debug: Build auto-atlas start17%
+3-10-2023 16:37:31-debug: // ---- build task Build auto-atlas ---- (3ms)
+3-10-2023 16:37:31-debug: Compress Image start23%
+3-10-2023 16:37:31-debug: // ---- build task Compress Image ----
+3-10-2023 16:37:31-debug: Process: heapTotal 248.92MB heapUsed 235.51MB rss 161.98MB
+3-10-2023 16:37:31-debug: run build task Build auto-atlas success in 3 ms √23%
+3-10-2023 16:37:31-debug: run build task Compress Image success in 0 ms √30%
+3-10-2023 16:37:31-debug: // ---- build task Copy the resource ----
+3-10-2023 16:37:31-debug: Process: heapTotal 248.92MB heapUsed 235.57MB rss 162.09MB
+3-10-2023 16:37:31-group: Handle bundle internal
+3-10-2023 16:37:31-debug: Copy the resource start30%
+3-10-2023 16:37:31-debug: Asset Bundle(internal) handle assets: 20
+3-10-2023 16:37:31-groupEnd: Handle bundle internal
+3-10-2023 16:37:31-group: Handle bundle main
+3-10-2023 16:37:31-debug: Asset Bundle(main) handle assets: 240
+3-10-2023 16:37:31-groupEnd: Handle bundle main
+3-10-2023 16:37:31-debug: // ---- build task Copy the resource ---- (99ms)
+3-10-2023 16:37:31-debug: Build the grouped json and scatter files to the specified location start37%
+3-10-2023 16:37:31-debug: // ---- build task Build the grouped json and scatter files to the specified location ----
+3-10-2023 16:37:31-debug: Process: heapTotal 248.14MB heapUsed 233.56MB rss 167.05MB
+3-10-2023 16:37:31-group: Build Json
+3-10-2023 16:37:31-group: Handle all json groups in bundle internal
+3-10-2023 16:37:31-group: handle json group
+3-10-2023 16:37:31-debug: run build task Copy the resource success in 99 ms √37%
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_materials/ui-alpha-test-material.mtl)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_materials/default-clear-stencil.mtl)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_materials/default-spine-material.mtl)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_materials/missing-effect-material.mtl)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_materials/missing-material.mtl)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_materials/ui-sprite-gray-alpha-sep-material.mtl)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_materials/ui-base-material.mtl)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_materials/ui-sprite-gray-material.mtl)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_materials/ui-graphics-material.mtl)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_materials/ui-sprite-alpha-sep-material.mtl)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_materials/ui-sprite-material.mtl)})
+3-10-2023 16:37:31-groupEnd: handle single json
+3-10-2023 16:37:31-groupEnd: Handle all json groups in bundle internal
+3-10-2023 16:37:31-group: Handle all json groups in bundle main
+3-10-2023 16:37:31-group: handle json group
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Homepage/BackgroundHome.png)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Choose room/choose room/Group 427318894.png)})
+3-10-2023 16:37:31-group: handle single json
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/gen/Vector (1).png)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/gen/SETTINGS.png)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Homepage/Artboard 6@8x 1.png)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Homepage/Group 427318943 (1).png)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/private/Vector.png)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/my profile/Group 427318909.png)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/ranking/Group.png)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/ranking/TOTAL CHIP.png)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/images/TableRoom.png)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/login/Group 427318912.png)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/support/Design.png)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/private/GENERAL.png)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/gen/Vector.png)})
+3-10-2023 16:37:31-groupEnd: handle json group
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Choose room/choose room/watchAds.png)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Homepage/Group 427318942.png)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Choose room/choose room/pre room.png)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/gen/PRIVATE.png)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/support/SUPPORT.png)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/private/PRIVATE.png)})
+3-10-2023 16:37:31-debug: Json group(0846c28f0) compile success，json number: 6
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/gen/SUPPORT.png)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/gen/GENERAL.png)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/private/Group 427318949 (1).png)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/my profile/CameraIcon.png)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/images/GirlBanker.png)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/ranking/Group-2.png)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_ui/default_btn_pressed.png)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/my profile/Group 427318946.png)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/my profile/Lz2IhG.tif.png)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/ranking/5.png)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/login/Group 427318913.png)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/my profile/MY PROFILE.png)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Choose room/choose room/bg.png)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/support/Graphic_Elements.png)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/images/BackgroundRoom.png)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/my profile/Frame.png)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/my profile/FFAWkY.tif.png)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Choose room/choose room/TextRoomLevels.png)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/ranking/PLAYER.png)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/ranking/Group-1.png)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Choose room/choose room/Please choose a room to start playing.png)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/my profile/Layer 1 (1).png)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/support/Design (1).png)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/gen/Artboard 10@5x 1.png)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_ui/default_btn_disabled.png)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Homepage/girl_homepage_2 1.png)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Homepage/Ranking.png)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_ui/default_btn_normal.png)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Choose room/choose room/ButtonBack.png)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/images/A♥.png)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/my profile/Vector.png)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_ui/default_sprite.png)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/ranking/Group 427318948 2.png)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/login/Group 427318911.png)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Homepage/watchAds.png)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/ranking/WEEKLY RANKING.png)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/support/GENERAL.png)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Homepage/settings.png)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/gen/Group 427318828.png)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Homepage/Layer 1.png)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/my profile/Group 427318824.png)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/ranking/Group 427318947.png)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Choose room/choose room/classic room.png)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/gen/Group 427318829.png)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/login/Group 427318916.png)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Homepage/Mail.png)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/my profile/bg.png)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Homepage/PlayNow.png)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/login/Play as GUEST.png)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/ranking/RANK.png)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Homepage/Chat.png)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/login/4887959bd6a9a3ed4f0d1c278b08bff3 1.png)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/ranking/4.png)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/gen/Artboard 9@5x 1.png)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/login/BackgroundGame.png)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/setting-pri.scene)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/gen/Vector (1).png/spriteFrame)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/gen/SETTINGS.png/spriteFrame)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/my profile/Layer 1 (1).png/spriteFrame)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/private/Vector.png/spriteFrame)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Choose room/choose room/ButtonBack.png/spriteFrame)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/private/PRIVATE.png/spriteFrame)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/private/Group 427318949 (1).png/spriteFrame)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/gen/SUPPORT.png/spriteFrame)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/private/GENERAL.png/spriteFrame)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/gen/Vector.png/spriteFrame)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/my profile/bg.png/spriteFrame)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/gen/Artboard 10@5x 1.png/spriteFrame)})
+3-10-2023 16:37:31-debug: Json group(0d493addc) compile success，json number: 6
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/setting-general.scene)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/gen/PRIVATE.png/spriteFrame)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/gen/GENERAL.png/spriteFrame)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/gen/Group 427318828.png/spriteFrame)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/gen/Group 427318829.png/spriteFrame)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/gen/Artboard 9@5x 1.png/spriteFrame)})
+3-10-2023 16:37:31-debug: Json group(042b5a1e9) compile success，json number: 6
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/setting-sup.scene)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/support/Graphic_Elements.png/spriteFrame)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/support/SUPPORT.png/spriteFrame)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/support/Design (1).png/spriteFrame)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/support/Design.png/spriteFrame)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/support/GENERAL.png/spriteFrame)})
+3-10-2023 16:37:31-debug: Json group(030811e30) compile success，json number: 6
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/my profile/CameraIcon.png/spriteFrame)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/my profile/FFAWkY.tif.png/spriteFrame)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/my profile/Frame.png/spriteFrame)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/profile.scene)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Homepage/Group 427318942.png/spriteFrame)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/my profile/Vector.png/spriteFrame)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/my profile/Group 427318909.png/spriteFrame)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/my profile/MY PROFILE.png/spriteFrame)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/my profile/Group 427318946.png/spriteFrame)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/my profile/Lz2IhG.tif.png/spriteFrame)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/my profile/Group 427318824.png/spriteFrame)})
+3-10-2023 16:37:31-debug: Json group(0747d4ef4) compile success，json number: 6
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_ui/default_btn_normal.png/spriteFrame)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_ui/default_btn_pressed.png/spriteFrame)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/login/Group 427318912.png/spriteFrame)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/login/Group 427318913.png/spriteFrame)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_ui/default_btn_disabled.png/spriteFrame)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/login/Group 427318911.png/spriteFrame)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/login/BackgroundGame.png/spriteFrame)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/login/Group 427318916.png/spriteFrame)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/login/4887959bd6a9a3ed4f0d1c278b08bff3 1.png/spriteFrame)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/login/Play as GUEST.png/spriteFrame)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/images/BackgroundRoom.png/spriteFrame)})
+3-10-2023 16:37:31-debug: Json group(08524c1ae) compile success，json number: 6
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/images/A♥.png/spriteFrame)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/images/GirlBanker.png/spriteFrame)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_ui/default_sprite.png/spriteFrame)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/main.scene)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/images/TableRoom.png/spriteFrame)})
+3-10-2023 16:37:31-debug: Json group(07cac1b39) compile success，json number: 6
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/ranking/5.png/spriteFrame)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/ranking/Group-2.png/spriteFrame)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/ranking/PLAYER.png/spriteFrame)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/ranking/Group.png/spriteFrame)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Choose room/choose room/bg.png/spriteFrame)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/ranking/Group-1.png/spriteFrame)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/ranking/TOTAL CHIP.png/spriteFrame)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/ranking/Group 427318948 2.png/spriteFrame)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/rank.scene)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/ranking/WEEKLY RANKING.png/spriteFrame)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/ranking/Group 427318947.png/spriteFrame)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/ranking/RANK.png/spriteFrame)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/ranking/4.png/spriteFrame)})
+3-10-2023 16:37:31-debug: Json group(0a97513f9) compile success，json number: 6
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Homepage/girl_homepage_2 1.png/spriteFrame)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Homepage/BackgroundHome.png/spriteFrame)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Homepage/Ranking.png/spriteFrame)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Homepage/Artboard 6@8x 1.png/spriteFrame)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Homepage/Group 427318943 (1).png/spriteFrame)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Homepage/watchAds.png/spriteFrame)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Homepage/settings.png/spriteFrame)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Homepage/Layer 1.png/spriteFrame)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Homepage/Mail.png/spriteFrame)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Homepage/PlayNow.png/spriteFrame)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Homepage/Chat.png/spriteFrame)})
+3-10-2023 16:37:31-debug: Json group(0bec210ec) compile success，json number: 6
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Choose room/choose room/Please choose a room to start playing.png/spriteFrame)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Choose room/choose room/Group 427318894.png/spriteFrame)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Choose room/choose room/watchAds.png/spriteFrame)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Choose room/choose room/pre room.png/spriteFrame)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Choose room/choose room/TextRoomLevels.png/spriteFrame)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Choose room/choose room/classic room.png/spriteFrame)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/choose room.scene)})
+3-10-2023 16:37:31-debug: Json group(0b62b80ee) compile success，json number: 6
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Homepage/BackgroundHome.png/texture)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Choose room/choose room/Group 427318894.png/texture)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/gen/Vector (1).png/texture)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/gen/SETTINGS.png/texture)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Homepage/Artboard 6@8x 1.png/texture)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Homepage/Group 427318943 (1).png/texture)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/private/Vector.png/texture)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/login/Group 427318912.png/texture)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/ranking/Group.png/texture)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/my profile/Group 427318909.png/texture)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/ranking/TOTAL CHIP.png/texture)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/images/TableRoom.png/texture)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/gen/SUPPORT.png/texture)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/support/Design.png/texture)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/private/GENERAL.png/texture)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/gen/Vector.png/texture)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Choose room/choose room/watchAds.png/texture)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Homepage/Group 427318942.png/texture)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Choose room/choose room/pre room.png/texture)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/support/SUPPORT.png/texture)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/private/PRIVATE.png/texture)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/private/Group 427318949 (1).png/texture)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/gen/GENERAL.png/texture)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/my profile/CameraIcon.png/texture)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/images/GirlBanker.png/texture)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_ui/default_btn_pressed.png/texture)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/my profile/Group 427318946.png/texture)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/my profile/Lz2IhG.tif.png/texture)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/images/BackgroundRoom.png/texture)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/ranking/5.png/texture)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/login/Group 427318913.png/texture)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/my profile/MY PROFILE.png/texture)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Choose room/choose room/bg.png/texture)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/support/Graphic_Elements.png/texture)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Choose room/choose room/TextRoomLevels.png/texture)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_ui/default_btn_normal.png/texture)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/my profile/Frame.png/texture)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/my profile/FFAWkY.tif.png/texture)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/gen/Artboard 10@5x 1.png/texture)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/ranking/PLAYER.png/texture)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/ranking/Group-1.png/texture)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Choose room/choose room/Please choose a room to start playing.png/texture)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/my profile/Layer 1 (1).png/texture)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/support/Design (1).png/texture)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_ui/default_btn_disabled.png/texture)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Homepage/girl_homepage_2 1.png/texture)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Homepage/Ranking.png/texture)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Choose room/choose room/ButtonBack.png/texture)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/images/A♥.png/texture)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/my profile/Vector.png/texture)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_ui/default_sprite.png/texture)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/ranking/Group 427318948 2.png/texture)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/login/Group 427318911.png/texture)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Homepage/watchAds.png/texture)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/ranking/WEEKLY RANKING.png/texture)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/support/GENERAL.png/texture)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Homepage/settings.png/texture)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/gen/Group 427318828.png/texture)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Homepage/Layer 1.png/texture)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/my profile/Group 427318824.png/texture)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/ranking/Group 427318947.png/texture)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Choose room/choose room/classic room.png/texture)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/gen/Group 427318829.png/texture)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/login/BackgroundGame.png/texture)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/login/Group 427318916.png/texture)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/ranking/Group-2.png/texture)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/my profile/bg.png/texture)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Homepage/PlayNow.png/texture)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/login/4887959bd6a9a3ed4f0d1c278b08bff3 1.png/texture)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/login/Play as GUEST.png/texture)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/ranking/RANK.png/texture)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Homepage/Chat.png/texture)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/ranking/4.png/texture)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/gen/Artboard 9@5x 1.png/texture)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/gen/PRIVATE.png/texture)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Homepage/Mail.png/texture)})
+3-10-2023 16:37:31-groupEnd: handle json group
+3-10-2023 16:37:31-group: handle single json
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/physics/default-physics-material.pmtl)})
+3-10-2023 16:37:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_renderpipeline/builtin-forward.rpp)})
+3-10-2023 16:37:31-groupEnd: handle single json
+3-10-2023 16:37:31-groupEnd: Build Json
+3-10-2023 16:37:31-groupEnd: Handle all json groups in bundle main
+3-10-2023 16:37:31-debug: run build task Build the grouped json and scatter files to the specified location success in 139 ms √43%
+3-10-2023 16:37:31-debug: Build script start43%
+3-10-2023 16:37:31-debug: // ---- build task Build script ----
+3-10-2023 16:37:31-debug: Process: heapTotal 249.03MB heapUsed 233.14MB rss 184.94MB
+3-10-2023 16:37:31-debug: // ---- build task Build the grouped json and scatter files to the specified location ---- (139ms)
+3-10-2023 16:37:31-debug: Caught exception during build core-js: WebpackOptionsValidationError: Invalid configuration object. Webpack has been initialised using a configuration object that does not match the API schema. - configuration.entry should be an non-empty array.   -> A non-empty array of non-empty stringsThis may indicates the core-js polyfill is not necessary. See https://github.com/zloirock/core-js/issues/822
+3-10-2023 16:37:32-debug: Build project script start...43%
+3-10-2023 16:37:32-debug: Process: heapTotal 283.25MB heapUsed 260.59MB rss 362.31MB
+3-10-2023 16:37:32-log: Run build task(build-script) in child, see: chrome://inspect/#devices
+3-10-2023 16:37:33-log: [build-script]enter sub process 62358, /Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Frameworks/CocosCreator Helper (Renderer).app/Contents/MacOS/CocosCreator Helper (Renderer),/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/builtin/builder/static/sub-process-index
+3-10-2023 16:37:34-debug: Copy externalScripts success!
+3-10-2023 16:37:34-debug: excute-script over with build-script 2055ms
+3-10-2023 16:37:34-debug: Build project script in (2214 ms) √43%
+3-10-2023 16:37:34-debug: Process: heapTotal 283.25MB heapUsed 260.72MB rss 322.03MB
+3-10-2023 16:37:34-debug: Build engine start...43%
+3-10-2023 16:37:34-debug: Use cache engine: {link(/var/folders/jv/f89ln_0d4hs5_yndcvnvpdcm0000gn/T/CocosCreator/3.7.1/builder/engine/37525bdf1c0be86891bc63db6e0347b3)}
+3-10-2023 16:37:34-debug: {"debug":true,"sourceMaps":false,"includeModules":["2d","animation","audio","base","dragon-bones","gfx-webgl","gfx-webgl2","intersection-2d","light-probe","particle-2d","physics-2d-box2d","profiler","spine","tiled-map","tween","ui","video","websocket","webview"],"engineVersion":"3.7.1","platform":"NATIVE","md5Map":[],"engineName":"src/cocos-js","useCache":true,"targets":"chrome 80","flags":{"DEBUG":true},"entry":"/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine"}
+3-10-2023 16:37:34-debug: Build engine in (38 ms) √43%
+3-10-2023 16:37:34-debug: run build task Build script success in 3042 ms √50%
+3-10-2023 16:37:34-debug: Compress zip bundle start50%
+3-10-2023 16:37:34-debug: // ---- build task Compress zip bundle ----
+3-10-2023 16:37:34-debug: Process: heapTotal 283.25MB heapUsed 262.43MB rss 324.17MB
+3-10-2023 16:37:34-debug: // ---- build task Build script ---- (3042ms)
+3-10-2023 16:37:34-debug: // ---- build task native：onAfterBuildAssets ----
+3-10-2023 16:37:34-debug: run build task Compress zip bundle success in 1 ms √57%
+3-10-2023 16:37:34-debug: // ---- build task Compress zip bundle ---- (1ms)
+3-10-2023 16:37:34-debug: Process: heapTotal 283.25MB heapUsed 262.52MB rss 324.36MB
+3-10-2023 16:37:34-debug: native:(onAfterBuildAssets) start...57%
+3-10-2023 16:37:34-debug: // ---- build task native：onAfterBuildAssets ---- (1ms)
+3-10-2023 16:37:34-debug: native:(onAfterBuildAssets) in 1 ms59%
+3-10-2023 16:37:34-debug: Add md5 suffix to assets start59%
+3-10-2023 16:37:34-debug: // ---- build task Add md5 suffix to assets ----
+3-10-2023 16:37:34-debug: Process: heapTotal 283.25MB heapUsed 262.60MB rss 324.55MB
+3-10-2023 16:37:34-debug: Init settings and config start69%
+3-10-2023 16:37:34-debug: // ---- build task Init settings and config ----
+3-10-2023 16:37:34-debug: Process: heapTotal 283.25MB heapUsed 262.67MB rss 324.78MB
+3-10-2023 16:37:34-debug: // ---- build task Add md5 suffix to assets ---- (1ms)
+3-10-2023 16:37:34-debug: run build task Add md5 suffix to assets success in 1 ms √69%
+3-10-2023 16:37:34-debug: builder.tasks.settings.macro does not defined in i18n
+3-10-2023 16:37:34-debug: builder.tasks.settings.macro start69%
+3-10-2023 16:37:34-debug: // ---- build task builder.tasks.settings.macro ----
+3-10-2023 16:37:34-debug: Process: heapTotal 283.25MB heapUsed 262.76MB rss 325.03MB
+3-10-2023 16:37:34-debug: run build task Init settings and config success in 1 ms √69%
+3-10-2023 16:37:34-debug: // ---- build task Init settings and config ---- (1ms)
+3-10-2023 16:37:34-debug: // ---- build task builder.tasks.settings.macro ---- (8ms)
+3-10-2023 16:37:34-debug: Sort some build options to settings.json start70%
+3-10-2023 16:37:34-debug: // ---- build task Sort some build options to settings.json ----
+3-10-2023 16:37:34-debug: Process: heapTotal 283.25MB heapUsed 262.84MB rss 325.19MB
+3-10-2023 16:37:34-debug: run build task builder.tasks.settings.macro success in 8 ms √70%
+3-10-2023 16:37:34-debug: // ---- build task Sort some build options to settings.json ---- (101ms)
+3-10-2023 16:37:34-debug: custom joint texture layouts start71%
+3-10-2023 16:37:34-debug: // ---- build task custom joint texture layouts ----
+3-10-2023 16:37:34-debug: Process: heapTotal 284.00MB heapUsed 257.68MB rss 328.36MB
+3-10-2023 16:37:34-debug: run build task Sort some build options to settings.json success in 101 ms √71%
+3-10-2023 16:37:34-debug: // ---- build task custom joint texture layouts ---- (7ms)
+3-10-2023 16:37:34-debug: custom joint physics start71%
+3-10-2023 16:37:34-debug: // ---- build task custom joint physics ----
+3-10-2023 16:37:34-debug: Process: heapTotal 284.00MB heapUsed 257.75MB rss 328.56MB
+3-10-2023 16:37:34-debug: run build task custom joint texture layouts success in 7 ms √71%
+3-10-2023 16:37:34-debug: run build task custom joint physics success in 1 ms √72%
+3-10-2023 16:37:34-debug: Fill script data to settings start72%
+3-10-2023 16:37:34-debug: // ---- build task Fill script data to settings ----
+3-10-2023 16:37:34-debug: Process: heapTotal 284.00MB heapUsed 257.82MB rss 328.86MB
+3-10-2023 16:37:34-debug: // ---- build task custom joint physics ---- (1ms)
+3-10-2023 16:37:34-debug: run build task Fill script data to settings success in 1 ms √72%
+3-10-2023 16:37:34-debug: Fill scene data to settings start72%
+3-10-2023 16:37:34-debug: Process: heapTotal 284.00MB heapUsed 257.89MB rss 329.03MB
+3-10-2023 16:37:34-debug: // ---- build task Fill script data to settings ---- (1ms)
+3-10-2023 16:37:34-debug: // ---- build task Fill scene data to settings ----
+3-10-2023 16:37:34-debug: Organize assets groups，generate packedAssets and rawAssets data start73%
+3-10-2023 16:37:34-debug: // ---- build task Organize assets groups，generate packedAssets and rawAssets data ----
+3-10-2023 16:37:34-debug: Process: heapTotal 284.00MB heapUsed 257.98MB rss 329.20MB
+3-10-2023 16:37:34-debug: run build task Fill scene data to settings success in 1 ms √73%
+3-10-2023 16:37:34-debug: // ---- build task Fill scene data to settings ---- (1ms)
+3-10-2023 16:37:34-debug: run build task Organize assets groups，generate packedAssets and rawAssets data success in 1 ms √73%
+3-10-2023 16:37:34-debug: Generate md5AssetsMap from suffixMap to settings start73%
+3-10-2023 16:37:34-debug: // ---- build task Generate md5AssetsMap from suffixMap to settings ----
+3-10-2023 16:37:34-debug: Process: heapTotal 284.00MB heapUsed 258.17MB rss 329.39MB
+3-10-2023 16:37:34-debug: options.md5Cache is false.
+3-10-2023 16:37:34-debug: // ---- build task Organize assets groups，generate packedAssets and rawAssets data ---- (1ms)
+3-10-2023 16:37:34-debug: run build task Generate md5AssetsMap from suffixMap to settings success in 0 ms √74%
+3-10-2023 16:37:34-debug: // ---- build task cocos-service：onBeforeCompressSettings ----
+3-10-2023 16:37:34-debug: Process: heapTotal 284.00MB heapUsed 258.27MB rss 329.47MB
+3-10-2023 16:37:34-debug: cocos-service:(onBeforeCompressSettings) start...74%
+3-10-2023 16:37:35-debug: // ---- build task cocos-service：onBeforeCompressSettings ---- (266ms)
+3-10-2023 16:37:35-debug: Build import-map.json start76%
+3-10-2023 16:37:35-debug: // ---- build task Build import-map.json ----
+3-10-2023 16:37:35-debug: Process: heapTotal 284.00MB heapUsed 258.37MB rss 329.61MB
+3-10-2023 16:37:35-debug: cocos-service:(onBeforeCompressSettings) in 266 ms76%
+3-10-2023 16:37:35-debug: // ---- build task Build import-map.json ---- (3ms)
+3-10-2023 16:37:35-debug: Compress settings.json and config.json start77%
+3-10-2023 16:37:35-debug: // ---- build task Compress settings.json and config.json ----
+3-10-2023 16:37:35-debug: Process: heapTotal 284.00MB heapUsed 258.44MB rss 329.81MB
+3-10-2023 16:37:35-debug: run build task Build import-map.json success in 3 ms √77%
+3-10-2023 16:37:35-debug: // ---- build task Compress settings.json and config.json ---- (1ms)
+3-10-2023 16:37:35-debug: Save config.json start78%
+3-10-2023 16:37:35-debug: run build task Compress settings.json and config.json success in 1 ms √78%
+3-10-2023 16:37:35-debug: Process: heapTotal 284.00MB heapUsed 258.51MB rss 329.98MB
+3-10-2023 16:37:35-debug: // ---- build task Save config.json ----
+3-10-2023 16:37:35-debug: // ---- build task Save config.json ---- (1ms)
+3-10-2023 16:37:35-debug: Save Settings.json start79%
+3-10-2023 16:37:35-debug: // ---- build task Save Settings.json ----
+3-10-2023 16:37:35-debug: Process: heapTotal 284.00MB heapUsed 258.67MB rss 330.27MB
+3-10-2023 16:37:35-debug: run build task Save config.json success in 1 ms √79%
+3-10-2023 16:37:35-debug: run build task Save Settings.json success in 1 ms √79%
+3-10-2023 16:37:35-debug: Save Settings.json start79%
+3-10-2023 16:37:35-debug: // ---- build task Save Settings.json ----
+3-10-2023 16:37:35-debug: // ---- build task Save Settings.json ---- (1ms)
+3-10-2023 16:37:35-debug: Process: heapTotal 284.00MB heapUsed 258.82MB rss 330.59MB
+3-10-2023 16:37:35-debug: // ---- build task Sort build template ----
+3-10-2023 16:37:35-debug: Process: heapTotal 284.00MB heapUsed 258.88MB rss 330.81MB
+3-10-2023 16:37:35-debug: run build task Save Settings.json success in 0 ms √80%
+3-10-2023 16:37:35-debug: Sort build template start80%
+3-10-2023 16:37:35-debug: run build task Sort build template success in 18 ms √81%
+3-10-2023 16:37:35-debug: // ---- build task native：onAfterCompressSettings ----
+3-10-2023 16:37:35-debug: Process: heapTotal 284.00MB heapUsed 260.18MB rss 332.69MB
+3-10-2023 16:37:35-debug: native:(onAfterCompressSettings) start...81%
+3-10-2023 16:37:35-debug: // ---- build task Sort build template ---- (18ms)
+3-10-2023 16:37:35-log: Validating platform source code directories...
+3-10-2023 16:37:35-debug: generateCMakeConfig, {"CC_USE_GLES3":"set(CC_USE_GLES3 OFF)","CC_USE_GLES2":"set(CC_USE_GLES2 OFF)","USE_SERVER_MODE":"set(USE_SERVER_MODE OFF)","NET_MODE":"set(NET_MODE 0)","XXTEAKEY":"","CC_ENABLE_SWAPPY":"set(CC_ENABLE_SWAPPY OFF)","APP_NAME":"set(APP_NAME coco-poker)","COCOS_X_PATH":"set(COCOS_X_PATH \"/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/native\")","USE_JOB_SYSTEM_TASKFLOW":"set(USE_JOB_SYSTEM_TASKFLOW OFF)","USE_JOB_SYSTEM_TBB":"set(USE_JOB_SYSTEM_TBB OFF)","ENABLE_ANTIALIAS_FXAA":"set(ENABLE_ANTIALIAS_FXAA OFF)","USE_PHYSICS_PHYSX":"set(USE_PHYSICS_PHYSX OFF)","USE_OCCLUSION_QUERY":"set(USE_OCCLUSION_QUERY OFF)","USE_GEOMETRY_RENDERER":"set(USE_GEOMETRY_RENDERER OFF)","USE_DEBUG_RENDERER":"set(USE_DEBUG_RENDERER OFF)","USE_AUDIO":"set(USE_AUDIO ON)","USE_VIDEO":"set(USE_VIDEO ON)","USE_WEBVIEW":"set(USE_WEBVIEW ON)","USE_SOCKET":"set(USE_SOCKET ON)","USE_WEBSOCKET_SERVER":"set(USE_WEBSOCKET_SERVER OFF)","USE_SPINE":"set(USE_SPINE ON)","USE_DRAGONBONES":"set(USE_DRAGONBONES ON)","CC_USE_METAL":"set(CC_USE_METAL ON)","MACOSX_BUNDLE_GUI_IDENTIFIER":"set(MACOSX_BUNDLE_GUI_IDENTIFIER PokerGTech)","DEVELOPMENT_TEAM":"set(DEVELOPMENT_TEAM 79RF53F62V)","TARGET_IOS_VERSION":"set(TARGET_IOS_VERSION 13.0)","USE_PORTRAIT":"set(USE_PORTRAIT OFF)","CUSTOM_COPY_RESOURCE_HOOK":"set(CUSTOM_COPY_RESOURCE_HOOK ON)"}
+3-10-2023 16:37:35-log: Checking template version...
+3-10-2023 16:37:35-log: Validating template consistency...
+3-10-2023 16:37:35-log: While replace template content, file /Users/zuno/Desktop/ZUNO/coco-poker/build/ios-001/proj/main.cpp
+3-10-2023 16:37:35-log: While replace template content, file /Users/zuno/Desktop/ZUNO/coco-poker/native/engine/ios/res/values/strings.xml
+3-10-2023 16:37:35-log: While replace template content, file /Users/zuno/Desktop/ZUNO/coco-poker/build/ios-001/proj/main.m
+3-10-2023 16:37:35-log: While replace template content, file /Users/zuno/Desktop/ZUNO/coco-poker/build/ios-001/proj/settings.gradle
+3-10-2023 16:37:35-log: While replace template content, file /Users/zuno/Desktop/ZUNO/coco-poker/native/engine/ios/app/build.gradle
+3-10-2023 16:37:35-log: While replace template content, file /Users/zuno/Desktop/ZUNO/coco-poker/native/engine/ios/instantapp/AndroidManifest.xml
+3-10-2023 16:37:35-log: While replace template content, file /Users/zuno/Desktop/ZUNO/coco-poker/native/engine/ios/instantapp/build.gradle
+3-10-2023 16:37:35-log: While replace template content, file /Users/zuno/Desktop/ZUNO/coco-poker/native/engine/ios/entry/src/main/config.json
+3-10-2023 16:37:35-log: While replace template content, file /Users/zuno/Desktop/ZUNO/coco-poker/native/engine/ios/app/AndroidManifest.xml
+3-10-2023 16:37:35-debug: // ---- build task native：onAfterCompressSettings ---- (17ms)
+3-10-2023 16:37:35-debug: // ---- build task cocos-service：onAfterCompressSettings ----
+3-10-2023 16:37:35-debug: Process: heapTotal 284.00MB heapUsed 260.73MB rss 333.95MB
+3-10-2023 16:37:35-debug: native:(onAfterCompressSettings) in 17 ms82%
+3-10-2023 16:37:35-debug: cocos-service:(onAfterCompressSettings) start...82%
+3-10-2023 16:37:35-debug: // ---- build task cocos-service：onAfterCompressSettings ---- (267ms)
+3-10-2023 16:37:35-debug: // ---- build task native：onAfterBuild ----
+3-10-2023 16:37:35-debug: Process: heapTotal 284.00MB heapUsed 262.04MB rss 335.13MB
+3-10-2023 16:37:35-debug: native:(onAfterBuild) start...83%
+3-10-2023 16:37:35-debug: cocos-service:(onAfterCompressSettings) in 267 ms83%
+3-10-2023 16:37:36-log: run /Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/tools/cmake/bin/cmake -S "/Users/zuno/Desktop/ZUNO/coco-poker/native/engine/ios" -GXcode -B"/Users/zuno/Desktop/ZUNO/coco-poker/build/ios-001/proj" -T buildsystem=12 -DCMAKE_SYSTEM_NAME=iOS -DCMAKE_CXX_COMPILER=clang++ -DCMAKE_C_COMPILER=clang -DRES_DIR="/Users/zuno/Desktop/ZUNO/coco-poker/build/ios-001" -DAPP_NAME="coco-poker" 
+3-10-2023 16:37:39-log: [cmake] -- The CXX compiler identification is AppleClang 14.0.0.14000029
+3-10-2023 16:37:39-log: [cmake] -- Detecting CXX compiler ABI info
+3-10-2023 16:37:40-log: [cmake] -- Detecting CXX compiler ABI info - done
+3-10-2023 16:37:40-log: [cmake] -- Check for working CXX compiler: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ - skipped-- Detecting CXX compile features
+3-10-2023 16:37:40-log: [cmake] -- Detecting CXX compile features - done
+3-10-2023 16:37:41-log: [cmake] -- The C compiler identification is AppleClang 14.0.0.14000029
+3-10-2023 16:37:41-log: [cmake] -- The ASM compiler identification is Clang with GNU-like command-line
+3-10-2023 16:37:41-log: [cmake] -- Found assembler: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang
+3-10-2023 16:37:41-log: [cmake] -- Detecting C compiler ABI info
+3-10-2023 16:37:42-log: [cmake] -- Detecting C compiler ABI info - done
+3-10-2023 16:37:42-log: [cmake] -- Check for working C compiler: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang - skipped
+3-10-2023 16:37:42-log: [cmake] -- Detecting C compile features
+3-10-2023 16:37:42-log: [cmake] -- Detecting C compile features - done
+3-10-2023 16:37:42-log: [cmake] -- platform: iOS-- Ignore NO_WERROR
+3-10-2023 16:37:42-log: [cmake] -- OPTION BUILTIN_COCOS_X_PATH:	-- OPTION USE_BUILTIN_EXTERNAL:	OFF-- OPTION USE_MODULES:	OFF-- OPTION CC_USE_METAL:	ON-- OPTION CC_USE_GLES3:	OFF-- OPTION CC_USE_GLES2:	OFF-- OPTION CC_USE_VULKAN:	OFF-- OPTION CC_DEBUG_FORCE:	OFF-- OPTION USE_SE_V8:	ON-- OPTION USE_V8_DEBUGGER:	ON
+3-10-2023 16:37:42-log: [cmake] -- OPTION USE_V8_DEBUGGER_FORCE:	OFF-- OPTION USE_SE_SM:	OFF-- OPTION USE_SOCKET:	ON-- OPTION USE_AUDIO:	ON-- OPTION USE_EDIT_BOX:	ON-- OPTION USE_VIDEO:	ON-- OPTION USE_WEBVIEW:	ON-- OPTION USE_MIDDLEWARE:	ON-- OPTION USE_DRAGONBONES:	ON-- OPTION USE_SPINE:	ON-- OPTION USE_WEBSOCKET_SERVER:	OFF-- OPTION USE_PHYSICS_PHYSX:	OFF-- OPTION USE_JOB_SYSTEM_TBB:	OFF-- OPTION USE_JOB_SYSTEM_TASKFLOW:	OFF-- OPTION USE_XR:	OFF-- OPTION USE_SERVER_MODE:	OFF-- OPTION USE_AR_MODULE:	OFF-- OPTION USE_AR_AUTO:	OFF-- OPTION USE_AR_CORE:	OFF-- OPTION USE_AR_ENGINE:	OFF-- OPTION USE_CCACHE:	-- OPTION CCACHE_EXECUTABLE:	CCACHE_EXECUTABLE-NOTFOUND-- OPTION NODE_EXECUTABLE:	/Users/zuno/.nvm/versions/node/v16.7.0/bin/node-- OPTION NET_MODE:	0-- OPTION USE_REMOTE_LOG:	OFF-- platform path: 
+3-10-2023 16:37:42-log: [cmake] -- Try generating /Users/zuno/Desktop/ZUNO/coco-poker/native/engine/ios/Pre-AutoLoadPlulgins.cmake
+3-10-2023 16:37:42-log: [cmake] --  execute /Users/zuno/.nvm/versions/node/v16.7.0/bin/node plugin_parser.js
+3-10-2023 16:37:42-log: [cmake] [searching plugins] directory /Users/zuno/Desktop/ZUNO/coco-poker/extensions does not exist[searching plugins] no plugins found!
+3-10-2023 16:37:42-log: [cmake] -- Searching hook files Pre*.cmake or *Pre.cmake in /Users/zuno/Desktop/ZUNO/coco-poker/native/engine/ios-- ::Loading Pre-service.cmake
+3-10-2023 16:37:42-log: [cmake] -- No plugins are loaded!
+3-10-2023 16:37:42-log: [cmake] -- Searching hook files Post*.cmake or *Post.cmake in /Users/zuno/Desktop/ZUNO/coco-poker/native/engine/ios-- ::Loading Post-service.cmake
+3-10-2023 16:37:42-log: [cmake] -- Configuring done
+3-10-2023 16:37:42-log: [cmake] -- Generating done
+3-10-2023 16:37:42-log: [cmake] -- Build files have been written to: /Users/zuno/Desktop/ZUNO/coco-poker/build/ios-001/proj
+3-10-2023 16:37:43-log: parsing pbxfile /Users/zuno/Desktop/ZUNO/coco-poker/build/ios-001/proj/coco-poker.xcodeproj/project.pbxproj
+3-10-2023 16:37:43-log:    multiple Resources/ group found!
+3-10-2023 16:37:43-log:    C96E2C34865D489688130B06 hasImageAsset true, is final target true
+3-10-2023 16:37:43-log:    C96E2C34865D489688130B06 hasImageAsset true, is final target true
+3-10-2023 16:37:43-log:    F35A07A9F44F407EADB18A0F hasImageAsset false, is final target false
+3-10-2023 16:37:43-log:    B251C98D89E3465DB9D73CF6 hasImageAsset false, is final target false
+3-10-2023 16:37:43-log:   modifiy Xcode project file /Users/zuno/Desktop/ZUNO/coco-poker/build/ios-001/proj/coco-poker.xcodeproj/project.pbxproj
+3-10-2023 16:37:43-log:    select C96E2C34865D489688130B06
+3-10-2023 16:37:43-log:   replace pbxfile: /Users/zuno/Desktop/ZUNO/coco-poker/build/ios-001/proj/coco-poker.xcodeproj/project.pbxproj.
+3-10-2023 16:37:43-log:    F35A07A9F44F407EADB18A0F hasImageAsset false, is final target false
+3-10-2023 16:37:43-log:    B251C98D89E3465DB9D73CF6 hasImageAsset false, is final target false
+3-10-2023 16:37:43-debug: cocos-service:(onAfterBuild) start...84%
+3-10-2023 16:37:43-debug: // ---- build task cocos-service：onAfterBuild ----
+3-10-2023 16:37:43-debug: native:(onAfterBuild) in 7997 ms84%
+3-10-2023 16:37:43-debug: Process: heapTotal 243.31MB heapUsed 225.85MB rss 298.58MB
+3-10-2023 16:37:43-debug: // ---- build task native：onAfterBuild ---- (7997ms)
+3-10-2023 16:37:43-log: Asset DB is resume!
+3-10-2023 16:37:43-debug: // ---- build task cocos-service：onAfterBuild ---- (315ms)
+3-10-2023 16:37:43-debug: cocos-service:(onAfterBuild) in 315 ms86%
+3-10-2023 16:37:43-debug: builder:build-project-total (16397ms)
+3-10-2023 16:37:43-debug: build success in 16397 ms!
+3-10-2023 16:37:43-debug: ================================ Build Task (ios-001) Finished in (16403)ms ================================
+3-10-2023 17:42:52-debug: Build with Cocos Creator 3.7.1
+3-10-2023 17:42:52-debug: =================================== Build Task (ios-001) Start ================================
+3-10-2023 17:42:52-debug: // ---- build task cocos-service：onBeforeBuild ----
+3-10-2023 17:42:52-debug: Process: heapTotal 233.45MB heapUsed 204.15MB rss 288.66MB
+3-10-2023 17:42:52-debug: cocos-service:(onBeforeBuild) start...0%
+3-10-2023 17:42:52-debug: Start build task, options:{"name":"coco-poker","platform":"ios","buildPath":"project://build","debug":true,"md5Cache":false,"skipCompressTexture":false,"sourceMaps":false,"polyfills":{"asyncFunctions":false},"experimentalEraseModules":false,"useBuiltinServer":false,"mainBundleIsRemote":false,"mainBundleCompressionType":"merge_dep","useSplashScreen":true,"packAutoAtlas":true,"startScene":"3a9e107c-c444-4c5d-b0d8-4794d9bd6656","outputName":"ios-001","scenes":[{"url":"db://assets/Login.scene","uuid":"3a9e107c-c444-4c5d-b0d8-4794d9bd6656","inBundle":false},{"url":"db://assets/choose room.scene","uuid":"de512fff-2828-42d9-bf6f-9c6b43b9cfad","inBundle":false},{"url":"db://assets/homepage.scene","uuid":"b7d0975a-b160-40c1-825a-9a12700cbdda","inBundle":false},{"url":"db://assets/main.scene","uuid":"78911f8a-d1bf-49d8-bfbb-2651d017a8b0","inBundle":false},{"url":"db://assets/profile.scene","uuid":"23cfb5e0-69fd-4c0f-9b64-f3416b6d0800","inBundle":false},{"url":"db://assets/rank.scene","uuid":"a0b55cec-cb20-4534-a133-f6a10246528c","inBundle":false},{"url":"db://assets/setting-general.scene","uuid":"169d4508-1e9d-4ea6-bc39-03502308beec","inBundle":false},{"url":"db://assets/setting-pri.scene","uuid":"1393484a-22f9-45da-bc10-b2256f4f0a72","inBundle":false},{"url":"db://assets/setting-sup.scene","uuid":"1e7811ae-7650-4822-a2d1-6cf298d5cdcc","inBundle":false}],"ios":[],"packages":{"native":{"encrypted":false,"xxteaKey":"428/hH55BLfbs1nw","compressZip":false,"JobSystem":"none","__version__":"1.0.2"},"cocos-service":{"configID":"10410f","services":[],"__version__":"3.0.5"},"ios":{"packageName":"PokerGTech","renderBackEnd":{"metal":true},"skipUpdateXcodeProject":true,"orientation":{"portrait":false,"upsideDown":false,"landscapeRight":true,"landscapeLeft":true},"osTarget":{"iphoneos":false,"simulator":true},"targetVersion":"13.0","__version__":"1.0.0","developerTeam":"79RF53F62V_175A8848F82877CC1CF3F21B5D3881AEB4260F6D"}},"__version__":"1.3.4"}
+3-10-2023 17:42:52-debug: scene:(onBeforeBuild) start...1%
+3-10-2023 17:42:52-debug: cocos-service:(onBeforeBuild) in 369 ms1%
+3-10-2023 17:42:52-debug: // ---- build task scene：onBeforeBuild ----
+3-10-2023 17:42:52-debug: Process: heapTotal 233.45MB heapUsed 204.40MB rss 288.80MB
+3-10-2023 17:42:52-debug: // ---- build task cocos-service：onBeforeBuild ---- (369ms)
+3-10-2023 17:43:08-debug: start refresh asset from /Users/zuno/Desktop/ZUNO/coco-poker/assets/Login.scene...
+3-10-2023 17:43:08-debug: %cImport%c: /Users/zuno/Desktop/ZUNO/coco-poker/assets/Login.scenebackground: #aaff85; color: #000;color: #000;
+3-10-2023 17:43:08-debug: refresh asset /Users/zuno/Desktop/ZUNO/coco-poker/assets/Login.scene success
+3-10-2023 17:43:08-debug: Start lock asset db...2%
+3-10-2023 17:43:08-log: Asset DB is paused with build!
+3-10-2023 17:43:08-debug: Query all assets info in project
+3-10-2023 17:43:08-debug: scene:(onBeforeBuild) in 15277 ms2%
+3-10-2023 17:43:08-debug: // ---- build task scene：onBeforeBuild ---- (15277ms)
+3-10-2023 17:43:08-debug: init custom config: keepNodeUuid: false, useCache: true
+3-10-2023 17:43:08-debug:   Number of all scripts: 1
+3-10-2023 17:43:08-debug:   Number of all scenes: 9
+3-10-2023 17:43:08-debug: native:(onAfterInit) start...2%
+3-10-2023 17:43:08-debug: Process: heapTotal 219.20MB heapUsed 203.44MB rss 168.98MB
+3-10-2023 17:43:08-debug: // ---- build task native：onAfterInit ----
+3-10-2023 17:43:08-debug:   Number of other assets: 539
+3-10-2023 17:43:08-debug: Native engine root:/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/native
+3-10-2023 17:43:08-debug: native:(onAfterInit) in 159 ms3%
+3-10-2023 17:43:08-debug: ios:(onAfterInit) start...3%
+3-10-2023 17:43:08-debug: // ---- build task ios：onAfterInit ----
+3-10-2023 17:43:08-debug: // ---- build task native：onAfterInit ---- (159ms)
+3-10-2023 17:43:08-debug: Process: heapTotal 225.45MB heapUsed 207.83MB rss 194.44MB
+3-10-2023 17:43:08-debug: cocos-service:(onAfterInit) start...4%
+3-10-2023 17:43:08-debug: ios:(onAfterInit) in 0 ms4%
+3-10-2023 17:43:08-debug: Process: heapTotal 225.45MB heapUsed 207.90MB rss 194.48MB
+3-10-2023 17:43:08-debug: // ---- build task cocos-service：onAfterInit ----
+3-10-2023 17:43:08-debug: Reload project scripts start4%
+3-10-2023 17:43:08-debug: // ---- build task Reload project scripts ----
+3-10-2023 17:43:08-debug: reload all scripts.
+3-10-2023 17:43:08-debug: // ---- build task cocos-service：onAfterInit ---- (277ms)
+3-10-2023 17:43:08-debug: Process: heapTotal 231.36MB heapUsed 209.18MB rss 196.03MB
+3-10-2023 17:43:08-debug: cocos-service:(onAfterInit) in 277 ms4%
+3-10-2023 17:43:08-debug: Incremental keys: 
+3-10-2023 17:43:08-debug: Set detail map pack:///resolution-detail-map.json: {}
+3-10-2023 17:43:08-debug: [[Executor]] Module "cce:/internal/x/cc-fu/gfx-webgl" loaded.
+3-10-2023 17:43:08-debug: [[Executor]] Module "cce:/internal/x/cc-fu/gfx-webgl2" loaded.
+3-10-2023 17:43:08-debug: [[Executor]] Module "cce:/internal/x/cc-fu/gfx-empty" loaded.
+3-10-2023 17:43:08-debug: [[Executor]] Module "cce:/internal/x/cc-fu/3d" loaded.
+3-10-2023 17:43:08-debug: [[Executor]] Module "cce:/internal/x/cc-fu/animation" loaded.
+3-10-2023 17:43:08-debug: [[Executor]] Module "cce:/internal/x/cc-fu/skeletal-animation" loaded.
+3-10-2023 17:43:08-debug: [[Executor]] Module "cce:/internal/x/cc-fu/2d" loaded.
+3-10-2023 17:43:08-debug: [[Executor]] Module "cce:/internal/x/cc-fu/sorting" loaded.
+3-10-2023 17:43:08-debug: [[Executor]] Module "cce:/internal/x/cc-fu/ui" loaded.
+3-10-2023 17:43:08-debug: [[Executor]] Module "cce:/internal/x/cc-fu/particle" loaded.
+3-10-2023 17:43:08-debug: [[Executor]] Module "cce:/internal/x/cc-fu/particle-2d" loaded.
+3-10-2023 17:43:08-debug: [[Executor]] Module "cce:/internal/x/cc-fu/physics-framework" loaded.
+3-10-2023 17:43:08-debug: [[Executor]] Module "cce:/internal/x/cc-fu/physics-2d-framework" loaded.
+3-10-2023 17:43:08-debug: [[Executor]] Module "cce:/internal/x/cc-fu/intersection-2d" loaded.
+3-10-2023 17:43:08-debug: [[Executor]] Module "cce:/internal/x/cc-fu/base" loaded.
+3-10-2023 17:43:08-debug: [[Executor]] Module "cce:/internal/x/cc-fu/profiler" loaded.
+3-10-2023 17:43:08-debug: [[Executor]] Module "cce:/internal/x/cc-fu/geometry-renderer" loaded.
+3-10-2023 17:43:08-debug: [[Executor]] Module "cce:/internal/x/cc-fu/audio" loaded.
+3-10-2023 17:43:08-debug: [[Executor]] Module "cce:/internal/x/cc-fu/video" loaded.
+3-10-2023 17:43:08-debug: [[Executor]] Module "cce:/internal/x/cc-fu/xr" loaded.
+3-10-2023 17:43:08-debug: [[Executor]] Module "cce:/internal/x/cc-fu/light-probe" loaded.
+3-10-2023 17:43:08-debug: [[Executor]] Module "cce:/internal/x/cc-fu/primitive" loaded.
+3-10-2023 17:43:08-debug: [[Executor]] Module "cce:/internal/x/cc-fu/webview" loaded.
+3-10-2023 17:43:08-debug: /Users/zuno/Desktop/ZUNO/coco-poker/temp/programming/packer-driver/targets/editor/chunks/ce/cee638a986ad8fae09398db255647defcaa6612a.js resolved to /Users/zuno/Desktop/ZUNO/coco-poker/temp/programming/packer-driver/targets/editor/chunks/ce/cee638a986ad8fae09398db255647defcaa6612a.js is not in module cache!
+3-10-2023 17:43:08-debug: [[Executor]] Module "cce:/internal/x/cc-fu/tiled-map" loaded.
+3-10-2023 17:43:08-debug: [[Executor]] Module "cce:/internal/x/cc-fu/spine" loaded.
+3-10-2023 17:43:08-debug: [[Executor]] Module "cce:/internal/x/cc-fu/dragon-bones" loaded.
+3-10-2023 17:43:08-debug: [[Executor]] Module "cce:/internal/x/cc-fu/custom-pipeline" loaded.
+3-10-2023 17:43:08-debug: [[Executor]] Module "cce:/internal/x/cc-fu/base" loaded.
+3-10-2023 17:43:08-debug: [[Executor]] Module "cce:/internal/x/cc-fu/gfx-webgl" loaded.
+3-10-2023 17:43:08-debug: [[Executor]] Module "cce:/internal/x/cc-fu/gfx-webgl2" loaded.
+3-10-2023 17:43:08-debug: [[Executor]] Module "cce:/internal/x/cc-fu/gfx-empty" loaded.
+3-10-2023 17:43:08-debug: [[Executor]] Module "cce:/internal/x/cc-fu/3d" loaded.
+3-10-2023 17:43:08-debug: [[Executor]] Module "cce:/internal/x/cc-fu/animation" loaded.
+3-10-2023 17:43:08-debug: [[Executor]] Module "cce:/internal/x/cc-fu/skeletal-animation" loaded.
+3-10-2023 17:43:08-debug: [[Executor]] Module "cce:/internal/x/cc-fu/2d" loaded.
+3-10-2023 17:43:08-debug: [[Executor]] Module "cce:/internal/x/cc-fu/sorting" loaded.
+3-10-2023 17:43:08-debug: [[Executor]] Module "cce:/internal/x/cc-fu/ui" loaded.
+3-10-2023 17:43:08-debug: [[Executor]] Module "cce:/internal/x/cc-fu/particle" loaded.
+3-10-2023 17:43:08-debug: [[Executor]] Module "cce:/internal/x/cc-fu/particle-2d" loaded.
+3-10-2023 17:43:08-debug: [[Executor]] Module "cce:/internal/x/cc-fu/physics-framework" loaded.
+3-10-2023 17:43:08-debug: [[Executor]] Module "cce:/internal/x/cc-fu/physics-2d-framework" loaded.
+3-10-2023 17:43:08-debug: [[Executor]] Module "cce:/internal/x/cc-fu/primitive" loaded.
+3-10-2023 17:43:08-debug: [[Executor]] Module "cce:/internal/x/cc-fu/profiler" loaded.
+3-10-2023 17:43:08-debug: [[Executor]] Module "cce:/internal/x/cc-fu/tween" loaded.
+3-10-2023 17:43:08-debug: [[Executor]] Module "cce:/internal/x/cc-fu/audio" loaded.
+3-10-2023 17:43:08-debug: [[Executor]] Module "cce:/internal/x/cc-fu/video" loaded.
+3-10-2023 17:43:08-debug: [[Executor]] Module "cce:/internal/x/cc-fu/xr" loaded.
+3-10-2023 17:43:08-debug: [[Executor]] Module "cce:/internal/x/cc-fu/light-probe" loaded.
+3-10-2023 17:43:08-debug: [[Executor]] Module "cce:/internal/x/cc-fu/terrain" loaded.
+3-10-2023 17:43:08-debug: [[Executor]] Module "cce:/internal/x/cc-fu/webview" loaded.
+3-10-2023 17:43:08-debug: [[Executor]] Module "cce:/internal/x/cc-fu/tween" loaded.
+3-10-2023 17:43:08-debug: [[Executor]] Module "cce:/internal/x/cc-fu/tiled-map" loaded.
+3-10-2023 17:43:08-debug: [[Executor]] Module "cce:/internal/x/cc-fu/spine" loaded.
+3-10-2023 17:43:08-debug: [[Executor]] Module "cce:/internal/x/cc-fu/dragon-bones" loaded.
+3-10-2023 17:43:08-debug: [[Executor]] Module "cce:/internal/x/cc-fu/custom-pipeline" loaded.
+3-10-2023 17:43:08-debug: [[Executor]] Module "pack:///chunks/ce/cee638a986ad8fae09398db255647defcaa6612a.js" loaded.
+3-10-2023 17:43:08-debug: Invalidating 'pack:///chunks/ce/cee638a986ad8fae09398db255647defcaa6612a.js'
+3-10-2023 17:43:08-groupEnd: undefined
+3-10-2023 17:43:08-debug: [[Executor]] Module "pack:///chunks/ce/cee638a986ad8fae09398db255647defcaa6612a.js" loaded.
+3-10-2023 17:43:08-debug: [[Executor]] Module "cce:/internal/x/cc-fu/intersection-2d" loaded.
+3-10-2023 17:43:08-debug: [[Executor]] Module "cce:/internal/x/cc-fu/geometry-renderer" loaded.
+3-10-2023 17:43:08-debug: [[Executor]] Module "cce:/internal/x/cc-fu/terrain" loaded.
+3-10-2023 17:43:08-debug: [[Executor]] Module "pack:///chunks/48/48925ed89f58b0eff72f0ddf69b47c4b5e8f623a.js" loaded.
+3-10-2023 17:43:08-debug: /Users/zuno/Desktop/ZUNO/coco-poker/temp/programming/packer-driver/targets/editor/chunks/48/48925ed89f58b0eff72f0ddf69b47c4b5e8f623a.js resolved to /Users/zuno/Desktop/ZUNO/coco-poker/temp/programming/packer-driver/targets/editor/chunks/48/48925ed89f58b0eff72f0ddf69b47c4b5e8f623a.js is not in module cache!
+3-10-2023 17:43:08-debug: /Users/zuno/Desktop/ZUNO/coco-poker/temp/programming/packer-driver/targets/editor/chunks/fa/fabcdf83b529ae54ecc7fae70fb29306eefc6af4.js resolved to /Users/zuno/Desktop/ZUNO/coco-poker/temp/programming/packer-driver/targets/editor/chunks/fa/fabcdf83b529ae54ecc7fae70fb29306eefc6af4.js is not in module cache!
+3-10-2023 17:43:08-debug: [[Executor]] Module "pack:///chunks/fa/fabcdf83b529ae54ecc7fae70fb29306eefc6af4.js" loaded.
+3-10-2023 17:43:08-debug: [[Executor]] Module "pack:///chunks/48/48925ed89f58b0eff72f0ddf69b47c4b5e8f623a.js" loaded.
+3-10-2023 17:43:08-debug: [[Executor]] Register Login
+3-10-2023 17:43:08-groupEnd: undefined
+3-10-2023 17:43:08-debug: // ---- build task Reload project scripts ---- (28ms)
+3-10-2023 17:43:08-debug: // ---- build task Query asset bundle ----
+3-10-2023 17:43:08-debug: Process: heapTotal 230.20MB heapUsed 207.43MB rss 199.66MB
+3-10-2023 17:43:08-debug: run build task Reload project scripts success in 28 ms √6%
+3-10-2023 17:43:08-debug: Query asset bundle start6%
+3-10-2023 17:43:08-debug: Query and organize assets start7%
+3-10-2023 17:43:08-debug: // ---- build task Query and organize assets ----
+3-10-2023 17:43:08-debug: run build task Query asset bundle success in 11 ms √7%
+3-10-2023 17:43:08-debug: // ---- build task Query asset bundle ---- (11ms)
+3-10-2023 17:43:08-debug: Process: heapTotal 230.20MB heapUsed 209.42MB rss 199.98MB
+3-10-2023 17:43:08-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,ff9be190-20a4-4e48-b68c-76e3c7cff085,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,9361fd90-ba52-4f84-aa93-6e878fd576ca,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,871c3b6c-7379-419d-bda3-794b239ab90d
+3-10-2023 17:43:08-debug: Number of scenes: 9
+3-10-2023 17:43:08-debug: Number of assets: 260
+3-10-2023 17:43:08-debug: Number of asset bundle: 2
+3-10-2023 17:43:08-debug: // ---- build task Organize scripts ----
+3-10-2023 17:43:08-debug: Organize scripts start8%
+3-10-2023 17:43:08-debug: Process: heapTotal 230.20MB heapUsed 209.45MB rss 203.61MB
+3-10-2023 17:43:08-debug: sort script group...
+3-10-2023 17:43:08-debug: run build task Query and organize assets success in 31 ms √8%
+3-10-2023 17:43:08-debug: // ---- build task Query and organize assets ---- (31ms)
+3-10-2023 17:43:08-debug: // ---- build task Organize scripts ---- (1ms)
+3-10-2023 17:43:08-debug: run build task Organize scripts success in 1 ms √9%
+3-10-2023 17:43:08-debug: // ---- build task Organize texture compression tasks ----
+3-10-2023 17:43:08-debug: Organize texture compression tasks start9%
+3-10-2023 17:43:08-debug: Process: heapTotal 230.20MB heapUsed 209.55MB rss 203.63MB
+3-10-2023 17:43:08-debug: Number of image-compress task: 0
+3-10-2023 17:43:08-debug: Group json start11%
+3-10-2023 17:43:08-debug: // ---- build task Group json ----
+3-10-2023 17:43:08-debug: Process: heapTotal 230.20MB heapUsed 210.57MB rss 203.67MB
+3-10-2023 17:43:08-debug: run build task Organize texture compression tasks success in 8 ms √11%
+3-10-2023 17:43:08-debug: // ---- build task Organize texture compression tasks ---- (8ms)
+3-10-2023 17:43:08-debug: Number of json group: 10
+3-10-2023 17:43:08-debug: Merging Texture2D json start12%
+3-10-2023 17:43:08-debug: // ---- build task Merging Texture2D json ----
+3-10-2023 17:43:08-debug: // ---- build task Group json ---- (3ms)
+3-10-2023 17:43:08-debug: Process: heapTotal 230.20MB heapUsed 208.16MB rss 203.84MB
+3-10-2023 17:43:08-debug: run build task Group json success in 3 ms √12%
+3-10-2023 17:43:08-debug: Sort import-map.json start13%
+3-10-2023 17:43:08-debug: // ---- build task Sort import-map.json ----
+3-10-2023 17:43:08-debug: // ---- build task Merging Texture2D json ---- (3ms)
+3-10-2023 17:43:08-debug: Process: heapTotal 230.20MB heapUsed 209.12MB rss 204.44MB
+3-10-2023 17:43:08-debug: run build task Merging Texture2D json success in 3 ms √13%
+3-10-2023 17:43:08-debug: // ---- build task native：onBeforeBuildAssets ----
+3-10-2023 17:43:08-debug: Process: heapTotal 230.20MB heapUsed 209.20MB rss 204.47MB
+3-10-2023 17:43:08-debug: native:(onBeforeBuildAssets) start...14%
+3-10-2023 17:43:08-debug: run build task Sort import-map.json success in 0 ms √14%
+3-10-2023 17:43:08-debug: Build auto-atlas start17%
+3-10-2023 17:43:08-debug: // ---- build task Build auto-atlas ----
+3-10-2023 17:43:08-debug: Process: heapTotal 230.20MB heapUsed 209.28MB rss 204.48MB
+3-10-2023 17:43:08-debug: Start collect pack info from bundleds
+3-10-2023 17:43:08-debug: // ---- build task native：onBeforeBuildAssets ---- (1ms)
+3-10-2023 17:43:08-debug: native:(onBeforeBuildAssets) in 1 ms17%
+3-10-2023 17:43:08-debug: run build task Build auto-atlas success in 3 ms √23%
+3-10-2023 17:43:08-debug: Compress Image start23%
+3-10-2023 17:43:08-debug: // ---- build task Compress Image ----
+3-10-2023 17:43:08-debug: // ---- build task Build auto-atlas ---- (3ms)
+3-10-2023 17:43:08-debug: Process: heapTotal 230.70MB heapUsed 207.79MB rss 204.50MB
+3-10-2023 17:43:08-debug: // ---- build task Copy the resource ----
+3-10-2023 17:43:08-debug: Process: heapTotal 230.70MB heapUsed 207.85MB rss 204.50MB
+3-10-2023 17:43:08-group: Handle bundle internal
+3-10-2023 17:43:08-debug: run build task Compress Image success in 0 ms √30%
+3-10-2023 17:43:08-debug: Copy the resource start30%
+3-10-2023 17:43:08-debug: Asset Bundle(internal) handle assets: 20
+3-10-2023 17:43:08-groupEnd: Handle bundle internal
+3-10-2023 17:43:08-group: Handle bundle main
+3-10-2023 17:43:08-debug: Asset Bundle(main) handle assets: 240
+3-10-2023 17:43:08-groupEnd: Handle bundle main
+3-10-2023 17:43:08-debug: Build the grouped json and scatter files to the specified location start37%
+3-10-2023 17:43:08-debug: // ---- build task Build the grouped json and scatter files to the specified location ----
+3-10-2023 17:43:08-debug: run build task Copy the resource success in 126 ms √37%
+3-10-2023 17:43:08-group: Build Json
+3-10-2023 17:43:08-group: Handle all json groups in bundle internal
+3-10-2023 17:43:08-group: handle json group
+3-10-2023 17:43:08-debug: // ---- build task Copy the resource ---- (126ms)
+3-10-2023 17:43:08-debug: Process: heapTotal 230.70MB heapUsed 210.29MB rss 204.69MB
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_materials/ui-alpha-test-material.mtl)})
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_materials/default-clear-stencil.mtl)})
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_materials/default-spine-material.mtl)})
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_materials/missing-effect-material.mtl)})
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_materials/missing-material.mtl)})
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_materials/ui-sprite-gray-alpha-sep-material.mtl)})
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_materials/ui-base-material.mtl)})
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_materials/ui-sprite-gray-material.mtl)})
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_materials/ui-graphics-material.mtl)})
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_materials/ui-sprite-alpha-sep-material.mtl)})
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_materials/ui-sprite-material.mtl)})
+3-10-2023 17:43:08-debug: Json group(0846c28f0) compile success，json number: 6
+3-10-2023 17:43:08-groupEnd: Handle all json groups in bundle internal
+3-10-2023 17:43:08-group: Handle all json groups in bundle main
+3-10-2023 17:43:08-group: handle json group
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Homepage/BackgroundHome.png)})
+3-10-2023 17:43:08-groupEnd: handle single json
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Choose room/choose room/Group 427318894.png)})
+3-10-2023 17:43:08-group: handle single json
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/gen/Vector (1).png)})
+3-10-2023 17:43:08-groupEnd: handle json group
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/gen/SETTINGS.png)})
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Homepage/Artboard 6@8x 1.png)})
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Homepage/Group 427318943 (1).png)})
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/private/Vector.png)})
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/login/Group 427318912.png)})
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/my profile/Group 427318909.png)})
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/ranking/Group.png)})
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/ranking/TOTAL CHIP.png)})
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/images/TableRoom.png)})
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/gen/SUPPORT.png)})
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/support/Design.png)})
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/private/GENERAL.png)})
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/gen/Vector.png)})
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Choose room/choose room/watchAds.png)})
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Homepage/Group 427318942.png)})
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Choose room/choose room/pre room.png)})
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/gen/PRIVATE.png)})
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/support/SUPPORT.png)})
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/private/PRIVATE.png)})
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/private/Group 427318949 (1).png)})
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/gen/GENERAL.png)})
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/my profile/CameraIcon.png)})
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/images/GirlBanker.png)})
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/ranking/Group-2.png)})
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_ui/default_btn_pressed.png)})
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/my profile/Group 427318946.png)})
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/my profile/Lz2IhG.tif.png)})
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/images/BackgroundRoom.png)})
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/ranking/5.png)})
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/my profile/MY PROFILE.png)})
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Choose room/choose room/bg.png)})
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/support/Graphic_Elements.png)})
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Choose room/choose room/TextRoomLevels.png)})
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_ui/default_btn_normal.png)})
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/my profile/Frame.png)})
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/my profile/FFAWkY.tif.png)})
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/gen/Artboard 10@5x 1.png)})
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/ranking/PLAYER.png)})
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/ranking/Group-1.png)})
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Choose room/choose room/Please choose a room to start playing.png)})
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/my profile/Layer 1 (1).png)})
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/support/Design (1).png)})
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_ui/default_btn_disabled.png)})
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Homepage/girl_homepage_2 1.png)})
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Homepage/Ranking.png)})
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/images/A♥.png)})
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_ui/default_sprite.png)})
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/my profile/Vector.png)})
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/login/Group 427318911.png)})
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Homepage/watchAds.png)})
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/ranking/WEEKLY RANKING.png)})
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/support/GENERAL.png)})
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/ranking/Group 427318948 2.png)})
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Homepage/settings.png)})
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/gen/Group 427318828.png)})
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Homepage/Layer 1.png)})
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/my profile/Group 427318824.png)})
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/ranking/Group 427318947.png)})
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Choose room/choose room/classic room.png)})
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/gen/Group 427318829.png)})
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/login/BackgroundGame.png)})
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/login/Group 427318916.png)})
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Homepage/Mail.png)})
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/my profile/bg.png)})
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Homepage/PlayNow.png)})
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/login/4887959bd6a9a3ed4f0d1c278b08bff3 1.png)})
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/login/Play as GUEST.png)})
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/ranking/RANK.png)})
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Homepage/Chat.png)})
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/ranking/4.png)})
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/gen/Artboard 9@5x 1.png)})
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/login/Group 427318913.png)})
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Choose room/choose room/ButtonBack.png)})
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/setting-pri.scene)})
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/gen/Vector (1).png/spriteFrame)})
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/gen/SETTINGS.png/spriteFrame)})
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/my profile/Layer 1 (1).png/spriteFrame)})
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/private/Vector.png/spriteFrame)})
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Choose room/choose room/ButtonBack.png/spriteFrame)})
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/private/PRIVATE.png/spriteFrame)})
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/private/Group 427318949 (1).png/spriteFrame)})
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/gen/SUPPORT.png/spriteFrame)})
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/private/GENERAL.png/spriteFrame)})
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/gen/Vector.png/spriteFrame)})
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/my profile/bg.png/spriteFrame)})
+3-10-2023 17:43:08-debug: Json group(0d493addc) compile success，json number: 6
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/gen/Artboard 10@5x 1.png/spriteFrame)})
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/setting-general.scene)})
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/gen/PRIVATE.png/spriteFrame)})
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/gen/GENERAL.png/spriteFrame)})
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/gen/Group 427318828.png/spriteFrame)})
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/gen/Group 427318829.png/spriteFrame)})
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/gen/Artboard 9@5x 1.png/spriteFrame)})
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/setting-sup.scene)})
+3-10-2023 17:43:08-debug: Json group(042b5a1e9) compile success，json number: 6
+3-10-2023 17:43:08-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/support/Graphic_Elements.png/spriteFrame)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/support/SUPPORT.png/spriteFrame)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/support/Design (1).png/spriteFrame)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/support/Design.png/spriteFrame)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/support/GENERAL.png/spriteFrame)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/my profile/CameraIcon.png/spriteFrame)})
+3-10-2023 17:43:09-debug: Json group(030811e30) compile success，json number: 6
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/my profile/FFAWkY.tif.png/spriteFrame)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/my profile/Frame.png/spriteFrame)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/profile.scene)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Homepage/Group 427318942.png/spriteFrame)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/my profile/Vector.png/spriteFrame)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/my profile/Group 427318909.png/spriteFrame)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/my profile/MY PROFILE.png/spriteFrame)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/my profile/Group 427318946.png/spriteFrame)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/my profile/Lz2IhG.tif.png/spriteFrame)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/my profile/Group 427318824.png/spriteFrame)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_ui/default_btn_normal.png/spriteFrame)})
+3-10-2023 17:43:09-debug: Json group(0747d4ef4) compile success，json number: 6
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_ui/default_btn_pressed.png/spriteFrame)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/login/Group 427318912.png/spriteFrame)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/login/Group 427318913.png/spriteFrame)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_ui/default_btn_disabled.png/spriteFrame)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/login/Group 427318911.png/spriteFrame)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/login/BackgroundGame.png/spriteFrame)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/login/Group 427318916.png/spriteFrame)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/login/4887959bd6a9a3ed4f0d1c278b08bff3 1.png/spriteFrame)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/login/Play as GUEST.png/spriteFrame)})
+3-10-2023 17:43:09-debug: Json group(08524c1ae) compile success，json number: 6
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/images/BackgroundRoom.png/spriteFrame)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/images/A♥.png/spriteFrame)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/images/GirlBanker.png/spriteFrame)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_ui/default_sprite.png/spriteFrame)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/main.scene)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/images/TableRoom.png/spriteFrame)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/ranking/5.png/spriteFrame)})
+3-10-2023 17:43:09-debug: Json group(07cac1b39) compile success，json number: 6
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/ranking/Group-2.png/spriteFrame)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/ranking/PLAYER.png/spriteFrame)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/ranking/Group.png/spriteFrame)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Choose room/choose room/bg.png/spriteFrame)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/ranking/Group-1.png/spriteFrame)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/ranking/TOTAL CHIP.png/spriteFrame)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/ranking/Group 427318948 2.png/spriteFrame)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/rank.scene)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/ranking/WEEKLY RANKING.png/spriteFrame)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/ranking/Group 427318947.png/spriteFrame)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/ranking/RANK.png/spriteFrame)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/ranking/4.png/spriteFrame)})
+3-10-2023 17:43:09-debug: Json group(0a97513f9) compile success，json number: 6
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Homepage/girl_homepage_2 1.png/spriteFrame)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Homepage/BackgroundHome.png/spriteFrame)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Homepage/Ranking.png/spriteFrame)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Homepage/Artboard 6@8x 1.png/spriteFrame)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Homepage/Group 427318943 (1).png/spriteFrame)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Homepage/watchAds.png/spriteFrame)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Homepage/settings.png/spriteFrame)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Homepage/Layer 1.png/spriteFrame)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/homepage.scene)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Homepage/Mail.png/spriteFrame)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Homepage/PlayNow.png/spriteFrame)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Homepage/Chat.png/spriteFrame)})
+3-10-2023 17:43:09-debug: Json group(0bec210ec) compile success，json number: 6
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Choose room/choose room/Please choose a room to start playing.png/spriteFrame)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Choose room/choose room/Group 427318894.png/spriteFrame)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Choose room/choose room/watchAds.png/spriteFrame)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Choose room/choose room/pre room.png/spriteFrame)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Choose room/choose room/TextRoomLevels.png/spriteFrame)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Choose room/choose room/classic room.png/spriteFrame)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/choose room.scene)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/gen/Vector (1).png/texture)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Choose room/choose room/Group 427318894.png/texture)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/gen/SETTINGS.png/texture)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Homepage/BackgroundHome.png/texture)})
+3-10-2023 17:43:09-debug: Json group(0b62b80ee) compile success，json number: 6
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Homepage/Group 427318943 (1).png/texture)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/private/Vector.png/texture)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/login/Group 427318912.png/texture)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/my profile/Group 427318909.png/texture)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/ranking/Group.png/texture)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Homepage/Artboard 6@8x 1.png/texture)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/ranking/TOTAL CHIP.png/texture)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/images/TableRoom.png/texture)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/gen/SUPPORT.png/texture)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/support/Design.png/texture)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/private/GENERAL.png/texture)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/gen/Vector.png/texture)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Choose room/choose room/watchAds.png/texture)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Homepage/Group 427318942.png/texture)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Choose room/choose room/pre room.png/texture)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/gen/PRIVATE.png/texture)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/support/SUPPORT.png/texture)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/private/PRIVATE.png/texture)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/private/Group 427318949 (1).png/texture)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/gen/GENERAL.png/texture)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/my profile/CameraIcon.png/texture)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/images/GirlBanker.png/texture)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/ranking/Group-2.png/texture)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/my profile/Lz2IhG.tif.png/texture)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/images/BackgroundRoom.png/texture)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/my profile/Group 427318946.png/texture)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/ranking/5.png/texture)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/login/Group 427318913.png/texture)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/my profile/MY PROFILE.png/texture)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Choose room/choose room/bg.png/texture)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/support/Graphic_Elements.png/texture)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Choose room/choose room/TextRoomLevels.png/texture)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/my profile/Frame.png/texture)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/my profile/FFAWkY.tif.png/texture)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/gen/Artboard 10@5x 1.png/texture)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/ranking/Group-1.png/texture)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_ui/default_btn_pressed.png/texture)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/my profile/Layer 1 (1).png/texture)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/ranking/PLAYER.png/texture)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Choose room/choose room/Please choose a room to start playing.png/texture)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_ui/default_btn_normal.png/texture)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_ui/default_btn_disabled.png/texture)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/support/Design (1).png/texture)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Homepage/girl_homepage_2 1.png/texture)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Homepage/Ranking.png/texture)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Choose room/choose room/ButtonBack.png/texture)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/images/A♥.png/texture)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_ui/default_sprite.png/texture)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/ranking/Group 427318948 2.png/texture)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/login/Group 427318911.png/texture)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/my profile/Vector.png/texture)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/ranking/WEEKLY RANKING.png/texture)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/support/GENERAL.png/texture)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Homepage/settings.png/texture)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Homepage/watchAds.png/texture)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/gen/Group 427318828.png/texture)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Homepage/Layer 1.png/texture)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/my profile/Group 427318824.png/texture)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Choose room/choose room/classic room.png/texture)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/gen/Group 427318829.png/texture)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/ranking/Group 427318947.png/texture)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/login/Group 427318916.png/texture)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/login/BackgroundGame.png/texture)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Homepage/Mail.png/texture)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/my profile/bg.png/texture)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Homepage/PlayNow.png/texture)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/login/Play as GUEST.png/texture)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/login/4887959bd6a9a3ed4f0d1c278b08bff3 1.png/texture)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/ranking/RANK.png/texture)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Homepage/Chat.png/texture)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/ranking/4.png/texture)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/seeting/gen/Artboard 9@5x 1.png/texture)})
+3-10-2023 17:43:09-groupEnd: handle json group
+3-10-2023 17:43:09-group: handle single json
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/physics/default-physics-material.pmtl)})
+3-10-2023 17:43:09-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_renderpipeline/builtin-forward.rpp)})
+3-10-2023 17:43:09-groupEnd: handle single json
+3-10-2023 17:43:09-groupEnd: Handle all json groups in bundle main
+3-10-2023 17:43:09-groupEnd: Build Json
+3-10-2023 17:43:09-debug: run build task Build the grouped json and scatter files to the specified location success in 93 ms √43%
+3-10-2023 17:43:09-debug: Build script start43%
+3-10-2023 17:43:09-debug: // ---- build task Build script ----
+3-10-2023 17:43:09-debug: Process: heapTotal 230.84MB heapUsed 211.97MB rss 207.06MB
+3-10-2023 17:43:09-debug: // ---- build task Build the grouped json and scatter files to the specified location ---- (93ms)
+3-10-2023 17:43:09-debug: Caught exception during build core-js: WebpackOptionsValidationError: Invalid configuration object. Webpack has been initialised using a configuration object that does not match the API schema. - configuration.entry should be an non-empty array.   -> A non-empty array of non-empty stringsThis may indicates the core-js polyfill is not necessary. See https://github.com/zloirock/core-js/issues/822
+3-10-2023 17:43:09-debug: Build project script start...43%
+3-10-2023 17:43:09-debug: Process: heapTotal 276.92MB heapUsed 256.19MB rss 352.27MB
+3-10-2023 17:43:10-log: Run build task(build-script) in child, see: chrome://inspect/#devices
+3-10-2023 17:43:10-log: [build-script]enter sub process 71260, /Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Frameworks/CocosCreator Helper (Renderer).app/Contents/MacOS/CocosCreator Helper (Renderer),/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/builtin/builder/static/sub-process-index
+3-10-2023 17:43:12-debug: excute-script over with build-script 2038ms
+3-10-2023 17:43:12-debug: Copy externalScripts success!
+3-10-2023 17:43:12-debug: Build project script in (2231 ms) √43%
+3-10-2023 17:43:12-debug: Build engine start...43%
+3-10-2023 17:43:12-debug: Process: heapTotal 276.92MB heapUsed 256.32MB rss 332.80MB
+3-10-2023 17:43:12-debug: Use cache engine: {link(/var/folders/jv/f89ln_0d4hs5_yndcvnvpdcm0000gn/T/CocosCreator/3.7.1/builder/engine/37525bdf1c0be86891bc63db6e0347b3)}
+3-10-2023 17:43:12-debug: {"debug":true,"sourceMaps":false,"includeModules":["2d","animation","audio","base","dragon-bones","gfx-webgl","gfx-webgl2","intersection-2d","light-probe","particle-2d","physics-2d-box2d","profiler","spine","tiled-map","tween","ui","video","websocket","webview"],"engineVersion":"3.7.1","platform":"NATIVE","md5Map":[],"engineName":"src/cocos-js","useCache":true,"targets":"chrome 80","flags":{"DEBUG":true},"entry":"/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine"}
+3-10-2023 17:43:12-debug: Build engine in (51 ms) √43%
+3-10-2023 17:43:12-debug: Compress zip bundle start50%
+3-10-2023 17:43:12-debug: run build task Build script success in 3202 ms √50%
+3-10-2023 17:43:12-debug: Process: heapTotal 278.17MB heapUsed 253.06MB rss 337.03MB
+3-10-2023 17:43:12-debug: // ---- build task Compress zip bundle ----
+3-10-2023 17:43:12-debug: // ---- build task Build script ---- (3202ms)
+3-10-2023 17:43:12-debug: // ---- build task Compress zip bundle ---- (1ms)
+3-10-2023 17:43:12-debug: native:(onAfterBuildAssets) start...57%
+3-10-2023 17:43:12-debug: // ---- build task native：onAfterBuildAssets ----
+3-10-2023 17:43:12-debug: Process: heapTotal 278.17MB heapUsed 253.15MB rss 337.13MB
+3-10-2023 17:43:12-debug: run build task Compress zip bundle success in 1 ms √57%
+3-10-2023 17:43:12-debug: Add md5 suffix to assets start59%
+3-10-2023 17:43:12-debug: // ---- build task Add md5 suffix to assets ----
+3-10-2023 17:43:12-debug: native:(onAfterBuildAssets) in 1 ms59%
+3-10-2023 17:43:12-debug: Process: heapTotal 278.17MB heapUsed 253.22MB rss 337.19MB
+3-10-2023 17:43:12-debug: // ---- build task native：onAfterBuildAssets ---- (1ms)
+3-10-2023 17:43:12-debug: // ---- build task Init settings and config ----
+3-10-2023 17:43:12-debug: Process: heapTotal 278.17MB heapUsed 253.28MB rss 337.28MB
+3-10-2023 17:43:12-debug: run build task Add md5 suffix to assets success in 0 ms √69%
+3-10-2023 17:43:12-debug: Init settings and config start69%
+3-10-2023 17:43:12-debug: builder.tasks.settings.macro start69%
+3-10-2023 17:43:12-debug: run build task Init settings and config success in 1 ms √69%
+3-10-2023 17:43:12-debug: // ---- build task builder.tasks.settings.macro ----
+3-10-2023 17:43:12-debug: Process: heapTotal 278.17MB heapUsed 253.36MB rss 337.39MB
+3-10-2023 17:43:12-debug: builder.tasks.settings.macro does not defined in i18n
+3-10-2023 17:43:12-debug: // ---- build task Init settings and config ---- (1ms)
+3-10-2023 17:43:12-debug: // ---- build task builder.tasks.settings.macro ---- (5ms)
+3-10-2023 17:43:12-debug: // ---- build task Sort some build options to settings.json ----
+3-10-2023 17:43:12-debug: Sort some build options to settings.json start70%
+3-10-2023 17:43:12-debug: Process: heapTotal 278.17MB heapUsed 253.43MB rss 337.45MB
+3-10-2023 17:43:12-debug: run build task builder.tasks.settings.macro success in 5 ms √70%
+3-10-2023 17:43:12-debug: custom joint texture layouts start71%
+3-10-2023 17:43:12-debug: // ---- build task custom joint texture layouts ----
+3-10-2023 17:43:12-debug: // ---- build task Sort some build options to settings.json ---- (286ms)
+3-10-2023 17:43:12-debug: run build task Sort some build options to settings.json success in 286 ms √71%
+3-10-2023 17:43:12-debug: Process: heapTotal 278.17MB heapUsed 253.54MB rss 337.61MB
+3-10-2023 17:43:12-debug: // ---- build task custom joint texture layouts ---- (6ms)
+3-10-2023 17:43:12-debug: run build task custom joint texture layouts success in 6 ms √71%
+3-10-2023 17:43:12-debug: custom joint physics start71%
+3-10-2023 17:43:12-debug: // ---- build task custom joint physics ----
+3-10-2023 17:43:12-debug: Process: heapTotal 278.17MB heapUsed 253.60MB rss 337.69MB
+3-10-2023 17:43:12-debug: Fill script data to settings start72%
+3-10-2023 17:43:12-debug: // ---- build task Fill script data to settings ----
+3-10-2023 17:43:12-debug: run build task custom joint physics success in 0 ms √72%
+3-10-2023 17:43:12-debug: Process: heapTotal 278.17MB heapUsed 253.66MB rss 337.72MB
+3-10-2023 17:43:12-debug: run build task Fill script data to settings success in 0 ms √72%
+3-10-2023 17:43:12-debug: Fill scene data to settings start72%
+3-10-2023 17:43:12-debug: Process: heapTotal 278.17MB heapUsed 253.72MB rss 337.77MB
+3-10-2023 17:43:12-debug: // ---- build task Fill scene data to settings ----
+3-10-2023 17:43:12-debug: run build task Fill scene data to settings success in 0 ms √73%
+3-10-2023 17:43:12-debug: Organize assets groups，generate packedAssets and rawAssets data start73%
+3-10-2023 17:43:12-debug: // ---- build task Organize assets groups，generate packedAssets and rawAssets data ----
+3-10-2023 17:43:12-debug: Process: heapTotal 278.17MB heapUsed 253.80MB rss 338.16MB
+3-10-2023 17:43:12-debug: Generate md5AssetsMap from suffixMap to settings start73%
+3-10-2023 17:43:12-debug: // ---- build task Generate md5AssetsMap from suffixMap to settings ----
+3-10-2023 17:43:12-debug: Process: heapTotal 278.17MB heapUsed 253.98MB rss 338.86MB
+3-10-2023 17:43:12-debug: run build task Organize assets groups，generate packedAssets and rawAssets data success in 1 ms √73%
+3-10-2023 17:43:12-debug: options.md5Cache is false.
+3-10-2023 17:43:12-debug: // ---- build task Organize assets groups，generate packedAssets and rawAssets data ---- (1ms)
+3-10-2023 17:43:12-debug: cocos-service:(onBeforeCompressSettings) start...74%
+3-10-2023 17:43:12-debug: // ---- build task cocos-service：onBeforeCompressSettings ----
+3-10-2023 17:43:12-debug: run build task Generate md5AssetsMap from suffixMap to settings success in 1 ms √74%
+3-10-2023 17:43:12-debug: // ---- build task Generate md5AssetsMap from suffixMap to settings ---- (1ms)
+3-10-2023 17:43:12-debug: Process: heapTotal 278.17MB heapUsed 254.08MB rss 338.97MB
+3-10-2023 17:43:12-debug: // ---- build task cocos-service：onBeforeCompressSettings ---- (251ms)
+3-10-2023 17:43:12-debug: cocos-service:(onBeforeCompressSettings) in 251 ms76%
+3-10-2023 17:43:12-debug: // ---- build task Build import-map.json ----
+3-10-2023 17:43:12-debug: Process: heapTotal 278.17MB heapUsed 254.17MB rss 339.02MB
+3-10-2023 17:43:12-debug: Build import-map.json start76%
+3-10-2023 17:43:12-debug: run build task Build import-map.json success in 0 ms √77%
+3-10-2023 17:43:12-debug: // ---- build task Compress settings.json and config.json ----
+3-10-2023 17:43:12-debug: Process: heapTotal 278.17MB heapUsed 254.23MB rss 339.02MB
+3-10-2023 17:43:12-debug: Compress settings.json and config.json start77%
+3-10-2023 17:43:12-debug: // ---- build task Save config.json ----
+3-10-2023 17:43:12-debug: Process: heapTotal 278.17MB heapUsed 254.29MB rss 339.05MB
+3-10-2023 17:43:12-debug: Save config.json start78%
+3-10-2023 17:43:12-debug: run build task Compress settings.json and config.json success in 1 ms √78%
+3-10-2023 17:43:12-debug: // ---- build task Compress settings.json and config.json ---- (1ms)
+3-10-2023 17:43:12-debug: // ---- build task Save config.json ---- (1ms)
+3-10-2023 17:43:12-debug: // ---- build task Save Settings.json ----
+3-10-2023 17:43:12-debug: Save Settings.json start79%
+3-10-2023 17:43:12-debug: Process: heapTotal 278.17MB heapUsed 254.43MB rss 339.14MB
+3-10-2023 17:43:12-debug: run build task Save config.json success in 1 ms √79%
+3-10-2023 17:43:12-debug: run build task Save Settings.json success in 1 ms √79%
+3-10-2023 17:43:12-debug: Save Settings.json start79%
+3-10-2023 17:43:12-debug: // ---- build task Save Settings.json ----
+3-10-2023 17:43:12-debug: Process: heapTotal 278.17MB heapUsed 254.58MB rss 339.27MB
+3-10-2023 17:43:12-debug: // ---- build task Save Settings.json ---- (1ms)
+3-10-2023 17:43:12-debug: Sort build template start80%
+3-10-2023 17:43:12-debug: run build task Save Settings.json success in 0 ms √80%
+3-10-2023 17:43:12-debug: Process: heapTotal 278.17MB heapUsed 254.64MB rss 339.30MB
+3-10-2023 17:43:12-debug: // ---- build task Sort build template ----
+3-10-2023 17:43:12-debug: run build task Sort build template success in 31 ms √81%
+3-10-2023 17:43:12-debug: native:(onAfterCompressSettings) start...81%
+3-10-2023 17:43:12-debug: // ---- build task native：onAfterCompressSettings ----
+3-10-2023 17:43:12-debug: Process: heapTotal 279.02MB heapUsed 257.81MB rss 342.11MB
+3-10-2023 17:43:12-debug: // ---- build task Sort build template ---- (31ms)
+3-10-2023 17:43:12-log: Validating platform source code directories...
+3-10-2023 17:43:12-debug: generateCMakeConfig, {"CC_USE_GLES3":"set(CC_USE_GLES3 OFF)","CC_USE_GLES2":"set(CC_USE_GLES2 OFF)","USE_SERVER_MODE":"set(USE_SERVER_MODE OFF)","NET_MODE":"set(NET_MODE 0)","XXTEAKEY":"","CC_ENABLE_SWAPPY":"set(CC_ENABLE_SWAPPY OFF)","APP_NAME":"set(APP_NAME coco-poker)","COCOS_X_PATH":"set(COCOS_X_PATH \"/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/native\")","USE_JOB_SYSTEM_TASKFLOW":"set(USE_JOB_SYSTEM_TASKFLOW OFF)","USE_JOB_SYSTEM_TBB":"set(USE_JOB_SYSTEM_TBB OFF)","ENABLE_ANTIALIAS_FXAA":"set(ENABLE_ANTIALIAS_FXAA OFF)","USE_PHYSICS_PHYSX":"set(USE_PHYSICS_PHYSX OFF)","USE_OCCLUSION_QUERY":"set(USE_OCCLUSION_QUERY OFF)","USE_GEOMETRY_RENDERER":"set(USE_GEOMETRY_RENDERER OFF)","USE_DEBUG_RENDERER":"set(USE_DEBUG_RENDERER OFF)","USE_AUDIO":"set(USE_AUDIO ON)","USE_VIDEO":"set(USE_VIDEO ON)","USE_WEBVIEW":"set(USE_WEBVIEW ON)","USE_SOCKET":"set(USE_SOCKET ON)","USE_WEBSOCKET_SERVER":"set(USE_WEBSOCKET_SERVER OFF)","USE_SPINE":"set(USE_SPINE ON)","USE_DRAGONBONES":"set(USE_DRAGONBONES ON)","CC_USE_METAL":"set(CC_USE_METAL ON)","MACOSX_BUNDLE_GUI_IDENTIFIER":"set(MACOSX_BUNDLE_GUI_IDENTIFIER PokerGTech)","DEVELOPMENT_TEAM":"set(DEVELOPMENT_TEAM 79RF53F62V)","TARGET_IOS_VERSION":"set(TARGET_IOS_VERSION 13.0)","USE_PORTRAIT":"set(USE_PORTRAIT OFF)","CUSTOM_COPY_RESOURCE_HOOK":"set(CUSTOM_COPY_RESOURCE_HOOK ON)"}
+3-10-2023 17:43:12-log: Validating template consistency...
+3-10-2023 17:43:12-log: Checking template version...
+3-10-2023 17:43:12-log: While replace template content, file /Users/zuno/Desktop/ZUNO/coco-poker/build/ios-001/proj/settings.gradle
+3-10-2023 17:43:12-log: While replace template content, file /Users/zuno/Desktop/ZUNO/coco-poker/native/engine/ios/res/values/strings.xml
+3-10-2023 17:43:12-log: While replace template content, file /Users/zuno/Desktop/ZUNO/coco-poker/build/ios-001/proj/main.m
+3-10-2023 17:43:12-log: While replace template content, file /Users/zuno/Desktop/ZUNO/coco-poker/build/ios-001/proj/main.cpp
+3-10-2023 17:43:12-log: While replace template content, file /Users/zuno/Desktop/ZUNO/coco-poker/native/engine/ios/app/AndroidManifest.xml
+3-10-2023 17:43:12-log: While replace template content, file /Users/zuno/Desktop/ZUNO/coco-poker/native/engine/ios/instantapp/build.gradle
+3-10-2023 17:43:12-log: While replace template content, file /Users/zuno/Desktop/ZUNO/coco-poker/native/engine/ios/app/build.gradle
+3-10-2023 17:43:12-log: While replace template content, file /Users/zuno/Desktop/ZUNO/coco-poker/native/engine/ios/entry/src/main/config.json
+3-10-2023 17:43:12-log: While replace template content, file /Users/zuno/Desktop/ZUNO/coco-poker/native/engine/ios/instantapp/AndroidManifest.xml
+3-10-2023 17:43:12-debug: // ---- build task native：onAfterCompressSettings ---- (15ms)
+3-10-2023 17:43:12-debug: // ---- build task cocos-service：onAfterCompressSettings ----
+3-10-2023 17:43:12-debug: Process: heapTotal 279.02MB heapUsed 258.33MB rss 342.78MB
+3-10-2023 17:43:12-debug: native:(onAfterCompressSettings) in 15 ms82%
+3-10-2023 17:43:12-debug: cocos-service:(onAfterCompressSettings) start...82%
+3-10-2023 17:43:13-debug: cocos-service:(onAfterCompressSettings) in 252 ms83%
+3-10-2023 17:43:13-debug: // ---- build task cocos-service：onAfterCompressSettings ---- (252ms)
+3-10-2023 17:43:13-debug: Process: heapTotal 279.02MB heapUsed 259.64MB rss 342.44MB
+3-10-2023 17:43:13-debug: native:(onAfterBuild) start...83%
+3-10-2023 17:43:13-debug: // ---- build task native：onAfterBuild ----
+3-10-2023 17:43:13-log: Skip xcode project update
+3-10-2023 17:43:13-debug: // ---- build task native：onAfterBuild ---- (7ms)
+3-10-2023 17:43:13-debug: // ---- build task cocos-service：onAfterBuild ----
+3-10-2023 17:43:13-debug: cocos-service:(onAfterBuild) start...84%
+3-10-2023 17:43:13-debug: Process: heapTotal 279.34MB heapUsed 253.77MB rss 343.16MB
+3-10-2023 17:43:13-debug: native:(onAfterBuild) in 7 ms84%
+3-10-2023 17:43:13-debug: cocos-service:(onAfterBuild) in 323 ms86%
+3-10-2023 17:43:13-debug: // ---- build task cocos-service：onAfterBuild ---- (323ms)
+3-10-2023 17:43:13-log: Asset DB is resume!
+3-10-2023 17:43:13-debug: builder:build-project-total (21201ms)
+3-10-2023 17:43:13-debug: build success in 21201 ms!
+3-10-2023 17:43:13-debug: ================================ Build Task (ios-001) Finished in (21206)ms ================================

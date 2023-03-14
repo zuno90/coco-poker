@@ -1,0 +1,90 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ĐĂNG NHẬP",
+    "atlas": "",
+    "rect": {
+      "x": 1,
+      "y": 0,
+      "width": 906,
+      "height": 173
+    },
+    "offset": {
+      "x": 0.5,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 907,
+      "height": 173
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "vertices": {
+      "rawPosition": [
+        -453,
+        -86.5,
+        0,
+        453,
+        -86.5,
+        0,
+        -453,
+        86.5,
+        0,
+        453,
+        86.5,
+        0
+      ],
+      "indexes": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        3
+      ],
+      "uv": [
+        1,
+        173,
+        907,
+        173,
+        1,
+        0,
+        907,
+        0
+      ],
+      "nuv": [
+        0.0011025358324145535,
+        0,
+        1,
+        0,
+        0.0011025358324145535,
+        1,
+        1,
+        1
+      ],
+      "minPos": {
+        "x": -453,
+        "y": -86.5,
+        "z": 0
+      },
+      "maxPos": {
+        "x": 453,
+        "y": 86.5,
+        "z": 0
+      }
+    },
+    "texture": "ace024bd-11ab-4cfe-a04f-1c1d53e180a7@6c48a",
+    "packable": true,
+    "pixelsToUnit": 100,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "meshType": 0
+  }
+}

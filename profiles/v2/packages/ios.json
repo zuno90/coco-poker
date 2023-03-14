@@ -28,7 +28,7 @@
         },
         "targetVersion": "13.0",
         "__version__": "1.0.0",
-        "developerTeam": "79RF53F62V_929AA5E05E5A01298519FA992CFED384191F7846"
+        "developerTeam": "79RF53F62V_175A8848F82877CC1CF3F21B5D3881AEB4260F6D"
       }
     },
     "taskOptionsMap": {
@@ -51,6 +51,46 @@
         "targetVersion": "13.0",
         "__version__": "1.0.0",
         "developerTeam": "79RF53F62V_929AA5E05E5A01298519FA992CFED384191F7846"
+      },
+      "1678440568537": {
+        "packageName": "PokerGTech",
+        "renderBackEnd": {
+          "metal": true
+        },
+        "skipUpdateXcodeProject": true,
+        "orientation": {
+          "portrait": false,
+          "upsideDown": false,
+          "landscapeRight": true,
+          "landscapeLeft": true
+        },
+        "osTarget": {
+          "iphoneos": false,
+          "simulator": true
+        },
+        "targetVersion": "13.0",
+        "__version__": "1.0.0",
+        "developerTeam": "79RF53F62V_175A8848F82877CC1CF3F21B5D3881AEB4260F6D"
+      },
+      "1678441047333": {
+        "packageName": "PokerGTech",
+        "renderBackEnd": {
+          "metal": true
+        },
+        "skipUpdateXcodeProject": true,
+        "orientation": {
+          "portrait": false,
+          "upsideDown": false,
+          "landscapeRight": true,
+          "landscapeLeft": true
+        },
+        "osTarget": {
+          "iphoneos": false,
+          "simulator": true
+        },
+        "targetVersion": "13.0",
+        "__version__": "1.0.0",
+        "developerTeam": "79RF53F62V_175A8848F82877CC1CF3F21B5D3881AEB4260F6D"
       }
     },
     "__version__": "1.3.4"

@@ -1,7 +1,7 @@
 {
   "modules": {
     "cce:/internal/x/cc": {
-      "mTimestamp": 4325.620000004768,
+      "mTimestamp": 3783.0315828323364,
       "chunkId": "02454ce52c24527a6d11792cfd90549c5b418480",
       "imports": [
         {
@@ -430,11 +430,11 @@
       ]
     },
     "cce:/internal/x/prerequisite-imports": {
-      "mTimestamp": 19413.852834016085,
-      "chunkId": "6b8f85b7feaee65395ce6b5e8080983e7f56d534",
+      "mTimestamp": 3285254.3076660633,
+      "chunkId": "81f8328c7be0c220fb61ce3b3d83142aaaeeda06",
       "imports": [
         {
-          "value": "file:///Users/apple/Documents/Dads/coco-poker/assets/scripts/Login.ts",
+          "value": "file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/__types__/layout.type.ts",
           "resolved": "__unresolved_0",
           "loc": {
             "start": {
@@ -443,7 +443,161 @@
             },
             "end": {
               "line": 4,
-              "column": 78
+              "column": 83
+            }
+          }
+        },
+        {
+          "value": "file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/__types__/room-level-type.ts",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 7
+            },
+            "end": {
+              "line": 5,
+              "column": 87
+            }
+          }
+        },
+        {
+          "value": "file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/ColyseusNetwork.ts",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 6,
+              "column": 7
+            },
+            "end": {
+              "line": 6,
+              "column": 85
+            }
+          }
+        },
+        {
+          "value": "file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/Config.ts",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 7,
+              "column": 7
+            },
+            "end": {
+              "line": 7,
+              "column": 76
+            }
+          }
+        },
+        {
+          "value": "file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/auth/Login.ts",
+          "resolved": "__unresolved_4",
+          "loc": {
+            "start": {
+              "line": 8,
+              "column": 7
+            },
+            "end": {
+              "line": 8,
+              "column": 80
+            }
+          }
+        },
+        {
+          "value": "file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/loading/Loading.ts",
+          "resolved": "__unresolved_5",
+          "loc": {
+            "start": {
+              "line": 9,
+              "column": 7
+            },
+            "end": {
+              "line": 9,
+              "column": 85
+            }
+          }
+        },
+        {
+          "value": "file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/LobbyLayout.ts",
+          "resolved": "__unresolved_6",
+          "loc": {
+            "start": {
+              "line": 10,
+              "column": 7
+            },
+            "end": {
+              "line": 10,
+              "column": 87
+            }
+          }
+        },
+        {
+          "value": "file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/MyProfile.ts",
+          "resolved": "__unresolved_7",
+          "loc": {
+            "start": {
+              "line": 11,
+              "column": 7
+            },
+            "end": {
+              "line": 11,
+              "column": 85
+            }
+          }
+        },
+        {
+          "value": "file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/RoomSelect.ts",
+          "resolved": "__unresolved_8",
+          "loc": {
+            "start": {
+              "line": 12,
+              "column": 7
+            },
+            "end": {
+              "line": 12,
+              "column": 86
+            }
+          }
+        },
+        {
+          "value": "file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/Setting.ts",
+          "resolved": "__unresolved_9",
+          "loc": {
+            "start": {
+              "line": 13,
+              "column": 7
+            },
+            "end": {
+              "line": 13,
+              "column": 83
+            }
+          }
+        },
+        {
+          "value": "file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/main.ts",
+          "resolved": "__unresolved_10",
+          "loc": {
+            "start": {
+              "line": 14,
+              "column": 7
+            },
+            "end": {
+              "line": 14,
+              "column": 74
+            }
+          }
+        },
+        {
+          "value": "file:///Users/zuno/Desktop/ZUNO/coco-poker/extensions/colyseus-sdk/runtime/colyseus.js",
+          "resolved": "__unresolved_11",
+          "loc": {
+            "start": {
+              "line": 15,
+              "column": 7
+            },
+            "end": {
+              "line": 15,
+              "column": 95
             }
           }
         }
@@ -453,18 +607,592 @@
         {
           "resolved": {
             "type": "module",
-            "url": "file:///Users/apple/Documents/Dads/coco-poker/assets/scripts/Login.ts"
+            "url": "file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/__types__/layout.type.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/__types__/room-level-type.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/ColyseusNetwork.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/Config.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/auth/Login.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/loading/Loading.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/LobbyLayout.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/MyProfile.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/RoomSelect.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/Setting.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/main.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/zuno/Desktop/ZUNO/coco-poker/extensions/colyseus-sdk/runtime/colyseus.mjs?cjs=&original=.js"
           },
           "messages": []
         }
       ]
     },
-    "file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/Login.ts": {
+    "file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/__types__/layout.type.ts": {
       "mTimestamp": {
-        "mtime": 1678269323436.8635,
+        "mtime": 1678730095790.9465,
+        "uuid": "01adeeee-c9ba-481a-881c-51aadcb68b52"
+      },
+      "chunkId": "864947116f14689abe89d5dc947c93c98765bb42",
+      "imports": [
+        {
+          "value": "cc"
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/ColyseusNetwork.ts": {
+      "mTimestamp": {
+        "mtime": 1678643226263.3538,
+        "uuid": "b2b43659-bbf8-4a66-ae65-f7d44abfb63f"
+      },
+      "chunkId": "41adb254b26c7dfabe85e9873c06e38342dd953a",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 38
+            },
+            "end": {
+              "line": 1,
+              "column": 42
+            }
+          }
+        },
+        {
+          "value": "db://colyseus-sdk/colyseus.js",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 21
+            },
+            "end": {
+              "line": 2,
+              "column": 52
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/zuno/Desktop/ZUNO/coco-poker/extensions/colyseus-sdk/runtime/colyseus.mjs?cjs=&original=.js"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "cce:/internal/code-quality/cr.mjs": {
+      "mTimestamp": 1678770877048,
+      "chunkId": "3a1fd7b13056478820ebedd306d3446d1aa408cc",
+      "imports": [],
+      "type": "esm",
+      "resolutions": []
+    },
+    "file:///Users/zuno/Desktop/ZUNO/coco-poker/extensions/colyseus-sdk/runtime/colyseus.mjs?cjs=&original=.js": {
+      "mTimestamp": 1623185760000,
+      "chunkId": "3962e709603caaf7cf9237a9b267c66d5fb6c73f",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "./colyseus.js",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 36
+            },
+            "end": {
+              "line": 2,
+              "column": 51
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/ml/cjs-loader.mjs",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 19
+            },
+            "end": {
+              "line": 3,
+              "column": 52
+            }
+          }
+        },
+        {
+          "value": "./colyseus.js",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 8,
+              "column": 14
+            },
+            "end": {
+              "line": 8,
+              "column": 29
+            }
+          }
+        },
+        {
+          "value": "./colyseus.js",
+          "resolved": "__unresolved_4",
+          "loc": {
+            "start": {
+              "line": 9,
+              "column": 29
+            },
+            "end": {
+              "line": 9,
+              "column": 44
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/zuno/Desktop/ZUNO/coco-poker/extensions/colyseus-sdk/runtime/colyseus.js"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/ml/cjs-loader.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/zuno/Desktop/ZUNO/coco-poker/extensions/colyseus-sdk/runtime/colyseus.js"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/zuno/Desktop/ZUNO/coco-poker/extensions/colyseus-sdk/runtime/colyseus.js"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/zuno/Desktop/ZUNO/coco-poker/extensions/colyseus-sdk/runtime/colyseus.js": {
+      "mTimestamp": {
+        "mtime": 1623185760000,
+        "uuid": "b554cfc3-98f3-4c04-ac8b-fd4ca2621ffb"
+      },
+      "chunkId": "f3735c81566716c27c35732dbe10f2d6f3d339bc",
+      "imports": [
+        {
+          "value": "cce:/internal/ml/cjs-loader.mjs",
+          "resolved": "__unresolved_0",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 23
+            },
+            "end": {
+              "line": 1,
+              "column": 56
+            }
+          }
+        }
+      ],
+      "type": "commonjs",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/ml/cjs-loader.mjs"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "cce:/internal/ml/cjs-loader.mjs": {
+      "mTimestamp": 1678770877048,
+      "chunkId": "bfe72779096c71ed4dc3545a580f7065d44c03f9",
+      "imports": [],
+      "type": "esm",
+      "resolutions": []
+    },
+    "file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/Config.ts": {
+      "mTimestamp": {
+        "mtime": 1678722971528.042,
+        "uuid": "c9609a1f-d755-460f-864c-c97153db0e2f"
+      },
+      "chunkId": "83743909961ac692352de5da02c72451b6892baf",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 43
+            },
+            "end": {
+              "line": 1,
+              "column": 47
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/auth/Login.ts": {
+      "mTimestamp": {
+        "mtime": 1678641307688.8438,
         "uuid": "91d97c05-b360-44e2-9cbc-81fbb90510dd"
       },
-      "chunkId": "8c2d2a5a51b2f1d0023b7246cca0a4d18f525d10",
+      "chunkId": "6518afaab29c50e00a068c7e3a36993abdcda2ea",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 38
+            },
+            "end": {
+              "line": 1,
+              "column": 42
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/loading/Loading.ts": {
+      "mTimestamp": {
+        "mtime": 1678767261297.5305,
+        "uuid": "e2dc4e6b-67ff-4c3d-aebf-c1cdb8507e4b"
+      },
+      "chunkId": "9954975fe884debcaa699211a2d1ad699c9af3ab",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 71
+            },
+            "end": {
+              "line": 1,
+              "column": 75
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/LobbyLayout.ts": {
+      "mTimestamp": {
+        "mtime": 1678727771461.7358,
+        "uuid": "98141165-10fb-4fdc-9aa8-b64d9b37e758"
+      },
+      "chunkId": "09c465d0824d999ef64d847603394cb3b7054d33",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 48
+            },
+            "end": {
+              "line": 1,
+              "column": 52
+            }
+          }
+        },
+        {
+          "value": "db://assets/__types__/layout.type",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 28
+            },
+            "end": {
+              "line": 2,
+              "column": 63
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/__types__/layout.type.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/MyProfile.ts": {
+      "mTimestamp": {
+        "mtime": 1678724774155.3872,
+        "uuid": "0bd86f02-c26e-4895-b07d-ec7c08c3d26e"
+      },
+      "chunkId": "fc549406ca93c460ca47a33b7c1f802ece9e7dcf",
       "imports": [
         {
           "value": "cc"
@@ -511,12 +1239,201 @@
         }
       ]
     },
-    "file:///Users/myanhpham/Documents/coco-poker/assets/scripts/Login.ts": {
+    "file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/RoomSelect.ts": {
       "mTimestamp": {
-        "mtime": 1678274347639.1138,
-        "uuid": "91d97c05-b360-44e2-9cbc-81fbb90510dd"
+        "mtime": 1678726379251.0361,
+        "uuid": "262cd72b-36c2-4707-b68c-6b1d1a0e79ae"
       },
-      "chunkId": "8e5dda2722badc592809e493e7220072b632bd2c",
+      "chunkId": "6e7d5957796179bffb4dfae7e99a3ffd960132e0",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 48
+            },
+            "end": {
+              "line": 1,
+              "column": 52
+            }
+          }
+        },
+        {
+          "value": "db://assets/__types__/layout.type",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 28
+            },
+            "end": {
+              "line": 2,
+              "column": 63
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/__types__/layout.type.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/main.ts": {
+      "mTimestamp": {
+        "mtime": 1678767209395.3716,
+        "uuid": "1e2a98ad-3067-4796-8d79-bcb5be056ccc"
+      },
+      "chunkId": "194b1f222cc816fa3e88f45cc1fd2289d03bb487",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 48
+            },
+            "end": {
+              "line": 1,
+              "column": 52
+            }
+          }
+        },
+        {
+          "value": "db://assets/__types__/layout.type",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 28
+            },
+            "end": {
+              "line": 2,
+              "column": 63
+            }
+          }
+        },
+        {
+          "value": "db://assets/scripts/Config",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 23
+            },
+            "end": {
+              "line": 3,
+              "column": 51
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/__types__/layout.type.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/Config.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/__types__/room-level.type.ts": {
+      "mTimestamp": {
+        "mtime": 1678725371124.4106,
+        "uuid": "1b841fd1-bda2-40ec-a018-9eed79e38057"
+      },
+      "chunkId": "449a27b400151a7a48a5dd7e9506b27be227758c",
       "imports": [
         {
           "value": "cc"
@@ -563,13 +1480,39 @@
         }
       ]
     },
-    "file:///Users/apple/Documents/Dads/coco-poker/assets/scripts/Login.ts": {
+    "file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/__types__/room-level-type.ts": {
       "mTimestamp": {
-        "mtime": 1678274347000,
-        "uuid": "91d97c05-b360-44e2-9cbc-81fbb90510dd"
+        "mtime": 1678725432519.9412,
+        "uuid": "fe2c8839-2093-48b0-9dae-9a2a8399f211"
       },
-      "chunkId": "e9dec9625bba44ff7d61329d86a31a1e3ba59333",
+      "chunkId": "c6fea6a1c9fa51503d2c30c71150beac781e4f64",
       "imports": [
+        {
+          "value": "cc"
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/scripts/lobby/Setting.ts": {
+      "mTimestamp": {
+        "mtime": 1678774161749.4644,
+        "uuid": "06a84b86-1ed2-4dfe-bab3-b872893819c1"
+      },
+      "chunkId": "921c8119f681d04bd8d1ab5eac108a1c275a2648",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
         {
           "value": "cc"
         },
@@ -581,11 +1524,25 @@
           "loc": {
             "start": {
               "line": 1,
-              "column": 44
+              "column": 75
             },
             "end": {
               "line": 1,
-              "column": 48
+              "column": 79
+            }
+          }
+        },
+        {
+          "value": "db://assets/__types__/layout.type",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 28
+            },
+            "end": {
+              "line": 2,
+              "column": 63
             }
           }
         }
@@ -595,7 +1552,7 @@
         {
           "resolved": {
             "type": "module",
-            "url": "cce:/internal/x/cc"
+            "url": "cce:/internal/code-quality/cr.mjs"
           },
           "messages": []
         },
@@ -610,6 +1567,20 @@
           "resolved": {
             "type": "module",
             "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/zuno/Desktop/ZUNO/coco-poker/assets/__types__/layout.type.ts"
           },
           "messages": []
         }
